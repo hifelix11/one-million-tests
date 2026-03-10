@@ -1,0 +1,337 @@
+{
+  "slug": "vitamin-d-deficiency",
+  "title": "Vitamin-D-Mangel-Risikobewertung",
+  "shortTitle": "Vitamin D",
+  "description": "Bewerten Sie Ihr Vitamin-D-Mangel-Risiko mit unserem kostenlosen Quiz. Beurteilen Sie Sonneneinstrahlung, Ernährung, Symptome wie Knochenschmerzen und Müdigkeit in diesem evidenzbasierten Screening-Tool.",
+  "category": "vitamins-minerals",
+  "scientificBasis": "Basierend auf dem Vitamin-D-Mangel-Screening-Fragebogen (VDDQ) und der Risikofaktoranalyse, veröffentlicht im Journal of Clinical Endocrinology & Metabolism. Klinischer Mangel wird definiert als Serum-25(OH)D unter 20 ng/ml (50 nmol/l).",
+  "seoIntro": "Vitamin D, oft als „Sonnenvitamin“ bezeichnet, spielt eine entscheidende Rolle für die Knochengesundheit, die Immunfunktion, die Stimmungsregulation und die Muskelkraft. Im Gegensatz zu den meisten Vitaminen kann Ihr Körper Vitamin D produzieren, wenn Ihre Haut dem Sonnenlicht ausgesetzt ist – aber moderne Lebensweisen, nördliche Breitengrade und Sonnenschutzpraktiken führen dazu, dass ein Mangel weltweit bemerkenswert häufig ist.\n\nSchätzungsweise 1 Milliarde Menschen weltweit haben unzureichende Vitamin-D-Spiegel. Risikofaktoren umfassen begrenzte Sonneneinstrahlung, dunklere Hauttöne, Leben in hohen Breitengraden, Alterung, Adipositas und bestimmte Erkrankungen. Symptome können subtil sein – chronische Müdigkeit, Knochenschmerzen, Muskelschwäche, gedrückte Stimmung (besonders im Winter) und häufige Infektionen.\n\nDiese Selbstbewertung überprüft Ihre wichtigsten Risikofaktoren und Symptome anhand klinischer Screening-Kriterien, die von Endokrinologen und Hausärzten verwendet werden. Die Fragen umfassen Sonneneinstrahlung, Breitengrad, Nahrungsaufnahme, Nahrungsergänzung und häufige Mangelsymptome.\n\nDieses Quiz ist ein Informationswerkzeug und keine Diagnose. Wenn Ihre Ergebnisse auf ein erhöhtes Risiko hindeuten, empfehlen wir einen einfachen 25(OH)D-Bluttest, der der Goldstandard zur Beurteilung des Vitamin-D-Status ist. Wenden Sie sich an Ihren Arzt für Tests und eine individuelle Empfehlung zur Nahrungsergänzung.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Wie viel direkte Sonneneinstrahlung erhalten Sie täglich auf unbedeckter Haut (Arme/Gesicht)?",
+      "options": [
+        {
+          "label": "Täglich 30+ Minuten im Freien",
+          "value": 0
+        },
+        {
+          "label": "An den meisten Tagen 15–30 Minuten",
+          "value": 1
+        },
+        {
+          "label": "An den meisten Tagen weniger als 15 Minuten",
+          "value": 2
+        },
+        {
+          "label": "Ich gehe selten nach draußen oder trage immer Sonnenschutz/bedeckende Kleidung",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Wie alt sind Sie?",
+      "options": [
+        {
+          "label": "Unter 30",
+          "value": 0
+        },
+        {
+          "label": "30–45",
+          "value": 1
+        },
+        {
+          "label": "46–60",
+          "value": 2
+        },
+        {
+          "label": "Über 60",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Auf welchem Breitengrad leben Sie?",
+      "options": [
+        {
+          "label": "Tropisch oder subtropisch — unter 35°N/S",
+          "value": 0
+        },
+        {
+          "label": "Gemäßigt — 35–45°N/S",
+          "value": 1
+        },
+        {
+          "label": "Nördlich/Südlich — 45–55°N/S",
+          "value": 2
+        },
+        {
+          "label": "Hoher Norden/Süden — über 55°N/S",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Was ist Ihr natürlicher Hautton?",
+      "options": [
+        {
+          "label": "Hell bis mittel",
+          "value": 0
+        },
+        {
+          "label": "Sehr hell — bekommt leicht Sonnenbrand",
+          "value": 1
+        },
+        {
+          "label": "Mittel bis oliv",
+          "value": 2
+        },
+        {
+          "label": "Dunkelbraun bis schwarz",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Haben Sie Knochenschmerzen, besonders im unteren Rücken, in den Hüften oder Beinen?",
+      "options": [
+        {
+          "label": "Nie",
+          "value": 0
+        },
+        {
+          "label": "Gelegentlich",
+          "value": 1
+        },
+        {
+          "label": "Häufig",
+          "value": 2
+        },
+        {
+          "label": "Chronisch",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Haben Sie Muskelschwäche, Krämpfe oder Schmerzen ohne erkennbare Ursache?",
+      "options": [
+        {
+          "label": "Selten",
+          "value": 0
+        },
+        {
+          "label": "Manchmal",
+          "value": 1
+        },
+        {
+          "label": "Häufig",
+          "value": 2
+        },
+        {
+          "label": "Sehr häufig",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Wie würden Sie Ihre Stimmung in den Wintermonaten beschreiben?",
+      "options": [
+        {
+          "label": "Keine Veränderung — ich fühle mich das ganze Jahr über gut",
+          "value": 0
+        },
+        {
+          "label": "Leicht gedrückte Stimmung im Winter",
+          "value": 1
+        },
+        {
+          "label": "Merklich schlechtere Stimmung, weniger Motivation",
+          "value": 2
+        },
+        {
+          "label": "Starker Stimmungsabfall — mögliche saisonale Depression",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Wie oft konsumieren Sie Vitamin-D-reiche Lebensmittel (fetter Fisch, Eigelb, angereicherte Milch/Cerealien)?",
+      "options": [
+        {
+          "label": "Täglich",
+          "value": 0
+        },
+        {
+          "label": "Mehrmals pro Woche",
+          "value": 1
+        },
+        {
+          "label": "Selten",
+          "value": 2
+        },
+        {
+          "label": "Fast nie",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Nehmen Sie ein Vitamin-D-Präparat ein?",
+      "options": [
+        {
+          "label": "Ja, regelmäßig",
+          "value": 0
+        },
+        {
+          "label": "Gelegentlich",
+          "value": 1
+        },
+        {
+          "label": "Ich habe es genommen, aber aufgehört",
+          "value": 2
+        },
+        {
+          "label": "Nie",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Hatten Sie Ermüdungsbrüche oder wurde Ihnen eine niedrige Knochendichte mitgeteilt?",
+      "options": [
+        {
+          "label": "Nein",
+          "value": 0
+        },
+        {
+          "label": "Ich hatte einen Ermüdungsbruch",
+          "value": 1
+        },
+        {
+          "label": "Mehrere Brüche oder ein Knochendichteproblem",
+          "value": 2
+        },
+        {
+          "label": "Diagnostizierte Osteopenie oder Osteoporose",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Fühlen Sie sich häufig müde, auch nach ausreichend Schlaf?",
+      "options": [
+        {
+          "label": "Selten",
+          "value": 0
+        },
+        {
+          "label": "Manchmal",
+          "value": 1
+        },
+        {
+          "label": "Häufig",
+          "value": 2
+        },
+        {
+          "label": "Fast immer",
+          "value": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "minScore": 0,
+      "maxScore": 7,
+      "tier": "Niedriges Risiko",
+      "title": "Niedriges Risiko — Vitamin-D-Status wahrscheinlich ausreichend",
+      "description": "Ihr Lebensstil und Ihre Symptome deuten auf ausreichende Vitamin-D-Spiegel hin. Setzen Sie Ihre bisherigen Gewohnheiten fort, einschließlich regelmäßiger Sonneneinstrahlung und Vitamin-D-reicher Nahrungsquellen.",
+      "recommendations": [
+        "Behalten Sie regelmäßige Sonneneinstrahlung und die Aufnahme von Vitamin-D-reichen Lebensmitteln bei",
+        "Setzen Sie die aktuelle Nahrungsergänzung fort, falls zutreffend"
+      ],
+      "color": "green"
+    },
+    {
+      "minScore": 8,
+      "maxScore": 14,
+      "tier": "Leichtes Risiko",
+      "title": "Leichtes Risiko — Einige Vitamin-D-Risikofaktoren vorhanden",
+      "description": "Einige Risikofaktoren sind vorhanden. Erwägen Sie einen 25(OH)D-Bluttest, insbesondere wenn Sie in einem nördlichen Breitengrad leben oder nur begrenzte Sonneneinstrahlung haben.",
+      "recommendations": [
+        "Erwägen Sie einen 25(OH)D-Bluttest",
+        "Erhöhen Sie den Verzehr von Vitamin-D-reichen Lebensmitteln (fetter Fisch, angereicherte Milchprodukte, Eier)",
+        "Erwägen Sie ein Vitamin-D3-Präparat mit 1000 IE/Tag",
+        "Versuchen Sie, wenn möglich 15–30 Minuten Mittagssonne zu bekommen"
+      ],
+      "color": "yellow"
+    },
+    {
+      "minScore": 15,
+      "maxScore": 22,
+      "tier": "Mittleres Risiko",
+      "title": "Mittleres Risiko — Vitamin-D-Insuffizienz wahrscheinlich",
+      "description": "Mehrere Risikofaktoren und Symptome deuten auf eine Vitamin-D-Insuffizienz hin. Ein Bluttest und eine Besprechung der Nahrungsergänzung mit Ihrem Arzt werden empfohlen.",
+      "recommendations": [
+        "Bitten Sie Ihren Arzt um einen 25(OH)D-Bluttest",
+        "Besprechen Sie eine Vitamin-D3-Supplementierung (1000–2000 IE/Tag)",
+        "Erhöhen Sie die Vitamin-D-Aufnahme über die Nahrung",
+        "Erwägen Sie eine Knochendichtemessung, falls Sie Knochenbrüche in der Vorgeschichte haben"
+      ],
+      "color": "orange"
+    },
+    {
+      "minScore": 23,
+      "maxScore": 33,
+      "tier": "Hohes Risiko",
+      "title": "Hohes Risiko — Möglicher Vitamin-D-Mangel",
+      "description": "Starkes Risikoprofil für einen Vitamin-D-Mangel. Lassen Sie einen 25(OH)D-Bluttest durchführen. Eine Supplementierung von 1000–4000 IE/Tag wird bis zum Vorliegen der Laborergebnisse häufig empfohlen.",
+      "recommendations": [
+        "Suchen Sie Ihren Arzt für einen 25(OH)D-Bluttest auf",
+        "Besprechen Sie eine hochdosierte Vitamin-D3-Supplementierung",
+        "Fordern Sie eine umfassende Beurteilung der Knochengesundheit an",
+        "Besprechen Sie alle Risikofaktoren mit Ihrem Arzt für einen individuellen Plan"
+      ],
+      "color": "red"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Was ist der beste Weg, um einen Vitamin-D-Mangel zu testen?",
+      "answer": "Der 25-Hydroxyvitamin-D-[25(OH)D]-Bluttest ist der Goldstandard. Werte unter 20 ng/ml weisen auf einen Mangel hin, 20–29 ng/ml auf eine Insuffizienz, und 30+ ng/ml gelten bei den meisten Experten als ausreichend."
+    },
+    {
+      "question": "Wie viel Vitamin D brauche ich täglich?",
+      "answer": "Die empfohlene Tagesdosis beträgt 600 IE für Erwachsene unter 70 Jahren und 800 IE für Personen über 70 Jahre. Viele Experten empfehlen jedoch 1000–2000 IE täglich, insbesondere für Personen mit begrenzter Sonneneinstrahlung oder in nördlichen Breitengraden."
+    },
+    {
+      "question": "Kann ich genug Vitamin D allein durch Sonnenlicht bekommen?",
+      "answer": "Das hängt von Ihrem Breitengrad, Hautton, der Jahreszeit und Ihren Gewohnheiten bezüglich Sonneneinstrahlung ab. Menschen, die oberhalb des 35. nördlichen Breitengrades leben, können in den Wintermonaten nicht genügend Vitamin D durch Sonnenlicht produzieren. Dunkelhäutige Personen benötigen deutlich mehr Sonneneinstrahlung."
+    },
+    {
+      "question": "Welche Lebensmittel enthalten am meisten Vitamin D?",
+      "answer": "Fetter Fisch (Lachs, Makrele, Sardinen) ist die reichhaltigste natürliche Quelle. Eigelb, angereicherte Milch, angereicherter Orangensaft und angereicherte Cerealien tragen ebenfalls bei. Lebertran ist extrem reich an Vitamin D, sollte aber mit Vorsicht verwendet werden."
+    }
+  ],
+  "relatedSlugs": [
+    "calcium-deficiency",
+    "magnesium-deficiency",
+    "vitamin-b12-deficiency"
+  ],
+  "sources": [
+    "Holick, M.F. (2007). Vitamin D Deficiency. New England Journal of Medicine, 357(3), 266-281.",
+    "National Institutes of Health. Office of Dietary Supplements — Vitamin D Fact Sheet.",
+    "Amrein, K. et al. (2020). Vitamin D deficiency 2.0: an update on the current status worldwide. European Journal of Clinical Nutrition, 74, 1498-1513."
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "slug": "potassium-deficiency",
+  "title": "Kaliummangel-Risikobewertung",
+  "shortTitle": "Kalium",
+  "description": "Bewerten Sie Ihr Kaliummangel-Risiko mit unserem kostenlosen Quiz. Prüfen Sie Symptome wie Muskelschwäche, Krämpfe, Herzrasen und Müdigkeit in diesem klinischen Screening.",
+  "category": "vitamins-minerals",
+  "scientificBasis": "Basierend auf klinischen Hypokaliämie-Symptomen (Serum-K+ unter 3,5 mmol/L) und den Zusammenhängen der INTERSALT-Studie zur Kaliumaufnahme über die Nahrung. Die angemessene Zufuhr beträgt 2600–3400 mg/Tag gemäß den National Academies.",
+  "seoIntro": "Kalium ist einer der wichtigsten Elektrolyte in Ihrem Körper und für die ordnungsgemäße Muskelkontraktion, Nervensignalübertragung, den Flüssigkeitshaushalt und die Herzrhythmusregulation unerlässlich. Es arbeitet zusammen mit Natrium, um die Zellfunktion aufrechtzuerhalten — und die meisten Erwachsenen nehmen im Verhältnis zu Kalium viel zu viel Natrium zu sich.\n\nDie National Academies empfehlen täglich 2.600–3.400 mg Kalium, dennoch zeigen Erhebungen durchgehend, dass die meisten Erwachsenen dieses Ziel nicht erreichen. Niedriges Kalium (Hypokaliämie) kann von leicht — mit Muskelschwäche, Krämpfen und Müdigkeit — bis schwer reichen, wobei es gefährliche Herzrhythmusstörungen verursachen kann.\n\nMehrere Faktoren erhöhen Ihr Risiko für Kaliumverlust: starkes Schwitzen durch Sport oder Hitze, Diuretika- oder Abführmitteleinnahme, übermäßige Natriumzufuhr durch verarbeitete Lebensmittel und gastrointestinale Verluste durch chronisches Erbrechen oder Durchfall. Nierenerkrankungen können ebenfalls den Kaliumhaushalt stören.\n\nDiese Selbsteinschätzung bewertet Ihre Kaliumaufnahme über die Nahrung, Risikofaktoren und Symptome anhand klinischer Kriterien für Kaliuminsuffizienz. Wenn Ihre Ergebnisse auf Bedenken hindeuten, kann ein einfaches Stoffwechselpanel (BMP) als Bluttest schnell Ihren Serumkaliumspiegel bestimmen. Da Kalium die Herzfunktion direkt beeinflusst, sollte ein erheblicher Mangel nicht ignoriert werden.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Wie oft essen Sie kaliumreiche Lebensmittel (Bananen, Kartoffeln, Spinat, Avocados, Bohnen)?",
+      "options": [
+        {
+          "label": "Mehrere Portionen täglich",
+          "value": 0
+        },
+        {
+          "label": "1–2 Portionen täglich",
+          "value": 1
+        },
+        {
+          "label": "Ein paar Mal pro Woche",
+          "value": 2
+        },
+        {
+          "label": "Selten",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Wie alt sind Sie?",
+      "options": [
+        {
+          "label": "Unter 30",
+          "value": 0
+        },
+        {
+          "label": "30–45",
+          "value": 1
+        },
+        {
+          "label": "46–60",
+          "value": 2
+        },
+        {
+          "label": "Über 60",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Leiden Sie unter Muskelschwäche oder Müdigkeit?",
+      "options": [
+        {
+          "label": "Selten",
+          "value": 0
+        },
+        {
+          "label": "Gelegentlich",
+          "value": 1
+        },
+        {
+          "label": "Häufig",
+          "value": 2
+        },
+        {
+          "label": "Dauerhaft",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Leiden Sie unter Muskelkrämpfen oder Steifheit?",
+      "options": [
+        {
+          "label": "Selten",
+          "value": 0
+        },
+        {
+          "label": "Gelegentlich",
+          "value": 1
+        },
+        {
+          "label": "Häufig",
+          "value": 2
+        },
+        {
+          "label": "Sehr häufig",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Erleben Sie Herzrasen oder unregelmäßigen Herzschlag?",
+      "options": [
+        {
+          "label": "Nie",
+          "value": 0
+        },
+        {
+          "label": "Selten",
+          "value": 1
+        },
+        {
+          "label": "Manchmal",
+          "value": 2
+        },
+        {
+          "label": "Häufig",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Nehmen Sie Diuretika oder Abführmittel ein?",
+      "options": [
+        {
+          "label": "Nein",
+          "value": 0
+        },
+        {
+          "label": "Gelegentlich",
+          "value": 1
+        },
+        {
+          "label": "Regelmäßig",
+          "value": 2
+        },
+        {
+          "label": "Häufig / hohe Dosis",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Wie stark schwitzen Sie täglich durch Sport oder Hitze?",
+      "options": [
+        {
+          "label": "Leichtes Schwitzen gelegentlich",
+          "value": 0
+        },
+        {
+          "label": "Mäßiges Schwitzen an den meisten Tagen",
+          "value": 1
+        },
+        {
+          "label": "Starkes Schwitzen täglich",
+          "value": 2
+        },
+        {
+          "label": "Extremes Schwitzen (Leistungssport, körperliche Arbeit bei Hitze)",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Erleben Sie Kribbeln oder Taubheitsgefühl in den Extremitäten?",
+      "options": [
+        {
+          "label": "Nie",
+          "value": 0
+        },
+        {
+          "label": "Selten",
+          "value": 1
+        },
+        {
+          "label": "Manchmal",
+          "value": 2
+        },
+        {
+          "label": "Oft",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Leiden Sie unter Blähungen oder Verstopfung?",
+      "options": [
+        {
+          "label": "Selten",
+          "value": 0
+        },
+        {
+          "label": "Gelegentlich",
+          "value": 1
+        },
+        {
+          "label": "Häufig",
+          "value": 2
+        },
+        {
+          "label": "Chronisch",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Wie viel verarbeitete oder natriumreiche Nahrung essen Sie?",
+      "options": [
+        {
+          "label": "Sehr wenig — ich koche frisch",
+          "value": 0
+        },
+        {
+          "label": "Einige verarbeitete Lebensmittel",
+          "value": 1
+        },
+        {
+          "label": "Häufig verarbeitete Lebensmittel/Fast Food",
+          "value": 2
+        },
+        {
+          "label": "Der Großteil meiner Ernährung ist verarbeitet",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Haben Sie eine Nierenerkrankung oder Magen-Darm-Probleme (Erbrechen, Durchfall)?",
+      "options": [
+        {
+          "label": "Nein",
+          "value": 0
+        },
+        {
+          "label": "Gelegentliche Magen-Darm-Beschwerden",
+          "value": 1
+        },
+        {
+          "label": "Chronische Magen-Darm-Erkrankung",
+          "value": 2
+        },
+        {
+          "label": "Nierenerkrankung oder chronische Magen-Darm-Probleme",
+          "value": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "minScore": 0,
+      "maxScore": 7,
+      "tier": "Niedriges Risiko",
+      "title": "Niedriges Risiko — Kaliumzufuhr wahrscheinlich ausreichend",
+      "description": "Kaliumzufuhr und Symptome erscheinen ausreichend. Setzen Sie Ihre bisherigen Ernährungsgewohnheiten fort.",
+      "recommendations": [
+        "Essen Sie weiterhin täglich kaliumreiche Lebensmittel",
+        "Achten Sie auf ausreichende Flüssigkeitszufuhr",
+        "Kein sofortiger Handlungsbedarf"
+      ],
+      "color": "green"
+    },
+    {
+      "minScore": 8,
+      "maxScore": 14,
+      "tier": "Leichtes Risiko",
+      "title": "Leichtes Risiko — Geringe Kalium-Risikofaktoren",
+      "description": "Geringe Risikofaktoren. Erhöhen Sie die Aufnahme kaliumreicher Lebensmittel und achten Sie auf Ihre Flüssigkeitszufuhr.",
+      "recommendations": [
+        "Erhöhen Sie die Aufnahme kaliumreicher Lebensmittel: Bananen, Süßkartoffeln, Spinat, Bohnen, Avocados",
+        "Trinken Sie ausreichend, besonders beim Sport",
+        "Reduzieren Sie die Natriumaufnahme durch verarbeitete Lebensmittel",
+        "Beobachten Sie Ihre Symptome und besprechen Sie diese beim nächsten Arztbesuch"
+      ],
+      "color": "yellow"
+    },
+    {
+      "minScore": 15,
+      "maxScore": 22,
+      "tier": "Mittleres Risiko",
+      "title": "Mittleres Risiko — Möglicherweise niedriges Kalium",
+      "description": "Mehrere Indikatoren für möglicherweise niedriges Kalium. Ein einfaches Stoffwechselpanel wird empfohlen.",
+      "recommendations": [
+        "Lassen Sie ein einfaches Stoffwechselpanel (BMP) als Bluttest durchführen",
+        "Besprechen Sie Ihre Symptome und Medikamente mit Ihrem Arzt",
+        "Erhöhen Sie die Aufnahme kaliumreicher Lebensmittel deutlich",
+        "Überprüfen Sie alle Medikamente, die Kalium abbauen könnten"
+      ],
+      "color": "orange"
+    },
+    {
+      "minScore": 23,
+      "maxScore": 33,
+      "tier": "Hohes Risiko",
+      "title": "Hohes Risiko — Mögliche Hypokaliämie",
+      "description": "Starkes Risikoprofil für Hypokaliämie. Suchen Sie ärztliche Hilfe — niedriges Kalium kann den Herzrhythmus beeinträchtigen.",
+      "recommendations": [
+        "Suchen Sie zeitnah Ihren Arzt auf — Auswirkungen auf den Herzrhythmus sind ernst zu nehmen",
+        "Lassen Sie ein einfaches Stoffwechselpanel und ein EKG durchführen",
+        "Nehmen Sie keine Kaliumpräparate ohne ärztliche Aufsicht ein",
+        "Besprechen Sie alle Medikamente und Risikofaktoren mit Ihrem Arzt"
+      ],
+      "color": "red"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Warum ist Kalium wichtig für die Herzgesundheit?",
+      "answer": "Kalium hilft bei der Regulierung des Herzrhythmus, indem es die elektrischen Impulse steuert, die Ihr Herz schlagen lassen. Niedriges Kalium kann unregelmäßigen Herzschlag (Arrhythmien) verursachen, der in schweren Fällen lebensbedrohlich sein kann. Deshalb werden Kaliumwerte in Krankenhäusern engmaschig überwacht."
+    },
+    {
+      "question": "Welche Lebensmittel enthalten am meisten Kalium?",
+      "answer": "Zu den besten Quellen gehören Süßkartoffeln (540 mg pro mittelgroße Kartoffel), Bananen (420 mg pro Stück), Spinat (840 mg pro gekochte Tasse), weiße Bohnen (1.000 mg pro Tasse), Avocados (700 mg pro Stück) und Lachs (500 mg pro Filet). Kokoswasser ist ebenfalls eine ausgezeichnete Quelle."
+    },
+    {
+      "question": "Kann ich Kaliumpräparate sicher einnehmen?",
+      "answer": "Frei verkäufliche Kaliumpräparate sind auf 99 mg pro Dosis begrenzt (weit unter dem Tagesbedarf), da überschüssiges Kalium gefährlich sein kann, insbesondere für Menschen mit Nierenerkrankungen. Hochdosiertes Kalium sollte nur unter ärztlicher Aufsicht eingenommen werden. Konzentrieren Sie sich zunächst auf Nahrungsquellen."
+    },
+    {
+      "question": "Wie beeinflusst Natrium den Kaliumspiegel?",
+      "answer": "Eine hohe Natriumaufnahme veranlasst Ihre Nieren, mehr Kalium auszuscheiden. Die typische westliche Ernährung ist sehr natriumreich und kaliumarm — das Gegenteil dessen, was Ihr Körper braucht. Die Reduzierung verarbeiteter Lebensmittel hilft sowohl Natrium zu senken als auch Kalium aus Vollwertkost zu erhöhen."
+    }
+  ],
+  "relatedSlugs": [
+    "magnesium-deficiency",
+    "calcium-deficiency",
+    "iron-deficiency"
+  ],
+  "sources": [
+    "National Academies of Sciences. (2019). Dietary Reference Intakes for Sodium and Potassium.",
+    "Weaver, C.M. (2013). Potassium and Health. Advances in Nutrition, 4(3), 368S-377S.",
+    "National Institutes of Health. Office of Dietary Supplements — Potassium Fact Sheet."
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "slug": "vitamin-b12-deficiency",
+  "title": "Vitamin-B12-Mangel-Risikobewertung",
+  "shortTitle": "Vitamin B12",
+  "description": "Überprüfen Sie Ihr Risiko für einen Vitamin-B12-Mangel mit unserer kostenlosen Bewertung. Beurteilen Sie Symptome wie Kribbeln, Gehirnnebel, Müdigkeit und ernährungsbedingte Risikofaktoren in diesem klinischen Screening.",
+  "category": "vitamins-minerals",
+  "scientificBasis": "Basierend auf klinischen Manifestationen eines Cobalamin-Mangels, wie sie im New England Journal of Medicine beschrieben werden, und den B12-Mangel-Screening-Kriterien der Grundversorgung. Ein Mangel wird definiert als Serum-B12 unter 200 pg/ml.",
+  "seoIntro": "Vitamin B12 (Cobalamin) ist essenziell für die Nervenfunktion, die Bildung roter Blutkörperchen, die DNA-Synthese und die Gehirngesundheit. Im Gegensatz zu vielen anderen Vitaminen kommt B12 fast ausschließlich in tierischen Produkten vor, wodurch Vegetarier und Veganer besonders anfällig für einen Mangel sind. Allerdings können auch Fleischesser aufgrund von Absorptionsproblemen, die mit zunehmendem Alter häufiger werden, einen B12-Mangel entwickeln.\n\nEin B12-Mangel entwickelt sich langsam und kann bei Nichtbehandlung zu irreversiblen neurologischen Schäden führen. Frühe Symptome umfassen Müdigkeit, Gehirnnebel, Stimmungsschwankungen und eine wunde Zunge. Bei fortschreitendem Mangel treten schwerwiegendere neurologische Symptome auf — Kribbeln und Taubheit in Händen und Füßen, Gleichgewichtsprobleme und Gedächtnisstörungen.\n\nBestimmte Medikamente (Metformin, Protonenpumpenhemmer) und Erkrankungen (perniziöse Anämie, Zöliakie) erhöhen Ihr Risiko erheblich. Erwachsene über 60 haben ein erhöhtes Risiko, da die Magensäureproduktion — die für die B12-Aufnahme benötigt wird — mit dem Alter natürlich abnimmt.\n\nDieses Screening-Tool bewertet Ihre Ernährung, Medikamenteneinnahme, altersbedingte Risikofaktoren und Symptome anhand klinischer Kriterien für eine B12-Insuffizienz. Es handelt sich nicht um eine Diagnose — wenn Ihre Ergebnisse Anlass zur Sorge geben, kann ein einfacher Bluttest auf Serum-B12 und Methylmalonsäure Ihren Status bestätigen.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Ernähren Sie sich vegetarisch oder vegan?",
+      "options": [
+        {
+          "label": "Nein — ich esse regelmäßig Fleisch, Fisch, Eier und Milchprodukte",
+          "value": 0
+        },
+        {
+          "label": "Pescetarisch oder flexitarisch",
+          "value": 1
+        },
+        {
+          "label": "Vegetarisch",
+          "value": 2
+        },
+        {
+          "label": "Vegan",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Wie alt sind Sie?",
+      "options": [
+        {
+          "label": "Unter 30",
+          "value": 0
+        },
+        {
+          "label": "30–45",
+          "value": 1
+        },
+        {
+          "label": "46–60",
+          "value": 2
+        },
+        {
+          "label": "Über 60",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Erleben Sie Kribbeln, Taubheit oder ein ‚Ameisenlaufen' in Ihren Händen oder Füßen?",
+      "options": [
+        {
+          "label": "Nie",
+          "value": 0
+        },
+        {
+          "label": "Selten",
+          "value": 1
+        },
+        {
+          "label": "Manchmal",
+          "value": 2
+        },
+        {
+          "label": "Häufig",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Haben Sie Schwierigkeiten mit dem Gleichgewicht oder der Koordination?",
+      "options": [
+        {
+          "label": "Keine Probleme",
+          "value": 0
+        },
+        {
+          "label": "Gelegentlich unsicher",
+          "value": 1
+        },
+        {
+          "label": "Spürbare Gleichgewichtsprobleme",
+          "value": 2
+        },
+        {
+          "label": "Häufiges Stolpern oder Koordinationsprobleme",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Wie würden Sie Ihr Gedächtnis und Ihre Konzentration in letzter Zeit beschreiben?",
+      "options": [
+        {
+          "label": "Scharf und klar",
+          "value": 0
+        },
+        {
+          "label": "Manchmal leicht benebelt",
+          "value": 1
+        },
+        {
+          "label": "Merklich nachlassend",
+          "value": 2
+        },
+        {
+          "label": "Erheblicher Gehirnnebel oder Gedächtnisprobleme",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Leiden Sie unter einer wunden, roten oder geschwollenen Zunge (Glossitis)?",
+      "options": [
+        {
+          "label": "Nie",
+          "value": 0
+        },
+        {
+          "label": "Selten",
+          "value": 1
+        },
+        {
+          "label": "Manchmal",
+          "value": 2
+        },
+        {
+          "label": "Häufig",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Sind Sie über 60 Jahre alt?",
+      "options": [
+        {
+          "label": "Unter 40",
+          "value": 0
+        },
+        {
+          "label": "40–54",
+          "value": 1
+        },
+        {
+          "label": "55–65",
+          "value": 2
+        },
+        {
+          "label": "Über 65",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Nehmen Sie eines der folgenden Medikamente ein: Metformin, Protonenpumpenhemmer (PPI) oder H2-Blocker?",
+      "options": [
+        {
+          "label": "Keines davon",
+          "value": 0
+        },
+        {
+          "label": "Eines davon gelegentlich",
+          "value": 1
+        },
+        {
+          "label": "Eines davon regelmäßig",
+          "value": 2
+        },
+        {
+          "label": "Mehrere oder Langzeiteinnahme",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Erleben Sie unerklärliche Stimmungsschwankungen, Reizbarkeit oder Depressionen?",
+      "options": [
+        {
+          "label": "Selten",
+          "value": 0
+        },
+        {
+          "label": "Manchmal",
+          "value": 1
+        },
+        {
+          "label": "Häufig",
+          "value": 2
+        },
+        {
+          "label": "Sehr häufig",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Fühlen Sie sich bei leichter Anstrengung kurzatmig oder schwindelig?",
+      "options": [
+        {
+          "label": "Nie",
+          "value": 0
+        },
+        {
+          "label": "Gelegentlich",
+          "value": 1
+        },
+        {
+          "label": "Häufig",
+          "value": 2
+        },
+        {
+          "label": "Sehr häufig",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Haben Sie eine blasse oder gelbliche Haut bemerkt?",
+      "options": [
+        {
+          "label": "Nein — meine Hautfarbe ist normal",
+          "value": 0
+        },
+        {
+          "label": "Etwas blasser als üblich",
+          "value": 1
+        },
+        {
+          "label": "Merklich blass",
+          "value": 2
+        },
+        {
+          "label": "Blass mit einem gelblichen Stich",
+          "value": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "minScore": 0,
+      "maxScore": 7,
+      "tier": "Niedriges Risiko",
+      "title": "Niedriges Risiko — B12-Status wahrscheinlich ausreichend",
+      "description": "Keine signifikanten Hinweise auf einen B12-Mangel. Ihre Ernährung und Symptome deuten auf ausreichende Cobalamin-Werte hin.",
+      "recommendations": [
+        "Setzen Sie Ihre aktuelle Ernährung mit reichhaltigen B12-Quellen fort",
+        "Kein sofortiger Handlungsbedarf"
+      ],
+      "color": "green"
+    },
+    {
+      "minScore": 8,
+      "maxScore": 14,
+      "tier": "Leichtes Risiko",
+      "title": "Leichtes Risiko — Einige B12-Risikofaktoren vorhanden",
+      "description": "Einige Risikofaktoren sind vorhanden. Wenn Sie sich pflanzlich ernähren oder über 55 sind, ist ein regelmäßiges Screening sinnvoll. Erwägen Sie, mehr B12-reiche Lebensmittel zu sich zu nehmen oder mit einer Supplementierung zu beginnen.",
+      "recommendations": [
+        "Erwägen Sie einen Serum-B12-Bluttest als Ausgangswert",
+        "Bei pflanzlicher Ernährung beginnen Sie mit einem B12-Präparat (250–500 µg täglich)",
+        "Erhöhen Sie B12-reiche Lebensmittel: Fleisch, Fisch, Eier, Milchprodukte, angereicherte Lebensmittel",
+        "Besprechen Sie ein B12-Screening mit Ihrem Arzt beim nächsten Besuch"
+      ],
+      "color": "yellow"
+    },
+    {
+      "minScore": 15,
+      "maxScore": 22,
+      "tier": "Mittleres Risiko",
+      "title": "Mittleres Risiko — Mögliche B12-Insuffizienz",
+      "description": "Mehrere Symptome und Risikofaktoren deuten auf eine mögliche B12-Insuffizienz hin. Ein Serum-B12- und Methylmalonsäure-Test wird empfohlen.",
+      "recommendations": [
+        "Fordern Sie einen Serum-B12- und Methylmalonsäure-Bluttest an",
+        "Besprechen Sie Ihre Symptome mit einem Arzt",
+        "Erwägen Sie eine B12-Supplementierung (1000 µg täglich) bis die Testergebnisse vorliegen",
+        "Wenn Sie PPI oder Metformin einnehmen, besprechen Sie die B12-Überwachung mit Ihrem verschreibenden Arzt"
+      ],
+      "color": "orange"
+    },
+    {
+      "minScore": 23,
+      "maxScore": 33,
+      "tier": "Hohes Risiko",
+      "title": "Hohes Risiko — Möglicher B12-Mangel",
+      "description": "Starkes Symptomprofil für einen B12-Mangel. Neurologische Symptome (Kribbeln, Gleichgewichtsprobleme) erfordern eine zeitnahe ärztliche Untersuchung, um irreversible Nervenschäden zu verhindern.",
+      "recommendations": [
+        "Suchen Sie zeitnah ärztliche Hilfe — neurologische Symptome erfordern Aufmerksamkeit",
+        "Fordern Sie Tests auf Serum-B12, Methylmalonsäure und Homocystein an",
+        "Besprechen Sie B12-Injektionen im Vergleich zu hochdosierter oraler Supplementierung",
+        "Zögern Sie nicht — ein anhaltender B12-Mangel kann zu dauerhaften Nervenschäden führen"
+      ],
+      "color": "red"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Kann ein Vitamin-B12-Mangel dauerhafte Schäden verursachen?",
+      "answer": "Ja. Ein anhaltender B12-Mangel kann irreversible neurologische Schäden verursachen, darunter periphere Neuropathie, Gleichgewichtsstörungen und kognitive Beeinträchtigungen. Früherkennung und Behandlung sind entscheidend — die meisten Symptome sind reversibel, wenn sie frühzeitig erkannt werden."
+    },
+    {
+      "question": "Brauchen alle Veganer B12-Präparate?",
+      "answer": "Ja. Vitamin B12 kommt in keinen pflanzlichen Lebensmitteln zuverlässig vor. Alle Veganer und die meisten Vegetarier sollten B12 supplementieren (mindestens 250 µg täglich oder 2500 µg wöchentlich) oder regelmäßig mit B12 angereicherte Lebensmittel konsumieren."
+    },
+    {
+      "question": "Was ist die beste Form eines B12-Präparats?",
+      "answer": "Methylcobalamin und Cyanocobalamin sind beide wirksam. Sublingualtabletten, orale Präparate und Injektionen sind alle geeignet. Menschen mit Absorptionsproblemen (perniziöse Anämie, ältere Erwachsene) können von Injektionen oder hochdosierten oralen Präparaten (1000+ µg) profitieren."
+    },
+    {
+      "question": "Warum wird ein B12-Mangel mit zunehmendem Alter häufiger?",
+      "answer": "Die Magensäureproduktion nimmt mit dem Alter ab, und Magensäure wird benötigt, um B12 aus Nahrungsproteinen freizusetzen. Bis zu 30 % der Erwachsenen über 50 haben eine verminderte Fähigkeit, nahrungsgebundenes B12 aufzunehmen, können aber supplementiertes B12 weiterhin absorbieren."
+    }
+  ],
+  "relatedSlugs": [
+    "iron-deficiency",
+    "folate-deficiency",
+    "vitamin-d-deficiency"
+  ],
+  "sources": [
+    "Stabler, S.P. (2013). Vitamin B12 Deficiency. New England Journal of Medicine, 368(2), 149-160.",
+    "National Institutes of Health. Office of Dietary Supplements — Vitamin B12 Fact Sheet.",
+    "Green, R. et al. (2017). Vitamin B12 deficiency. Nature Reviews Disease Primers, 3, 17040."
+  ]
+}

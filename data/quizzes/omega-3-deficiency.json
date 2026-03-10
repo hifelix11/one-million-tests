@@ -1,0 +1,334 @@
+{
+  "slug": "omega-3-deficiency",
+  "title": "Omega-3-Fettsäuremangel-Risikobewertung",
+  "shortTitle": "Omega-3",
+  "description": "Überprüfen Sie Ihr Omega-3-Mangelrisiko mit unserem kostenlosen Quiz. Bewerten Sie Symptome wie trockene Haut, Gelenkschmerzen, Gehirnnebel und Stimmungsschwankungen in dieser evidenzbasierten Bewertung.",
+  "category": "vitamins-minerals",
+  "scientificBasis": "Basierend auf der Omega-3-Index-Methodik (Harris & Von Schacky, 2004, Preventive Medicine) und klinischen Symptomen eines essentiellen Fettsäuremangels. Der optimale Omega-3-Index liegt bei 8–12 %; mangelbedingte Symptome treten unter 4 % auf.",
+  "seoIntro": "Omega-3-Fettsäuren — insbesondere EPA (Eicosapentaensäure) und DHA (Docosahexaensäure) — sind essentielle Fette, die Ihr Körper nicht selbst herstellen kann. Sie spielen eine entscheidende Rolle für die Gehirnfunktion, die Herzgesundheit, die Entzündungsregulation, die Gelenkbeweglichkeit, die Hautfeuchtigkeit und die Stimmungsstabilität.\n\nTrotz ihrer Bedeutung gehört der Omega-3-Mangel zu den häufigsten Nährstofflücken in der westlichen Ernährung. Die Verlagerung hin zu verarbeiteten Lebensmitteln mit hohem Omega-6-Fettsäuregehalt (Pflanzenöle, frittierte Speisen, verpackte Snacks) hat ein Omega-6-zu-Omega-3-Verhältnis geschaffen, das dramatisch verzerrt ist — oft 15:1 oder höher, gegenüber dem idealen Verhältnis von etwa 2:1.\n\nDie Symptome einer Omega-3-Unterversorgung können vielfältig sein: trockene, schuppige oder juckende Haut; trockene Augen; Gelenksteifigkeit und -schmerzen; Stimmungsinstabilität oder Depression; Konzentrationsschwierigkeiten; brüchige Nägel; und häufige Entzündungen. Da sich diese Symptome allmählich entwickeln und sich mit anderen Erkrankungen überschneiden, wird ein Omega-3-Mangel häufig übersehen.\n\nDiese Selbstbewertung evaluiert Ihre Nahrungsaufnahme von omega-3-reichen Lebensmitteln, Ihre Supplementierungsgewohnheiten und Symptome anhand des Omega-3-Index-Rahmens, der in der kardiovaskulären und ernährungswissenschaftlichen Forschung verwendet wird. Wenn Ihre Ergebnisse auf Bedenken hindeuten, kann ein Omega-3-Index-Bluttest Ihre tatsächlichen EPA- und DHA-Spiegel in den Erythrozytenmembranen messen.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Wie oft essen Sie fetten Fisch (Lachs, Makrele, Sardinen, Hering)?",
+      "options": [
+        {
+          "label": "2+ Mal pro Woche",
+          "value": 0
+        },
+        {
+          "label": "Einmal pro Woche",
+          "value": 1
+        },
+        {
+          "label": "Ein paar Mal im Monat",
+          "value": 2
+        },
+        {
+          "label": "Selten oder nie",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Wie alt sind Sie?",
+      "options": [
+        {
+          "label": "Unter 30",
+          "value": 0
+        },
+        {
+          "label": "30–45",
+          "value": 1
+        },
+        {
+          "label": "46–60",
+          "value": 2
+        },
+        {
+          "label": "Über 60",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Nehmen Sie ein Omega-3-Präparat ein (Fischöl, Algenöl)?",
+      "options": [
+        {
+          "label": "Ja, regelmäßig",
+          "value": 0
+        },
+        {
+          "label": "Gelegentlich",
+          "value": 1
+        },
+        {
+          "label": "Selten",
+          "value": 2
+        },
+        {
+          "label": "Nie",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Haben Sie trockene, schuppige oder juckende Haut?",
+      "options": [
+        {
+          "label": "Nein — Haut ist gut durchfeuchtet",
+          "value": 0
+        },
+        {
+          "label": "Gelegentlich trocken",
+          "value": 1
+        },
+        {
+          "label": "Häufig trocken oder schuppig",
+          "value": 2
+        },
+        {
+          "label": "Chronisch trocken, rissig oder schuppig",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Haben Sie trockene Augen?",
+      "options": [
+        {
+          "label": "Nein",
+          "value": 0
+        },
+        {
+          "label": "Gelegentlich",
+          "value": 1
+        },
+        {
+          "label": "Häufig",
+          "value": 2
+        },
+        {
+          "label": "Chronisch — ich verwende regelmäßig Augentropfen",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Wie würden Sie Ihre Stimmungsstabilität beschreiben?",
+      "options": [
+        {
+          "label": "Allgemein stabil",
+          "value": 0
+        },
+        {
+          "label": "Gelegentliche Stimmungstiefs",
+          "value": 1
+        },
+        {
+          "label": "Häufige Stimmungsschwankungen",
+          "value": 2
+        },
+        {
+          "label": "Erhebliche Stimmungsinstabilität oder Depression",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Haben Sie Gelenksteifigkeit oder -schmerzen?",
+      "options": [
+        {
+          "label": "Nein",
+          "value": 0
+        },
+        {
+          "label": "Leichte gelegentliche Steifigkeit",
+          "value": 1
+        },
+        {
+          "label": "Häufige Steifigkeit oder Schmerzen",
+          "value": 2
+        },
+        {
+          "label": "Chronische Gelenkentzündung",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Wie würden Sie Ihre Konzentrations- und Fokussierfähigkeit bewerten?",
+      "options": [
+        {
+          "label": "Ausgezeichnet",
+          "value": 0
+        },
+        {
+          "label": "Gut, mit gelegentlichen Aussetzern",
+          "value": 1
+        },
+        {
+          "label": "Häufig abgelenkt oder benebelt",
+          "value": 2
+        },
+        {
+          "label": "Erheblich beeinträchtigte Konzentration",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Konsumieren Sie regelmäßig Walnüsse, Leinsamen, Chiasamen oder Hanfsamen?",
+      "options": [
+        {
+          "label": "Täglich",
+          "value": 0
+        },
+        {
+          "label": "Mehrmals pro Woche",
+          "value": 1
+        },
+        {
+          "label": "Selten",
+          "value": 2
+        },
+        {
+          "label": "Nie",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Haben Sie brüchige Nägel?",
+      "options": [
+        {
+          "label": "Nein — Nägel sind kräftig",
+          "value": 0
+        },
+        {
+          "label": "Leicht brüchig",
+          "value": 1
+        },
+        {
+          "label": "Merklich brüchig oder blätternd",
+          "value": 2
+        },
+        {
+          "label": "Sehr brüchig — brechen häufig",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Essen Sie viele verarbeitete Lebensmittel mit hohem Omega-6-Gehalt (frittierte Speisen, Pflanzenöle, verpackte Snacks)?",
+      "options": [
+        {
+          "label": "Selten",
+          "value": 0
+        },
+        {
+          "label": "Manchmal",
+          "value": 1
+        },
+        {
+          "label": "Oft",
+          "value": 2
+        },
+        {
+          "label": "Täglich",
+          "value": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "minScore": 0,
+      "maxScore": 7,
+      "tier": "Niedriges Risiko",
+      "title": "Niedriges Risiko — Omega-3-Zufuhr wahrscheinlich ausreichend",
+      "description": "Ihre Omega-3-Zufuhr und Symptome deuten auf ausreichende Werte hin. Setzen Sie Ihre aktuelle Ernährung mit viel fettem Fisch und Omega-3-Quellen fort.",
+      "recommendations": [
+        "Essen Sie weiterhin 2+ Mal pro Woche fetten Fisch",
+        "Behalten Sie Ihre aktuelle Omega-3-Supplementierung bei, falls zutreffend",
+        "Kein sofortiger Handlungsbedarf"
+      ],
+      "color": "green"
+    },
+    {
+      "minScore": 8,
+      "maxScore": 14,
+      "tier": "Leichtes Risiko",
+      "title": "Leichtes Risiko — Suboptimaler Omega-3-Status möglich",
+      "description": "Einige Anzeichen für einen suboptimalen Omega-3-Status. Erwägen Sie, mehr fetten Fisch zu essen oder zu supplementieren.",
+      "recommendations": [
+        "Erhöhen Sie den Verzehr von fettem Fisch auf 2+ Portionen pro Woche",
+        "Fügen Sie Walnüsse, Leinsamen und Chiasamen zu Ihrer Ernährung hinzu",
+        "Erwägen Sie ein Fischöl- oder Algenöl-Präparat (1000–2000 mg EPA+DHA täglich)",
+        "Reduzieren Sie verarbeitete Lebensmittel und omega-6-reiche Öle"
+      ],
+      "color": "yellow"
+    },
+    {
+      "minScore": 15,
+      "maxScore": 22,
+      "tier": "Mittleres Risiko",
+      "title": "Mittleres Risiko — Mögliche Omega-3-Unterversorgung",
+      "description": "Mehrere Anzeichen einer möglichen Omega-3-Unterversorgung. Ein Omega-3-Index-Bluttest kann Klarheit schaffen.",
+      "recommendations": [
+        "Erwägen Sie einen Omega-3-Index-Bluttest",
+        "Beginnen Sie mit einem hochwertigen Fischöl- oder Algenöl-Präparat",
+        "Erhöhen Sie deutlich den Anteil omega-3-reicher Lebensmittel",
+        "Reduzieren Sie die Omega-6-Aufnahme aus verarbeiteten und frittierten Lebensmitteln"
+      ],
+      "color": "orange"
+    },
+    {
+      "minScore": 23,
+      "maxScore": 33,
+      "tier": "Hohes Risiko",
+      "title": "Hohes Risiko — Wahrscheinlicher Omega-3-Mangel",
+      "description": "Starkes Mangelprofil. Supplementieren Sie mit hochwertigem Fischöl oder Algenöl und konsultieren Sie einen Arzt.",
+      "recommendations": [
+        "Beginnen Sie sofort mit einem Omega-3-Präparat (2000+ mg EPA+DHA täglich)",
+        "Fordern Sie einen Omega-3-Index-Bluttest an",
+        "Stellen Sie Ihre Ernährung um und nehmen Sie mehr omega-3-reiche Lebensmittel auf",
+        "Konsultieren Sie einen Arzt oder Ernährungsberater für einen individuellen Plan"
+      ],
+      "color": "red"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Was ist der Omega-3-Index?",
+      "answer": "Der Omega-3-Index misst den prozentualen Anteil von EPA und DHA in Ihren Erythrozytenmembranen. Ein Index von 8–12 % ist optimal und mit dem niedrigsten kardiovaskulären Risiko verbunden. Unter 4 % gilt als Mangel. Es handelt sich um einen einfachen Bluttest, der in den meisten Laboren verfügbar ist."
+    },
+    {
+      "question": "Kann ich genug Omega-3 allein aus pflanzlichen Quellen beziehen?",
+      "answer": "Pflanzliche Quellen wie Leinsamen, Chiasamen und Walnüsse liefern ALA (Alpha-Linolensäure), die Ihr Körper in EPA und DHA umwandeln muss. Diese Umwandlungsrate ist jedoch sehr gering (typischerweise unter 5 %). Für optimale EPA-/DHA-Spiegel werden fetter Fisch oder Nahrungsergänzungsmittel auf Algenbasis empfohlen."
+    },
+    {
+      "question": "Wie viel Omega-3 brauche ich täglich?",
+      "answer": "Die meisten Gesundheitsorganisationen empfehlen mindestens 250–500 mg kombiniertes EPA und DHA täglich für die allgemeine Gesundheit. Für Menschen mit Herzkrankheitsrisiko oder entzündlichen Erkrankungen können 1000–2000 mg oder mehr empfohlen werden. Wählen Sie immer ein auf Reinheit getestetes Präparat."
+    }
+  ],
+  "relatedSlugs": [
+    "vitamin-d-deficiency",
+    "magnesium-deficiency",
+    "zinc-deficiency"
+  ],
+  "sources": [
+    "Harris, W.S. & Von Schacky, C. (2004). The Omega-3 Index: a new risk factor for death from coronary heart disease? Preventive Medicine, 39(1), 212-220.",
+    "Swanson, D. et al. (2012). Omega-3 fatty acids EPA and DHA: health benefits throughout life. Advances in Nutrition, 3(1), 1-7.",
+    "National Institutes of Health. Office of Dietary Supplements — Omega-3 Fatty Acids Fact Sheet."
+  ]
+}

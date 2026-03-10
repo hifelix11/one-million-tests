@@ -1,0 +1,21 @@
+[00:00:15.354] Server  ERROR   ⨯ TurbopackInternalError: Failed to write app endpoint /_not-found/page
+
+Caused by:
+- Failed to lookup task id: Looking up task id for CachedTaskType { native_fn: NativeFunction { name: "<EsmAssetReference as ChunkableModuleReference>::chunking_type", global_name: "turbopack-ecmascript@turbopack_ecmascript::references::esm::base::EsmAssetReference::ChunkableModuleReference::chunking_type", .. }, this: Some(RawVc::TaskCell(163056, "turbopack_ecmascript::references::esm::base::EsmAssetReference#82")), arg: () } from database failed
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of endpoint_write_to_disk failed
+- Execution of <AppEndpoint as Endpoint>::output failed
+- Failed to write app endpoint /_not-found/page
+- Execution of AppEndpoint::output failed
+- Execution of AppProject::app_module_graphs failed
+- Execution of find_server_entries failed
+- Execution of primary_chunkable_referenced_modules failed
+- Failed to lookup task id: Looking up task id for CachedTaskType { native_fn: NativeFunction { name: "<EsmAssetReference as ChunkableModuleReference>::chunking_type", global_name: "turbopack-ecmascript@turbopack_ecmascript::references::esm::base::EsmAssetReference::ChunkableModuleReference::chunking_type", .. }, this: Some(RawVc::TaskCell(163056, "turbopack_ecmascript::references::esm::base::EsmAssetReference#82")), arg: () } from database failed
+  
+  Caused by:
+      0: Unable to open static sorted file referenced from 00000106.meta
+      1: Unable to open static sorted file 00000103.sst
+      2: No such file or directory (os error 2)
+[00:00:18.356] Server  LOG     ○ Compiling /_error ...

@@ -1,0 +1,338 @@
+{
+  "slug": "vitamin-a-deficiency",
+  "title": "Vitamin-A-Mangel-Risikobewertung",
+  "shortTitle": "Vitamin A",
+  "description": "Machen Sie unser kostenloses Vitamin-A-Mangel-Quiz. Bewerten Sie Symptome wie Nachtblindheit, trockene Augen, Hautprobleme und häufige Infektionen in dieser wissenschaftlich fundierten Selbsteinschätzung.",
+  "category": "vitamins-minerals",
+  "scientificBasis": "Basierend auf den klinischen Bewertungskriterien der WHO für Vitamin-A-Mangel (VAD) und den Retinol-spezifischen Symptomzusammenhängen, die im American Journal of Clinical Nutrition veröffentlicht wurden. Nachtblindheit ist das früheste klinische Zeichen; ein schwererer Mangel führt zu Xerophthalmie.",
+  "seoIntro": "Vitamin A ist ein fettlösliches Vitamin, das für das Sehvermögen (insbesondere das Nachtsehen), die Immunfunktion, die Hautgesundheit, das Zellwachstum und die reproduktive Gesundheit unerlässlich ist. Es existiert in zwei Formen: vorgeformtes Vitamin A (Retinol, in tierischen Lebensmitteln enthalten) und Provitamin-A-Carotinoide (Beta-Carotin, in farbenfrohem Obst und Gemüse enthalten).\n\nWährend ein schwerer Vitamin-A-Mangel in Entwicklungsländern häufiger vorkommt, kann eine leichte bis mittelschwere Unterversorgung überall auftreten — insbesondere bei Menschen, die sehr wenig Nahrungsfett zu sich nehmen (Vitamin A benötigt Fett zur Aufnahme), bei Personen mit Malabsorptionsstörungen und bei Personen mit sehr eingeschränkter Ernährung.\n\nDas früheste und spezifischste Zeichen eines Vitamin-A-Mangels ist die Schwierigkeit, bei schwachem Licht zu sehen (Nachtblindheit). Weitere Symptome sind anhaltend trockene Augen, trockene oder raue Haut, erhöhte Anfälligkeit für Atemwegs- und andere Infektionen, langsame Wundheilung und Akne. Da Vitamin A fettlöslich ist, entwickelt sich ein Mangel tendenziell langsam, wenn die Körperspeicher aufgebraucht werden.\n\nDiese Bewertung evaluiert Ihre Nahrungsaufnahme, Risikofaktoren und Symptome anhand der klinischen WHO-Kriterien für Vitamin-A-Mangel. Wenn Ihre Ergebnisse Anlass zur Sorge geben, kann ein Serum-Retinol-Test Ihren Status bestätigen. Beachten Sie, dass eine Vitamin-A-Supplementierung vorsichtig angegangen werden sollte — im Gegensatz zu wasserlöslichen Vitaminen kann überschüssiges Vitamin A toxisch sein.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Haben Sie Schwierigkeiten, bei schwachem Licht oder nachts zu sehen (Nachtblindheit)?",
+      "options": [
+        {
+          "label": "Keine Probleme",
+          "value": 0
+        },
+        {
+          "label": "Leicht eingeschränktes Nachtsehen",
+          "value": 1
+        },
+        {
+          "label": "Deutlich schlechtes Nachtsehen",
+          "value": 2
+        },
+        {
+          "label": "Erhebliche Schwierigkeiten beim Sehen bei schwachem Licht",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Wie alt sind Sie?",
+      "options": [
+        {
+          "label": "Unter 30",
+          "value": 0
+        },
+        {
+          "label": "30–45",
+          "value": 1
+        },
+        {
+          "label": "46–60",
+          "value": 2
+        },
+        {
+          "label": "Über 60",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Leiden Sie unter anhaltend trockenen Augen?",
+      "options": [
+        {
+          "label": "Nein",
+          "value": 0
+        },
+        {
+          "label": "Gelegentlich",
+          "value": 1
+        },
+        {
+          "label": "Häufig",
+          "value": 2
+        },
+        {
+          "label": "Chronisch trocken trotz Behandlung",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Wie oft essen Sie Vitamin-A-reiche Lebensmittel (Leber, Süßkartoffeln, Karotten, Spinat, Eier)?",
+      "options": [
+        {
+          "label": "Täglich",
+          "value": 0
+        },
+        {
+          "label": "Mehrmals pro Woche",
+          "value": 1
+        },
+        {
+          "label": "Selten",
+          "value": 2
+        },
+        {
+          "label": "Fast nie",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Haben Sie trockene, raue oder schuppige Haut?",
+      "options": [
+        {
+          "label": "Nein — Haut ist normal",
+          "value": 0
+        },
+        {
+          "label": "Leichte Trockenheit",
+          "value": 1
+        },
+        {
+          "label": "Anhaltend trockene oder raue Stellen",
+          "value": 2
+        },
+        {
+          "label": "Starke Trockenheit oder Verhornung",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Wie oft bekommen Sie Atemwegsinfektionen, Halsentzündungen oder Brustinfektionen?",
+      "options": [
+        {
+          "label": "Selten",
+          "value": 0
+        },
+        {
+          "label": "2–3 Mal pro Jahr",
+          "value": 1
+        },
+        {
+          "label": "Häufig — alle paar Monate",
+          "value": 2
+        },
+        {
+          "label": "Sehr oft — monatlich oder öfter",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Haben Sie eine Erkrankung, die die Fettaufnahme beeinträchtigt (Zöliakie, Morbus Crohn, Pankreasinsuffizienz)?",
+      "options": [
+        {
+          "label": "Nein",
+          "value": 0
+        },
+        {
+          "label": "Verdacht",
+          "value": 1
+        },
+        {
+          "label": "Diagnostiziert, leicht",
+          "value": 2
+        },
+        {
+          "label": "Aktive Erkrankung",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Haben Sie eine verzögerte Wundheilung oder häufige Hautinfektionen?",
+      "options": [
+        {
+          "label": "Nein",
+          "value": 0
+        },
+        {
+          "label": "Leicht verlangsamte Heilung",
+          "value": 1
+        },
+        {
+          "label": "Merklich langsam",
+          "value": 2
+        },
+        {
+          "label": "Sehr langsam mit häufigen Infektionen",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Nehmen Sie sehr wenig Nahrungsfett zu sich?",
+      "options": [
+        {
+          "label": "Nein — ich esse eine ausgewogene Menge an Fett",
+          "value": 0
+        },
+        {
+          "label": "Ich ernähre mich fettarm",
+          "value": 1
+        },
+        {
+          "label": "Sehr geringe Fettaufnahme",
+          "value": 2
+        },
+        {
+          "label": "Ich vermeide aktiv jegliches Nahrungsfett",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Haben Sie Akne oder andere Hautunreinheiten?",
+      "options": [
+        {
+          "label": "Reine Haut",
+          "value": 0
+        },
+        {
+          "label": "Leichte gelegentliche Unreinheiten",
+          "value": 1
+        },
+        {
+          "label": "Anhaltende Akne",
+          "value": 2
+        },
+        {
+          "label": "Schwere zystische Akne",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Sind Sie schwanger oder stillen Sie?",
+      "options": [
+        {
+          "label": "Nein",
+          "value": 0
+        },
+        {
+          "label": "Geplant",
+          "value": 1
+        },
+        {
+          "label": "Derzeit schwanger",
+          "value": 2
+        },
+        {
+          "label": "Stille derzeit",
+          "value": 2
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "minScore": 0,
+      "maxScore": 7,
+      "tier": "Niedriges Risiko",
+      "title": "Niedriges Risiko — Vitamin-A-Status wahrscheinlich ausreichend",
+      "description": "Vitamin-A-Status wahrscheinlich ausreichend. Ihre Ernährung und Symptome deuten auf eine ausreichende Vitamin-A-Aufnahme hin.",
+      "recommendations": [
+        "Essen Sie weiterhin regelmäßig Vitamin-A-reiche Lebensmittel",
+        "Nehmen Sie sowohl tierische Quellen (Retinol) als auch farbiges Gemüse (Beta-Carotin) zu sich",
+        "Kein sofortiger Handlungsbedarf"
+      ],
+      "color": "green"
+    },
+    {
+      "minScore": 8,
+      "maxScore": 14,
+      "tier": "Leichtes Risiko",
+      "title": "Leichtes Risiko — Geringfügige Vitamin-A-Risikofaktoren",
+      "description": "Geringfügige Risikofaktoren. Achten Sie auf eine regelmäßige Aufnahme von orangefarbenem/rotem Gemüse und Blattgemüse.",
+      "recommendations": [
+        "Erhöhen Sie den Anteil an orangefarbenem und rotem Gemüse: Süßkartoffeln, Karotten, rote Paprika",
+        "Fügen Sie mehr dunkles Blattgemüse zu Ihrer Ernährung hinzu",
+        "Stellen Sie eine ausreichende Fettzufuhr für die Vitamin-A-Aufnahme sicher",
+        "Erwägen Sie, regelmäßig Eier und Milchprodukte zu essen"
+      ],
+      "color": "yellow"
+    },
+    {
+      "minScore": 15,
+      "maxScore": 22,
+      "tier": "Mittleres Risiko",
+      "title": "Mittleres Risiko — Mögliche Vitamin-A-Unterversorgung",
+      "description": "Mehrere Indikatoren für eine mögliche Vitamin-A-Unterversorgung. Ein Serum-Retinol-Test wird empfohlen.",
+      "recommendations": [
+        "Fordern Sie einen Serum-Retinol-Bluttest an",
+        "Besprechen Sie die Symptome mit Ihrem Arzt",
+        "Erhöhen Sie die Vitamin-A-reichen Lebensmittel deutlich",
+        "Stellen Sie eine ausreichende Fettzufuhr für die Aufnahme sicher"
+      ],
+      "color": "orange"
+    },
+    {
+      "minScore": 23,
+      "maxScore": 33,
+      "tier": "Hohes Risiko",
+      "title": "Hohes Risiko — Möglicher Vitamin-A-Mangel",
+      "description": "Hohes Risiko eines Vitamin-A-Mangels. Suchen Sie ärztliche Hilfe — Nachtblindheit erfordert umgehende Aufmerksamkeit.",
+      "recommendations": [
+        "Suchen Sie Ihren Arzt für einen Serum-Retinol-Test auf",
+        "Nachtblindheit erfordert eine umgehende ärztliche Untersuchung",
+        "Besprechen Sie eine Vitamin-A-Supplementierung — jedoch nur unter ärztlicher Aufsicht (Toxizitätsrisiko)",
+        "Untersuchen Sie mögliche Malabsorptionsprobleme"
+      ],
+      "color": "red"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Was ist der Unterschied zwischen Vitamin A und Beta-Carotin?",
+      "answer": "Vorgeformtes Vitamin A (Retinol) kommt in tierischen Lebensmitteln vor und ist vom Körper direkt verwertbar. Beta-Carotin ist ein Provitamin aus pflanzlichen Lebensmitteln, das Ihr Körper bei Bedarf in Vitamin A umwandelt. Die Umwandlungsrate variiert von Person zu Person, sodass eine ausschließliche Versorgung über pflanzliche Quellen nicht für jeden ausreichen kann."
+    },
+    {
+      "question": "Kann man zu viel Vitamin A einnehmen?",
+      "answer": "Ja. Im Gegensatz zu wasserlöslichen Vitaminen reichert sich überschüssiges Vitamin A (aus Nahrungsergänzungsmitteln oder tierischen Quellen) im Körper an und kann zu einer Vergiftung führen (Hypervitaminose A). Symptome sind Kopfschmerzen, Übelkeit, Leberschäden und Geburtsfehler. Beta-Carotin aus pflanzlichen Lebensmitteln birgt dieses Risiko nicht."
+    },
+    {
+      "question": "Warum ist Nachtblindheit das erste Zeichen eines Mangels?",
+      "answer": "Vitamin A ist für die Produktion von Rhodopsin unerlässlich, dem lichtempfindlichen Pigment in den Stäbchenzellen Ihrer Netzhaut, das das Sehen bei schwachem Licht ermöglicht. Wenn Vitamin A nicht ausreichend vorhanden ist, sinkt die Rhodopsin-Produktion und beeinträchtigt Ihre Fähigkeit, bei schwachen Lichtverhältnissen zu sehen. Dies ist in der Regel das früheste erkennbare Zeichen eines Mangels."
+    },
+    {
+      "question": "Welche Lebensmittel enthalten am meisten Vitamin A?",
+      "answer": "Die mit Abstand reichste Quelle ist Rinderleber (6.580 µg pro Portion — über 700 % des Tagesbedarfs). Süßkartoffeln, Karotten, Spinat, Grünkohl und Cantaloupe-Melone sind ausgezeichnete pflanzliche Quellen. Eier und Milchprodukte liefern moderate Mengen. Der Verzehr dieser Lebensmittel zusammen mit etwas Fett verbessert die Aufnahme erheblich."
+    }
+  ],
+  "relatedSlugs": [
+    "vitamin-c-deficiency",
+    "zinc-deficiency",
+    "omega-3-deficiency"
+  ],
+  "sources": [
+    "WHO. (2009). Global Prevalence of Vitamin A Deficiency in Populations at Risk 1995-2005.",
+    "Sommer, A. & Vyas, K.S. (2012). A global clinical view on vitamin A and carotenoids. American Journal of Clinical Nutrition, 96(5), 1204S-1206S.",
+    "National Institutes of Health. Office of Dietary Supplements — Vitamin A Fact Sheet."
+  ]
+}
