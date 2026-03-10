@@ -53,7 +53,7 @@ export default async function QuizPage({ params }: PageProps) {
           {/* FAQ Section - static HTML for SEO */}
           <section className="mt-16">
             <h2 className="text-xl font-bold text-gray-900">
-              Frequently Asked Questions
+              Häufig gestellte Fragen
             </h2>
             <dl className="mt-4 space-y-6">
               {quiz.faq.map((item, i) => (
@@ -69,7 +69,7 @@ export default async function QuizPage({ params }: PageProps) {
           {quiz.relatedSlugs.length > 0 && (
             <section className="mt-12">
               <h2 className="text-xl font-bold text-gray-900">
-                Related Assessments
+                Verwandte Tests
               </h2>
               <div className="mt-4 flex flex-wrap gap-3">
                 {quiz.relatedSlugs.map((s) => (
@@ -91,7 +91,7 @@ export default async function QuizPage({ params }: PageProps) {
           {/* Sources */}
           {quiz.sources.length > 0 && (
             <section className="mt-12">
-              <h2 className="text-xl font-bold text-gray-900">Sources</h2>
+              <h2 className="text-xl font-bold text-gray-900">Quellen</h2>
               <ol className="mt-3 list-decimal list-inside space-y-1 text-sm text-gray-500">
                 {quiz.sources.map((source, i) => (
                   <li key={i}>{source}</li>

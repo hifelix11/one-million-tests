@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import { Quiz } from "./types";
 
 export function generateQuizMetadata(quiz: Quiz): Metadata {
-  const title = `${quiz.title} — Free Self-Assessment | HealthCheck`;
+  const title = `${quiz.title} — Kostenloser Selbsttest | HealthCheck`;
   return {
     title,
     description: quiz.description,
@@ -16,43 +16,43 @@ export function generateQuizMetadata(quiz: Quiz): Metadata {
 }
 
 export const CATEGORY_LABELS: Record<string, string> = {
-  "vitamins-minerals": "Vitamins & Minerals",
-  "sleep-energy": "Sleep & Energy",
-  "mental-health": "Mental Health",
-  "gut-digestion": "Gut & Digestion",
-  "heart-cardiovascular": "Heart & Cardiovascular",
-  "fitness-movement": "Fitness & Movement",
-  "nutrition-diet": "Nutrition & Diet",
-  "hormones-metabolism": "Hormones & Metabolism",
-  "skin-hair": "Skin & Hair",
-  "immune-system": "Immune System",
-  "body-signals": "Body Signals",
-  "lifestyle-longevity": "Lifestyle & Longevity",
+  "vitamins-minerals": "Vitamine & Mineralstoffe",
+  "sleep-energy": "Schlaf & Energie",
+  "mental-health": "Psychische Gesundheit",
+  "gut-digestion": "Darm & Verdauung",
+  "heart-cardiovascular": "Herz & Kreislauf",
+  "fitness-movement": "Fitness & Bewegung",
+  "nutrition-diet": "Ernährung & Diät",
+  "hormones-metabolism": "Hormone & Stoffwechsel",
+  "skin-hair": "Haut & Haare",
+  "immune-system": "Immunsystem",
+  "body-signals": "Körpersignale",
+  "lifestyle-longevity": "Lebensstil & Langlebigkeit",
 };
 
 export const CATEGORY_DESCRIPTIONS: Record<string, string> = {
   "vitamins-minerals":
-    "Assess your risk for common vitamin and mineral deficiencies with our science-based screening quizzes.",
+    "Bewerten Sie Ihr Risiko für häufige Vitamin- und Mineralstoffmängel mit unseren wissenschaftsbasierten Screening-Tests.",
   "sleep-energy":
-    "Evaluate your sleep quality and energy levels with evidence-based assessments.",
+    "Bewerten Sie Ihre Schlafqualität und Ihr Energieniveau mit evidenzbasierten Tests.",
   "mental-health":
-    "Screen for common mental health concerns with validated self-assessment tools.",
+    "Überprüfen Sie häufige psychische Gesundheitsprobleme mit validierten Selbstbewertungsinstrumenten.",
   "gut-digestion":
-    "Check your digestive health with our gut-focused screening quizzes.",
+    "Überprüfen Sie Ihre Verdauungsgesundheit mit unseren darmorientierten Screening-Tests.",
   "heart-cardiovascular":
-    "Assess cardiovascular risk factors with our heart health screenings.",
+    "Bewerten Sie kardiovaskuläre Risikofaktoren mit unseren Herzgesundheits-Screenings.",
   "fitness-movement":
-    "Evaluate your fitness level and movement patterns.",
+    "Bewerten Sie Ihr Fitnessniveau und Ihre Bewegungsmuster.",
   "nutrition-diet":
-    "Review your nutritional habits and dietary balance.",
+    "Überprüfen Sie Ihre Ernährungsgewohnheiten und Ihre ausgewogene Ernährung.",
   "hormones-metabolism":
-    "Screen for hormonal imbalances and metabolic concerns.",
+    "Überprüfen Sie hormonelle Ungleichgewichte und Stoffwechselprobleme.",
   "skin-hair":
-    "Assess skin and hair health indicators.",
+    "Bewerten Sie Indikatoren für Haut- und Haargesundheit.",
   "immune-system":
-    "Evaluate your immune system function and resilience.",
+    "Bewerten Sie die Funktion und Widerstandsfähigkeit Ihres Immunsystems.",
   "body-signals":
-    "Learn to interpret what your body is telling you.",
+    "Lernen Sie, die Signale Ihres Körpers zu deuten.",
   "lifestyle-longevity":
-    "Assess lifestyle factors that impact long-term health and longevity.",
+    "Bewerten Sie Lebensstilfaktoren, die sich auf die langfristige Gesundheit und Langlebigkeit auswirken.",
 };

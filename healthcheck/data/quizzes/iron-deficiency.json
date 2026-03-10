@@ -1,110 +1,110 @@
 {
   "slug": "iron-deficiency",
-  "title": "Iron Deficiency Risk Assessment",
-  "shortTitle": "Iron",
-  "description": "Take our free iron deficiency quiz to check your risk. Assess symptoms like fatigue, pale skin, cold extremities, and brittle nails in this evidence-based screening.",
+  "title": "Eisenmangel-Risikobewertung",
+  "shortTitle": "Eisen",
+  "description": "Machen Sie unser kostenloses Eisenmangel-Quiz, um Ihr Risiko zu prüfen. Bewerten Sie Symptome wie Müdigkeit, blasse Haut, kalte Extremitäten und brüchige Nägel in diesem evidenzbasierten Screening.",
   "category": "vitamins-minerals",
-  "scientificBasis": "Based on WHO iron deficiency screening criteria and clinical presentation scoring used in hematology. Iron deficiency is the most common nutritional deficiency worldwide, with anemia defined as hemoglobin below 12 g/dL (women) or 13 g/dL (men).",
-  "seoIntro": "Iron deficiency is the most common nutritional deficiency in the world, affecting an estimated 2 billion people globally. Iron is essential for producing hemoglobin — the protein in red blood cells that carries oxygen throughout your body. When iron levels drop, your cells don't get enough oxygen, leading to fatigue, weakness, and a cascade of other symptoms.\n\nWomen of childbearing age are disproportionately affected due to menstrual blood loss, but iron deficiency can affect anyone — particularly vegetarians/vegans, endurance athletes, frequent blood donors, and people with gastrointestinal conditions that impair absorption.\n\nSymptoms often develop gradually and may be dismissed as 'just being tired.' Classic signs include unusual fatigue, pale skin (especially inner eyelids and nail beds), shortness of breath during normal activities, cold hands and feet, brittle nails, and unusual cravings for ice or non-food items (pica).\n\nThis screening tool evaluates your symptoms, dietary intake, and risk factors against established clinical criteria for iron deficiency and iron deficiency anemia. If your results suggest concern, a complete blood count (CBC) and serum ferritin test can confirm your iron status. Early detection allows for simple dietary or supplemental correction before anemia develops.",
+  "scientificBasis": "Basierend auf den WHO-Screening-Kriterien für Eisenmangel und der klinischen Symptombewertung in der Hämatologie. Eisenmangel ist der weltweit häufigste Nährstoffmangel, wobei Anämie als Hämoglobin unter 12 g/dL (Frauen) oder 13 g/dL (Männer) definiert ist.",
+  "seoIntro": "Eisenmangel ist der häufigste Nährstoffmangel weltweit und betrifft schätzungsweise 2 Milliarden Menschen. Eisen ist essentiell für die Produktion von Hämoglobin — dem Protein in roten Blutkörperchen, das Sauerstoff durch den Körper transportiert. Wenn der Eisenspiegel sinkt, erhalten Ihre Zellen nicht genug Sauerstoff, was zu Müdigkeit, Schwäche und einer Reihe weiterer Symptome führt.\n\nFrauen im gebärfähigen Alter sind aufgrund des menstruellen Blutverlustes überproportional betroffen, aber Eisenmangel kann jeden treffen — insbesondere Vegetarier/Veganer, Ausdauersportler, regelmäßige Blutspender und Menschen mit Magen-Darm-Erkrankungen, die die Aufnahme beeinträchtigen.\n\nSymptome entwickeln sich oft schleichend und werden möglicherweise als \u201Eeinfach nur müde\u201C abgetan. Klassische Anzeichen sind ungewöhnliche Müdigkeit, blasse Haut (besonders innere Augenlider und Nagelbetten), Kurzatmigkeit bei normalen Aktivitäten, kalte Hände und Füße, brüchige Nägel und ungewöhnliches Verlangen nach Eis oder nicht essbaren Gegenständen (Pica).\n\nDieses Screening-Tool bewertet Ihre Symptome, Ernährung und Risikofaktoren anhand etablierter klinischer Kriterien für Eisenmangel und Eisenmangelanämie. Wenn Ihre Ergebnisse Anlass zur Sorge geben, können ein vollständiges Blutbild (CBC) und ein Serum-Ferritin-Test Ihren Eisenstatus bestätigen. Eine frühzeitige Erkennung ermöglicht eine einfache Korrektur durch Ernährung oder Nahrungsergänzung, bevor sich eine Anämie entwickelt.",
   "questions": [
     {
       "id": 1,
-      "text": "Do you experience unusual fatigue that doesn't improve with rest?",
+      "text": "Erleben Sie ungewöhnliche Müdigkeit, die sich durch Ruhe nicht bessert?",
       "options": [
-        { "label": "Rarely", "value": 0 },
-        { "label": "Sometimes", "value": 1 },
-        { "label": "Often", "value": 2 },
-        { "label": "Almost always", "value": 3 }
+        { "label": "Selten", "value": 0 },
+        { "label": "Manchmal", "value": 1 },
+        { "label": "Häufig", "value": 2 },
+        { "label": "Fast immer", "value": 3 }
       ]
     },
     {
       "id": 2,
-      "text": "Are you pale — particularly in your inner eyelids, nail beds, or gums?",
+      "text": "Sind Sie blass — insbesondere an den inneren Augenlidern, Nagelbetten oder am Zahnfleisch?",
       "options": [
-        { "label": "Normal coloring", "value": 0 },
-        { "label": "Slightly pale", "value": 1 },
-        { "label": "Noticeably pale", "value": 2 },
-        { "label": "Very pale", "value": 3 }
+        { "label": "Normale Färbung", "value": 0 },
+        { "label": "Leicht blass", "value": 1 },
+        { "label": "Merklich blass", "value": 2 },
+        { "label": "Sehr blass", "value": 3 }
       ]
     },
     {
       "id": 3,
-      "text": "Do you experience shortness of breath during activities that used to be easy?",
+      "text": "Erleben Sie Kurzatmigkeit bei Aktivitäten, die früher leicht waren?",
       "options": [
-        { "label": "No", "value": 0 },
-        { "label": "Slightly", "value": 1 },
-        { "label": "Moderately", "value": 2 },
-        { "label": "Significantly", "value": 3 }
+        { "label": "Nein", "value": 0 },
+        { "label": "Leicht", "value": 1 },
+        { "label": "Mäßig", "value": 2 },
+        { "label": "Erheblich", "value": 3 }
       ]
     },
     {
       "id": 4,
-      "text": "Do you have heavy menstrual periods? (Select N/A if not applicable)",
+      "text": "Haben Sie starke Menstruationsblutungen? (Wählen Sie 'Nicht zutreffend', falls nicht zutreffend)",
       "options": [
-        { "label": "N/A or light periods", "value": 0 },
-        { "label": "Moderate flow", "value": 1 },
-        { "label": "Heavy flow — changing pads/tampons every 2–3 hours", "value": 2 },
-        { "label": "Very heavy — clots, flooding, periods lasting 7+ days", "value": 3 }
+        { "label": "Nicht zutreffend oder leichte Blutung", "value": 0 },
+        { "label": "Mittlere Blutung", "value": 1 },
+        { "label": "Starke Blutung — Binden/Tampons alle 2–3 Stunden wechseln", "value": 2 },
+        { "label": "Sehr stark — Blutgerinnsel, Überflutung, Perioden über 7+ Tage", "value": 3 }
       ]
     },
     {
       "id": 5,
-      "text": "Do you experience cold hands and feet more than others around you?",
+      "text": "Haben Sie häufiger kalte Hände und Füße als andere um Sie herum?",
       "options": [
-        { "label": "No", "value": 0 },
-        { "label": "Occasionally", "value": 1 },
-        { "label": "Frequently", "value": 2 },
-        { "label": "Almost always", "value": 3 }
+        { "label": "Nein", "value": 0 },
+        { "label": "Gelegentlich", "value": 1 },
+        { "label": "Häufig", "value": 2 },
+        { "label": "Fast immer", "value": 3 }
       ]
     },
     {
       "id": 6,
-      "text": "Do you crave non-food items (ice, clay, starch) or have unusual cravings?",
+      "text": "Haben Sie Verlangen nach nicht essbaren Gegenständen (Eis, Lehm, Stärke) oder ungewöhnliche Gelüste?",
       "options": [
-        { "label": "No", "value": 0 },
-        { "label": "I chew ice sometimes", "value": 1 },
-        { "label": "I frequently crave ice or crunch hard items", "value": 2 },
-        { "label": "I crave non-food substances (pica)", "value": 3 }
+        { "label": "Nein", "value": 0 },
+        { "label": "Ich kaue manchmal Eis", "value": 1 },
+        { "label": "Ich habe häufig Verlangen nach Eis oder kaue auf harten Gegenständen", "value": 2 },
+        { "label": "Ich habe Verlangen nach nicht essbaren Substanzen (Pica)", "value": 3 }
       ]
     },
     {
       "id": 7,
-      "text": "How much red meat, poultry, or fish do you consume per week?",
+      "text": "Wie viel rotes Fleisch, Geflügel oder Fisch essen Sie pro Woche?",
       "options": [
-        { "label": "5+ servings", "value": 0 },
-        { "label": "3–4 servings", "value": 1 },
-        { "label": "1–2 servings", "value": 2 },
-        { "label": "Rarely or never", "value": 3 }
+        { "label": "5+ Portionen", "value": 0 },
+        { "label": "3–4 Portionen", "value": 1 },
+        { "label": "1–2 Portionen", "value": 2 },
+        { "label": "Selten oder nie", "value": 3 }
       ]
     },
     {
       "id": 8,
-      "text": "Do you experience brittle nails, spoon-shaped nails, or significant hair loss?",
+      "text": "Haben Sie brüchige Nägel, löffelförmige Nägel oder erheblichen Haarausfall?",
       "options": [
-        { "label": "No", "value": 0 },
-        { "label": "Mild brittleness", "value": 1 },
-        { "label": "Noticeable changes", "value": 2 },
-        { "label": "Significant nail deformity or hair loss", "value": 3 }
+        { "label": "Nein", "value": 0 },
+        { "label": "Leichte Brüchigkeit", "value": 1 },
+        { "label": "Merkliche Veränderungen", "value": 2 },
+        { "label": "Erhebliche Nagelverformung oder Haarausfall", "value": 3 }
       ]
     },
     {
       "id": 9,
-      "text": "Do you experience frequent headaches or dizziness?",
+      "text": "Leiden Sie unter häufigen Kopfschmerzen oder Schwindel?",
       "options": [
-        { "label": "Rarely", "value": 0 },
-        { "label": "Occasionally", "value": 1 },
-        { "label": "Frequently", "value": 2 },
-        { "label": "Very frequently", "value": 3 }
+        { "label": "Selten", "value": 0 },
+        { "label": "Gelegentlich", "value": 1 },
+        { "label": "Häufig", "value": 2 },
+        { "label": "Sehr häufig", "value": 3 }
       ]
     },
     {
       "id": 10,
-      "text": "Do you have a condition that affects iron absorption (celiac disease, IBD, gastric surgery)?",
+      "text": "Haben Sie eine Erkrankung, die die Eisenaufnahme beeinträchtigt (Zöliakie, CED, Magenoperation)?",
       "options": [
-        { "label": "No known condition", "value": 0 },
-        { "label": "Possible/suspected issue", "value": 1 },
-        { "label": "Diagnosed mild condition", "value": 2 },
-        { "label": "Diagnosed condition known to impair absorption", "value": 3 }
+        { "label": "Keine bekannte Erkrankung", "value": 0 },
+        { "label": "Mögliches/vermutetes Problem", "value": 1 },
+        { "label": "Diagnostizierte leichte Erkrankung", "value": 2 },
+        { "label": "Diagnostizierte Erkrankung, die die Aufnahme beeinträchtigt", "value": 3 }
       ]
     }
   ],
@@ -112,75 +112,75 @@
     {
       "minScore": 0,
       "maxScore": 6,
-      "tier": "Low Risk",
-      "title": "Low Risk — Iron Status Likely Adequate",
-      "description": "No significant indicators of iron deficiency. Your symptoms and dietary intake suggest adequate iron levels.",
+      "tier": "Niedriges Risiko",
+      "title": "Niedriges Risiko — Eisenstatus wahrscheinlich ausreichend",
+      "description": "Keine wesentlichen Anzeichen für Eisenmangel. Ihre Symptome und Ernährung deuten auf einen ausreichenden Eisenspiegel hin.",
       "recommendations": [
-        "Continue your current iron-rich diet",
-        "Pair iron-rich foods with vitamin C for optimal absorption",
-        "No immediate action needed"
+        "Setzen Sie Ihre aktuelle eisenreiche Ernährung fort",
+        "Kombinieren Sie eisenreiche Lebensmittel mit Vitamin C für optimale Aufnahme",
+        "Kein sofortiger Handlungsbedarf"
       ],
       "color": "green"
     },
     {
       "minScore": 7,
       "maxScore": 13,
-      "tier": "Mild Risk",
-      "title": "Mild Risk — Some Iron Deficiency Risk Factors",
-      "description": "Some symptoms or risk factors present. Ensure adequate dietary iron intake with vitamin C for absorption.",
+      "tier": "Leichtes Risiko",
+      "title": "Leichtes Risiko — Einige Risikofaktoren für Eisenmangel",
+      "description": "Einige Symptome oder Risikofaktoren vorhanden. Achten Sie auf ausreichende Eisenzufuhr über die Ernährung mit Vitamin C zur Aufnahme.",
       "recommendations": [
-        "Increase iron-rich foods: red meat, spinach, lentils, fortified cereals",
-        "Pair plant-based iron sources with vitamin C (citrus, bell peppers)",
-        "Avoid tea/coffee with meals as they inhibit iron absorption",
-        "Consider a CBC and ferritin test at your next checkup"
+        "Erhöhen Sie eisenreiche Lebensmittel: rotes Fleisch, Spinat, Linsen, angereicherte Cerealien",
+        "Kombinieren Sie pflanzliche Eisenquellen mit Vitamin C (Zitrusfrüchte, Paprika)",
+        "Vermeiden Sie Tee/Kaffee zu den Mahlzeiten, da sie die Eisenaufnahme hemmen",
+        "Erwägen Sie ein Blutbild und einen Ferritin-Test bei Ihrer nächsten Vorsorgeuntersuchung"
       ],
       "color": "yellow"
     },
     {
       "minScore": 14,
       "maxScore": 20,
-      "tier": "Moderate Risk",
-      "title": "Moderate Risk — Possible Iron Deficiency",
-      "description": "Multiple indicators of possible iron deficiency. A complete blood count (CBC) and ferritin test are recommended.",
+      "tier": "Mittleres Risiko",
+      "title": "Mittleres Risiko — Möglicher Eisenmangel",
+      "description": "Mehrere Anzeichen für einen möglichen Eisenmangel. Ein vollständiges Blutbild (CBC) und ein Ferritin-Test werden empfohlen.",
       "recommendations": [
-        "Request a CBC and serum ferritin blood test",
-        "Discuss your symptoms with a healthcare provider",
-        "Significantly increase dietary iron intake",
-        "Do not start iron supplements without medical guidance — excess iron can be harmful"
+        "Fordern Sie ein Blutbild und einen Serum-Ferritin-Test an",
+        "Besprechen Sie Ihre Symptome mit einem Arzt",
+        "Erhöhen Sie Ihre Eisenzufuhr über die Ernährung deutlich",
+        "Beginnen Sie keine Eisenpräparate ohne ärztliche Beratung — überschüssiges Eisen kann schädlich sein"
       ],
       "color": "orange"
     },
     {
       "minScore": 21,
       "maxScore": 30,
-      "tier": "High Risk",
-      "title": "High Risk — Possible Iron Deficiency Anemia",
-      "description": "Strong risk profile for iron deficiency anemia. Prompt blood testing and medical evaluation recommended.",
+      "tier": "Hohes Risiko",
+      "title": "Hohes Risiko — Mögliche Eisenmangelanämie",
+      "description": "Starkes Risikoprofil für Eisenmangelanämie. Umgehende Blutuntersuchung und ärztliche Abklärung empfohlen.",
       "recommendations": [
-        "See a healthcare provider promptly for blood testing",
-        "Request CBC, serum ferritin, serum iron, and TIBC tests",
-        "Discuss potential causes with your doctor (blood loss, absorption issues)",
-        "Do not self-treat with high-dose iron without medical supervision"
+        "Suchen Sie umgehend einen Arzt zur Blutuntersuchung auf",
+        "Fordern Sie Blutbild, Serum-Ferritin, Serum-Eisen und TIBC-Tests an",
+        "Besprechen Sie mögliche Ursachen mit Ihrem Arzt (Blutverlust, Aufnahmeprobleme)",
+        "Behandeln Sie sich nicht selbst mit hochdosiertem Eisen ohne ärztliche Aufsicht"
       ],
       "color": "red"
     }
   ],
   "faq": [
     {
-      "question": "What is the difference between iron deficiency and iron deficiency anemia?",
-      "answer": "Iron deficiency means your body's iron stores are low (low ferritin). Iron deficiency anemia is a more advanced stage where iron is so low that hemoglobin production is affected, reducing your blood's oxygen-carrying capacity. You can be iron deficient without being anemic."
+      "question": "Was ist der Unterschied zwischen Eisenmangel und Eisenmangelanämie?",
+      "answer": "Eisenmangel bedeutet, dass die Eisenspeicher Ihres Körpers niedrig sind (niedriges Ferritin). Eisenmangelanämie ist ein fortgeschritteneres Stadium, in dem der Eisenspiegel so niedrig ist, dass die Hämoglobinproduktion beeinträchtigt wird und die Sauerstofftransportfähigkeit Ihres Blutes abnimmt. Sie können einen Eisenmangel haben, ohne anämisch zu sein."
     },
     {
-      "question": "What foods are highest in iron?",
-      "answer": "Heme iron (best absorbed) is found in red meat, organ meats, poultry, and shellfish. Non-heme iron is found in spinach, lentils, chickpeas, tofu, and fortified cereals. Pair non-heme iron with vitamin C to boost absorption by up to 6x."
+      "question": "Welche Lebensmittel haben den höchsten Eisengehalt?",
+      "answer": "Häm-Eisen (am besten aufgenommen) findet sich in rotem Fleisch, Innereien, Geflügel und Meeresfrüchten. Nicht-Häm-Eisen findet sich in Spinat, Linsen, Kichererbsen, Tofu und angereicherten Cerealien. Kombinieren Sie Nicht-Häm-Eisen mit Vitamin C, um die Aufnahme um bis zu 6-fach zu steigern."
     },
     {
-      "question": "Can I take too much iron?",
-      "answer": "Yes. Excess iron supplementation can cause nausea, constipation, and in severe cases, iron toxicity. Never take iron supplements without blood testing first. People with hemochromatosis (iron overload disorder) must avoid extra iron."
+      "question": "Kann man zu viel Eisen einnehmen?",
+      "answer": "Ja. Übermäßige Eisenpräparate können Übelkeit, Verstopfung und in schweren Fällen eine Eisenvergiftung verursachen. Nehmen Sie niemals Eisenpräparate ohne vorherige Blutuntersuchung ein. Menschen mit Hämochromatose (Eisenüberladungsstörung) müssen zusätzliches Eisen vermeiden."
     },
     {
-      "question": "Why do women need more iron than men?",
-      "answer": "Women of childbearing age lose iron through menstruation. The RDA for women aged 19–50 is 18 mg/day, compared to 8 mg/day for men. Pregnant women need 27 mg/day. After menopause, women's iron needs drop to match men's."
+      "question": "Warum brauchen Frauen mehr Eisen als Männer?",
+      "answer": "Frauen im gebärfähigen Alter verlieren Eisen durch die Menstruation. Die empfohlene Tageszufuhr für Frauen im Alter von 19–50 Jahren beträgt 18 mg/Tag, verglichen mit 8 mg/Tag für Männer. Schwangere Frauen benötigen 27 mg/Tag. Nach der Menopause sinkt der Eisenbedarf von Frauen auf das Niveau der Männer."
     }
   ],
   "relatedSlugs": ["vitamin-b12-deficiency", "vitamin-c-deficiency", "folate-deficiency"],

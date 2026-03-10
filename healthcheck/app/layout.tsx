@@ -5,11 +5,11 @@ import Footer from "@/components/layout/Footer";
 
 export const metadata: Metadata = {
   title: {
-    default: "HealthCheck — Free Health Self-Assessments",
+    default: "HealthCheck — Kostenlose Gesundheits-Selbsttests",
     template: "%s | HealthCheck",
   },
   description:
-    "Free, science-based health self-assessment quizzes. Screen for vitamin and mineral deficiencies with evidence-based tools. Educational screening — not medical diagnoses.",
+    "Kostenlose, wissenschaftsbasierte Gesundheits-Selbsttests. Überprüfen Sie Vitamin- und Mineralstoffmängel mit evidenzbasierten Tools. Bildungsscreening — keine medizinischen Diagnosen.",
 };
 
 export default function RootLayout({
@@ -18,7 +18,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="de">
       <body className="font-sans antialiased bg-white text-gray-900">
         <Header />
         <main className="mx-auto max-w-5xl px-4">{children}</main>

@@ -25,16 +25,15 @@ export default function HomePage() {
       <CategoryGrid categories={categories} />
 
       <section className="py-12 text-center">
-        <h2 className="text-2xl font-bold text-gray-900 mb-8">How It Works</h2>
+        <h2 className="text-2xl font-bold text-gray-900 mb-8">So funktioniert es</h2>
         <div className="grid grid-cols-1 gap-8 sm:grid-cols-3">
           <div>
             <div className="mx-auto flex h-12 w-12 items-center justify-center rounded-full bg-teal-100 text-teal-700 font-bold text-lg">
               1
             </div>
-            <h3 className="mt-4 font-semibold text-gray-900">Choose a Quiz</h3>
+            <h3 className="mt-4 font-semibold text-gray-900">Wählen Sie einen Test</h3>
             <p className="mt-2 text-sm text-gray-500">
-              Select a health topic you&apos;re curious about from our
-              science-based assessments.
+              Wählen Sie ein Gesundheitsthema aus unseren wissenschaftsbasierten Tests.
             </p>
           </div>
           <div>
@@ -42,11 +41,10 @@ export default function HomePage() {
               2
             </div>
             <h3 className="mt-4 font-semibold text-gray-900">
-              Answer 10 Questions
+              Beantworten Sie 10 Fragen
             </h3>
             <p className="mt-2 text-sm text-gray-500">
-              Honestly assess your symptoms and lifestyle factors. Takes about 2
-              minutes.
+              Bewerten Sie ehrlich Ihre Symptome und Lebensstilfaktoren. Dauert etwa 2 Minuten.
             </p>
           </div>
           <div>
@@ -54,11 +52,10 @@ export default function HomePage() {
               3
             </div>
             <h3 className="mt-4 font-semibold text-gray-900">
-              Get Your Results
+              Erhalten Sie Ihre Ergebnisse
             </h3>
             <p className="mt-2 text-sm text-gray-500">
-              Receive a risk assessment with actionable recommendations and next
-              steps.
+              Erhalten Sie eine Risikobewertung mit umsetzbaren Empfehlungen und nächsten Schritten.
             </p>
           </div>
         </div>

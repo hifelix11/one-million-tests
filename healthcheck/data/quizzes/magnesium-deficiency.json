@@ -1,110 +1,110 @@
 {
   "slug": "magnesium-deficiency",
-  "title": "Magnesium Deficiency Risk Assessment",
+  "title": "Magnesiummangel-Risikobewertung",
   "shortTitle": "Magnesium",
-  "description": "Take our free magnesium deficiency quiz. Check for symptoms like muscle cramps, insomnia, anxiety, and migraines in this science-based self-assessment tool.",
+  "description": "Machen Sie unser kostenloses Magnesiummangel-Quiz. Prüfen Sie Symptome wie Muskelkrämpfe, Schlaflosigkeit, Angstzustände und Migräne mit diesem wissenschaftlich fundierten Selbstbewertungstool.",
   "category": "vitamins-minerals",
-  "scientificBasis": "Based on clinical hypomagnesemia symptoms documented in the Journal of the American College of Nutrition and subclinical magnesium deficiency criteria (serum Mg below 0.85 mmol/L). Estimated 50–80% of the population may have suboptimal intake per DiNicolantonio et al. (2018), Open Heart.",
-  "seoIntro": "Magnesium is involved in over 300 enzymatic reactions in your body, making it one of the most critical minerals for overall health. It plays essential roles in muscle and nerve function, blood sugar regulation, blood pressure management, and protein synthesis. Despite its importance, magnesium deficiency is remarkably common — some researchers estimate that up to 80% of adults may not be getting enough.\n\nSubclinical magnesium deficiency — where levels are low enough to cause symptoms but not low enough to show on standard blood tests — is particularly insidious. Common symptoms include muscle cramps and twitches (especially at night), difficulty sleeping, anxiety, heart palpitations, headaches and migraines, constipation, and fatigue.\n\nSeveral lifestyle factors increase your risk: high stress levels (stress depletes magnesium), alcohol consumption, certain medications (diuretics, PPIs), and a diet low in nuts, seeds, leafy greens, and whole grains. Chronic conditions like type 2 diabetes also increase magnesium requirements.\n\nThis assessment evaluates your symptoms and risk factors against clinical criteria for magnesium insufficiency. Standard serum magnesium tests catch only severe deficiency — an RBC (red blood cell) magnesium test is more sensitive for detecting subclinical deficiency.",
+  "scientificBasis": "Basierend auf klinischen Hypomagnesiämie-Symptomen, die im Journal of the American College of Nutrition dokumentiert sind, sowie Kriterien für subklinischen Magnesiummangel (Serum-Mg unter 0,85 mmol/L). Schätzungsweise 50–80 % der Bevölkerung haben möglicherweise eine suboptimale Zufuhr laut DiNicolantonio et al. (2018), Open Heart.",
+  "seoIntro": "Magnesium ist an über 300 enzymatischen Reaktionen in Ihrem Körper beteiligt und damit eines der wichtigsten Mineralstoffe für die allgemeine Gesundheit. Es spielt eine wesentliche Rolle bei der Muskel- und Nervenfunktion, der Blutzuckerregulierung, der Blutdruckkontrolle und der Proteinsynthese. Trotz seiner Bedeutung ist Magnesiummangel bemerkenswert häufig — einige Forscher schätzen, dass bis zu 80 % der Erwachsenen möglicherweise nicht genug davon aufnehmen.\n\nSubklinischer Magnesiummangel — bei dem die Werte niedrig genug sind, um Symptome zu verursachen, aber nicht niedrig genug, um in Standard-Bluttests aufzufallen — ist besonders heimtückisch. Häufige Symptome sind Muskelkrämpfe und -zuckungen (besonders nachts), Schlafstörungen, Angstzustände, Herzrasen, Kopfschmerzen und Migräne, Verstopfung und Müdigkeit.\n\nMehrere Lebensstilfaktoren erhöhen Ihr Risiko: hoher Stresspegel (Stress verbraucht Magnesium), Alkoholkonsum, bestimmte Medikamente (Diuretika, Protonenpumpenhemmer) und eine Ernährung mit wenig Nüssen, Samen, Blattgemüse und Vollkornprodukten. Chronische Erkrankungen wie Typ-2-Diabetes erhöhen ebenfalls den Magnesiumbedarf.\n\nDiese Bewertung prüft Ihre Symptome und Risikofaktoren anhand klinischer Kriterien für Magnesiuminsuffizienz. Standard-Serum-Magnesiumtests erfassen nur schweren Mangel — ein RBC-Test (Erythrozyten-Magnesium) ist empfindlicher für die Erkennung eines subklinischen Mangels.",
   "questions": [
     {
       "id": 1,
-      "text": "Do you experience muscle cramps, twitches, or spasms?",
+      "text": "Leiden Sie unter Muskelkrämpfen, -zuckungen oder Spasmen?",
       "options": [
-        { "label": "Rarely or never", "value": 0 },
-        { "label": "Occasionally", "value": 1 },
-        { "label": "Often, especially at night", "value": 2 },
-        { "label": "Frequently — daily or near-daily cramps", "value": 3 }
+        { "label": "Selten oder nie", "value": 0 },
+        { "label": "Gelegentlich", "value": 1 },
+        { "label": "Häufig, besonders nachts", "value": 2 },
+        { "label": "Sehr häufig — tägliche oder fast tägliche Krämpfe", "value": 3 }
       ]
     },
     {
       "id": 2,
-      "text": "Do you experience difficulty falling or staying asleep?",
+      "text": "Haben Sie Schwierigkeiten beim Ein- oder Durchschlafen?",
       "options": [
-        { "label": "I sleep well", "value": 0 },
-        { "label": "Occasional difficulties", "value": 1 },
-        { "label": "Frequent sleep issues", "value": 2 },
-        { "label": "Chronic insomnia", "value": 3 }
+        { "label": "Ich schlafe gut", "value": 0 },
+        { "label": "Gelegentliche Schwierigkeiten", "value": 1 },
+        { "label": "Häufige Schlafprobleme", "value": 2 },
+        { "label": "Chronische Schlaflosigkeit", "value": 3 }
       ]
     },
     {
       "id": 3,
-      "text": "How often do you feel anxious or experience heart palpitations?",
+      "text": "Wie oft fühlen Sie sich ängstlich oder erleben Herzrasen?",
       "options": [
-        { "label": "Rarely", "value": 0 },
-        { "label": "Sometimes", "value": 1 },
-        { "label": "Often", "value": 2 },
-        { "label": "Very frequently", "value": 3 }
+        { "label": "Selten", "value": 0 },
+        { "label": "Manchmal", "value": 1 },
+        { "label": "Häufig", "value": 2 },
+        { "label": "Sehr häufig", "value": 3 }
       ]
     },
     {
       "id": 4,
-      "text": "How much alcohol do you consume per week?",
+      "text": "Wie viel Alkohol trinken Sie pro Woche?",
       "options": [
-        { "label": "None or very little", "value": 0 },
-        { "label": "1–3 drinks", "value": 1 },
-        { "label": "4–7 drinks", "value": 2 },
-        { "label": "8+ drinks", "value": 3 }
+        { "label": "Keinen oder sehr wenig", "value": 0 },
+        { "label": "1–3 Getränke", "value": 1 },
+        { "label": "4–7 Getränke", "value": 2 },
+        { "label": "8+ Getränke", "value": 3 }
       ]
     },
     {
       "id": 5,
-      "text": "Do you consume foods rich in magnesium (dark leafy greens, nuts, seeds, dark chocolate, whole grains) regularly?",
+      "text": "Essen Sie regelmäßig magnesiumreiche Lebensmittel (dunkles Blattgemüse, Nüsse, Samen, dunkle Schokolade, Vollkornprodukte)?",
       "options": [
-        { "label": "Daily", "value": 0 },
-        { "label": "Several times per week", "value": 1 },
-        { "label": "Rarely", "value": 2 },
-        { "label": "Almost never", "value": 3 }
+        { "label": "Täglich", "value": 0 },
+        { "label": "Mehrmals pro Woche", "value": 1 },
+        { "label": "Selten", "value": 2 },
+        { "label": "Fast nie", "value": 3 }
       ]
     },
     {
       "id": 6,
-      "text": "Do you take medications that deplete magnesium (diuretics, PPIs, certain antibiotics)?",
+      "text": "Nehmen Sie Medikamente ein, die Magnesium verbrauchen (Diuretika, Protonenpumpenhemmer, bestimmte Antibiotika)?",
       "options": [
-        { "label": "No", "value": 0 },
-        { "label": "One, occasionally", "value": 1 },
-        { "label": "One, regularly", "value": 2 },
-        { "label": "Multiple or long-term", "value": 3 }
+        { "label": "Nein", "value": 0 },
+        { "label": "Eines, gelegentlich", "value": 1 },
+        { "label": "Eines, regelmäßig", "value": 2 },
+        { "label": "Mehrere oder langfristig", "value": 3 }
       ]
     },
     {
       "id": 7,
-      "text": "Do you experience frequent headaches or migraines?",
+      "text": "Leiden Sie unter häufigen Kopfschmerzen oder Migräne?",
       "options": [
-        { "label": "Rarely", "value": 0 },
-        { "label": "Occasionally", "value": 1 },
-        { "label": "Frequently", "value": 2 },
-        { "label": "Chronic migraines", "value": 3 }
+        { "label": "Selten", "value": 0 },
+        { "label": "Gelegentlich", "value": 1 },
+        { "label": "Häufig", "value": 2 },
+        { "label": "Chronische Migräne", "value": 3 }
       ]
     },
     {
       "id": 8,
-      "text": "How would you rate your overall stress level?",
+      "text": "Wie würden Sie Ihr allgemeines Stressniveau einschätzen?",
       "options": [
-        { "label": "Low", "value": 0 },
-        { "label": "Moderate", "value": 1 },
-        { "label": "High", "value": 2 },
-        { "label": "Very high / chronic stress", "value": 3 }
+        { "label": "Niedrig", "value": 0 },
+        { "label": "Mäßig", "value": 1 },
+        { "label": "Hoch", "value": 2 },
+        { "label": "Sehr hoch / chronischer Stress", "value": 3 }
       ]
     },
     {
       "id": 9,
-      "text": "Do you experience constipation?",
+      "text": "Leiden Sie unter Verstopfung?",
       "options": [
-        { "label": "No — bowel movements are regular", "value": 0 },
-        { "label": "Occasionally", "value": 1 },
-        { "label": "Often", "value": 2 },
-        { "label": "Chronically", "value": 3 }
+        { "label": "Nein — der Stuhlgang ist regelmäßig", "value": 0 },
+        { "label": "Gelegentlich", "value": 1 },
+        { "label": "Häufig", "value": 2 },
+        { "label": "Chronisch", "value": 3 }
       ]
     },
     {
       "id": 10,
-      "text": "Do you have or are you at risk for type 2 diabetes?",
+      "text": "Haben Sie Typ-2-Diabetes oder ein erhöhtes Risiko dafür?",
       "options": [
-        { "label": "No risk factors", "value": 0 },
-        { "label": "Some risk factors (family history, overweight)", "value": 1 },
-        { "label": "Pre-diabetic or high risk", "value": 2 },
-        { "label": "Diagnosed type 2 diabetes", "value": 3 }
+        { "label": "Keine Risikofaktoren", "value": 0 },
+        { "label": "Einige Risikofaktoren (familiäre Vorbelastung, Übergewicht)", "value": 1 },
+        { "label": "Prädiabetisch oder hohes Risiko", "value": 2 },
+        { "label": "Diagnostizierter Typ-2-Diabetes", "value": 3 }
       ]
     }
   ],
@@ -112,75 +112,75 @@
     {
       "minScore": 0,
       "maxScore": 6,
-      "tier": "Low Risk",
-      "title": "Low Risk — Magnesium Status Likely Adequate",
-      "description": "No significant indicators of magnesium deficiency. Your diet and lifestyle suggest adequate magnesium levels.",
+      "tier": "Niedriges Risiko",
+      "title": "Niedriges Risiko — Magnesiumstatus wahrscheinlich ausreichend",
+      "description": "Keine wesentlichen Anzeichen für einen Magnesiummangel. Ihre Ernährung und Ihr Lebensstil deuten auf einen ausreichenden Magnesiumspiegel hin.",
       "recommendations": [
-        "Continue eating magnesium-rich foods regularly",
-        "Maintain healthy stress management practices",
-        "No immediate action needed"
+        "Essen Sie weiterhin regelmäßig magnesiumreiche Lebensmittel",
+        "Pflegen Sie gesunde Stressbewältigungspraktiken",
+        "Kein sofortiger Handlungsbedarf"
       ],
       "color": "green"
     },
     {
       "minScore": 7,
       "maxScore": 13,
-      "tier": "Mild Risk",
-      "title": "Mild Risk — Suboptimal Magnesium Possible",
-      "description": "Some risk factors present. Consider increasing magnesium-rich foods in your diet.",
+      "tier": "Leichtes Risiko",
+      "title": "Leichtes Risiko — Suboptimaler Magnesiumspiegel möglich",
+      "description": "Einige Risikofaktoren vorhanden. Erwägen Sie, mehr magnesiumreiche Lebensmittel in Ihre Ernährung aufzunehmen.",
       "recommendations": [
-        "Increase magnesium-rich foods: dark leafy greens, nuts, seeds, whole grains",
-        "Consider a magnesium supplement (200–400 mg/day of magnesium glycinate or citrate)",
-        "Reduce alcohol intake if applicable",
-        "Practice stress reduction techniques"
+        "Erhöhen Sie die Aufnahme magnesiumreicher Lebensmittel: dunkles Blattgemüse, Nüsse, Samen, Vollkornprodukte",
+        "Erwägen Sie ein Magnesiumpräparat (200–400 mg/Tag Magnesiumglycinat oder -citrat)",
+        "Reduzieren Sie den Alkoholkonsum, falls zutreffend",
+        "Praktizieren Sie Stressabbautechniken"
       ],
       "color": "yellow"
     },
     {
       "minScore": 14,
       "maxScore": 20,
-      "tier": "Moderate Risk",
-      "title": "Moderate Risk — Possible Magnesium Insufficiency",
-      "description": "Multiple indicators of possible hypomagnesemia. A serum magnesium test (and ideally RBC magnesium) is recommended.",
+      "tier": "Mittleres Risiko",
+      "title": "Mittleres Risiko — Mögliche Magnesiuminsuffizienz",
+      "description": "Mehrere Anzeichen für eine mögliche Hypomagnesiämie. Ein Serum-Magnesiumtest (und idealerweise ein RBC-Magnesiumtest) wird empfohlen.",
       "recommendations": [
-        "Request both serum and RBC magnesium blood tests",
-        "Discuss symptoms with your healthcare provider",
-        "Consider magnesium supplementation under medical guidance",
-        "Review medications that may deplete magnesium with your prescriber"
+        "Lassen Sie sowohl Serum- als auch RBC-Magnesium-Bluttests durchführen",
+        "Besprechen Sie die Symptome mit Ihrem Arzt",
+        "Erwägen Sie eine Magnesiumergänzung unter ärztlicher Aufsicht",
+        "Überprüfen Sie mit Ihrem Arzt, ob eingenommene Medikamente Magnesium verbrauchen könnten"
       ],
       "color": "orange"
     },
     {
       "minScore": 21,
       "maxScore": 30,
-      "tier": "High Risk",
-      "title": "High Risk — Possible Magnesium Deficiency",
-      "description": "Strong risk profile for magnesium deficiency. Medical evaluation and guided supplementation recommended.",
+      "tier": "Hohes Risiko",
+      "title": "Hohes Risiko — Möglicher Magnesiummangel",
+      "description": "Starkes Risikoprofil für Magnesiummangel. Eine ärztliche Untersuchung und begleitete Supplementierung werden empfohlen.",
       "recommendations": [
-        "See your healthcare provider for comprehensive testing",
-        "Request RBC magnesium test (more accurate than serum)",
-        "Discuss magnesium supplementation protocol",
-        "Address contributing factors (stress, medications, alcohol, diet)"
+        "Suchen Sie Ihren Arzt für eine umfassende Untersuchung auf",
+        "Lassen Sie einen RBC-Magnesiumtest durchführen (genauer als der Serumtest)",
+        "Besprechen Sie ein Magnesium-Supplementierungsprotokoll",
+        "Gehen Sie beitragende Faktoren an (Stress, Medikamente, Alkohol, Ernährung)"
       ],
       "color": "red"
     }
   ],
   "faq": [
     {
-      "question": "Why is magnesium deficiency so common?",
-      "answer": "Modern diets are often low in magnesium due to soil depletion, processed food consumption, and reduced intake of nuts, seeds, and leafy greens. Additionally, stress, alcohol, caffeine, and certain medications all deplete magnesium stores."
+      "question": "Warum ist Magnesiummangel so verbreitet?",
+      "answer": "Die moderne Ernährung enthält oft wenig Magnesium aufgrund von Bodenverarmung, dem Konsum verarbeiteter Lebensmittel und einer geringeren Aufnahme von Nüssen, Samen und Blattgemüse. Zusätzlich verbrauchen Stress, Alkohol, Koffein und bestimmte Medikamente die Magnesiumspeicher."
     },
     {
-      "question": "What is the best form of magnesium supplement?",
-      "answer": "Magnesium glycinate is well-absorbed and gentle on the stomach, making it ideal for correcting deficiency. Magnesium citrate is also well-absorbed and can help with constipation. Magnesium oxide is poorly absorbed and primarily acts as a laxative. Magnesium threonate may cross the blood-brain barrier and benefit cognitive function."
+      "question": "Welche Form von Magnesiumpräparat ist die beste?",
+      "answer": "Magnesiumglycinat wird gut aufgenommen und ist magenfreundlich, was es ideal zur Behebung eines Mangels macht. Magnesiumcitrat wird ebenfalls gut aufgenommen und kann bei Verstopfung helfen. Magnesiumoxid wird schlecht aufgenommen und wirkt hauptsächlich als Abführmittel. Magnesiumthreonat kann die Blut-Hirn-Schranke überwinden und die kognitive Funktion unterstützen."
     },
     {
-      "question": "Can a standard blood test detect magnesium deficiency?",
-      "answer": "Standard serum magnesium tests only detect severe deficiency because less than 1% of your body's magnesium is in the blood. An RBC (red blood cell) magnesium test is more sensitive for detecting subclinical deficiency, which is far more common."
+      "question": "Kann ein Standard-Bluttest Magnesiummangel erkennen?",
+      "answer": "Standard-Serum-Magnesiumtests erkennen nur schweren Mangel, da sich weniger als 1 % des körpereigenen Magnesiums im Blut befindet. Ein RBC-Test (Erythrozyten-Magnesium) ist empfindlicher für die Erkennung eines subklinischen Mangels, der weitaus häufiger vorkommt."
     },
     {
-      "question": "How much magnesium do I need daily?",
-      "answer": "The RDA is 310–320 mg for women and 400–420 mg for men. Many experts suggest optimal intake may be higher. Good sources include pumpkin seeds, almonds, spinach, dark chocolate, avocados, and black beans."
+      "question": "Wie viel Magnesium brauche ich täglich?",
+      "answer": "Die empfohlene Tagesdosis beträgt 310–320 mg für Frauen und 400–420 mg für Männer. Viele Experten sind der Meinung, dass die optimale Zufuhr höher sein könnte. Gute Quellen sind Kürbiskerne, Mandeln, Spinat, dunkle Schokolade, Avocados und schwarze Bohnen."
     }
   ],
   "relatedSlugs": ["calcium-deficiency", "potassium-deficiency", "vitamin-d-deficiency"],

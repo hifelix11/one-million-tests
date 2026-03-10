@@ -1,110 +1,110 @@
 {
   "slug": "omega-3-deficiency",
-  "title": "Omega-3 Fatty Acid Deficiency Risk Assessment",
+  "title": "Omega-3-Fettsäuremangel-Risikobewertung",
   "shortTitle": "Omega-3",
-  "description": "Check your omega-3 deficiency risk with our free quiz. Evaluate symptoms like dry skin, joint pain, brain fog, and mood changes in this evidence-based assessment.",
+  "description": "Überprüfen Sie Ihr Omega-3-Mangelrisiko mit unserem kostenlosen Quiz. Bewerten Sie Symptome wie trockene Haut, Gelenkschmerzen, Gehirnnebel und Stimmungsschwankungen in dieser evidenzbasierten Bewertung.",
   "category": "vitamins-minerals",
-  "scientificBasis": "Based on the Omega-3 Index methodology (Harris & Von Schacky, 2004, Preventive Medicine) and clinical symptoms of essential fatty acid deficiency. Optimal Omega-3 Index is 8–12%; deficiency-associated symptoms appear below 4%.",
-  "seoIntro": "Omega-3 fatty acids — particularly EPA (eicosapentaenoic acid) and DHA (docosahexaenoic acid) — are essential fats that your body cannot produce on its own. They play critical roles in brain function, heart health, inflammation regulation, joint mobility, skin hydration, and mood stability.\n\nDespite their importance, omega-3 deficiency is one of the most common nutritional gaps in Western diets. The shift toward processed foods high in omega-6 fatty acids (vegetable oils, fried foods, packaged snacks) has created an omega-6 to omega-3 ratio that is dramatically skewed — often 15:1 or higher, versus the ideal ratio of roughly 2:1.\n\nSymptoms of omega-3 insufficiency can be widespread: dry, flaky, or itchy skin; dry eyes; joint stiffness and pain; mood instability or depression; difficulty concentrating; brittle nails; and frequent inflammation. Because these symptoms develop gradually and overlap with other conditions, omega-3 deficiency is frequently overlooked.\n\nThis self-assessment evaluates your dietary intake of omega-3-rich foods, supplementation habits, and symptoms against the Omega-3 Index framework used in cardiovascular and nutritional research. If your results suggest concern, an Omega-3 Index blood test can measure your actual EPA and DHA levels in red blood cell membranes.",
+  "scientificBasis": "Basierend auf der Omega-3-Index-Methodik (Harris & Von Schacky, 2004, Preventive Medicine) und klinischen Symptomen eines essentiellen Fettsäuremangels. Der optimale Omega-3-Index liegt bei 8–12 %; mangelbedingte Symptome treten unter 4 % auf.",
+  "seoIntro": "Omega-3-Fettsäuren — insbesondere EPA (Eicosapentaensäure) und DHA (Docosahexaensäure) — sind essentielle Fette, die Ihr Körper nicht selbst herstellen kann. Sie spielen eine entscheidende Rolle für die Gehirnfunktion, die Herzgesundheit, die Entzündungsregulation, die Gelenkbeweglichkeit, die Hautfeuchtigkeit und die Stimmungsstabilität.\n\nTrotz ihrer Bedeutung gehört der Omega-3-Mangel zu den häufigsten Nährstofflücken in der westlichen Ernährung. Die Verlagerung hin zu verarbeiteten Lebensmitteln mit hohem Omega-6-Fettsäuregehalt (Pflanzenöle, frittierte Speisen, verpackte Snacks) hat ein Omega-6-zu-Omega-3-Verhältnis geschaffen, das dramatisch verzerrt ist — oft 15:1 oder höher, gegenüber dem idealen Verhältnis von etwa 2:1.\n\nDie Symptome einer Omega-3-Unterversorgung können vielfältig sein: trockene, schuppige oder juckende Haut; trockene Augen; Gelenksteifigkeit und -schmerzen; Stimmungsinstabilität oder Depression; Konzentrationsschwierigkeiten; brüchige Nägel; und häufige Entzündungen. Da sich diese Symptome allmählich entwickeln und sich mit anderen Erkrankungen überschneiden, wird ein Omega-3-Mangel häufig übersehen.\n\nDiese Selbstbewertung evaluiert Ihre Nahrungsaufnahme von omega-3-reichen Lebensmitteln, Ihre Supplementierungsgewohnheiten und Symptome anhand des Omega-3-Index-Rahmens, der in der kardiovaskulären und ernährungswissenschaftlichen Forschung verwendet wird. Wenn Ihre Ergebnisse auf Bedenken hindeuten, kann ein Omega-3-Index-Bluttest Ihre tatsächlichen EPA- und DHA-Spiegel in den Erythrozytenmembranen messen.",
   "questions": [
     {
       "id": 1,
-      "text": "How often do you eat fatty fish (salmon, mackerel, sardines, herring)?",
+      "text": "Wie oft essen Sie fetten Fisch (Lachs, Makrele, Sardinen, Hering)?",
       "options": [
-        { "label": "2+ times per week", "value": 0 },
-        { "label": "Once per week", "value": 1 },
-        { "label": "A few times per month", "value": 2 },
-        { "label": "Rarely or never", "value": 3 }
+        { "label": "2+ Mal pro Woche", "value": 0 },
+        { "label": "Einmal pro Woche", "value": 1 },
+        { "label": "Ein paar Mal im Monat", "value": 2 },
+        { "label": "Selten oder nie", "value": 3 }
       ]
     },
     {
       "id": 2,
-      "text": "Do you take an omega-3 supplement (fish oil, algae oil)?",
+      "text": "Nehmen Sie ein Omega-3-Präparat ein (Fischöl, Algenöl)?",
       "options": [
-        { "label": "Yes, regularly", "value": 0 },
-        { "label": "Occasionally", "value": 1 },
-        { "label": "Rarely", "value": 2 },
-        { "label": "Never", "value": 3 }
+        { "label": "Ja, regelmäßig", "value": 0 },
+        { "label": "Gelegentlich", "value": 1 },
+        { "label": "Selten", "value": 2 },
+        { "label": "Nie", "value": 3 }
       ]
     },
     {
       "id": 3,
-      "text": "Do you experience dry, flaky, or itchy skin?",
+      "text": "Haben Sie trockene, schuppige oder juckende Haut?",
       "options": [
-        { "label": "No — skin is well-moisturized", "value": 0 },
-        { "label": "Occasionally dry", "value": 1 },
-        { "label": "Frequently dry or flaky", "value": 2 },
-        { "label": "Chronically dry, cracked, or scaly", "value": 3 }
+        { "label": "Nein — Haut ist gut durchfeuchtet", "value": 0 },
+        { "label": "Gelegentlich trocken", "value": 1 },
+        { "label": "Häufig trocken oder schuppig", "value": 2 },
+        { "label": "Chronisch trocken, rissig oder schuppig", "value": 3 }
       ]
     },
     {
       "id": 4,
-      "text": "Do you experience dry eyes?",
+      "text": "Haben Sie trockene Augen?",
       "options": [
-        { "label": "No", "value": 0 },
-        { "label": "Occasionally", "value": 1 },
-        { "label": "Frequently", "value": 2 },
-        { "label": "Chronically — I use eye drops regularly", "value": 3 }
+        { "label": "Nein", "value": 0 },
+        { "label": "Gelegentlich", "value": 1 },
+        { "label": "Häufig", "value": 2 },
+        { "label": "Chronisch — ich verwende regelmäßig Augentropfen", "value": 3 }
       ]
     },
     {
       "id": 5,
-      "text": "How would you describe your mood stability?",
+      "text": "Wie würden Sie Ihre Stimmungsstabilität beschreiben?",
       "options": [
-        { "label": "Generally stable", "value": 0 },
-        { "label": "Occasional mood dips", "value": 1 },
-        { "label": "Frequent mood fluctuations", "value": 2 },
-        { "label": "Significant mood instability or depression", "value": 3 }
+        { "label": "Allgemein stabil", "value": 0 },
+        { "label": "Gelegentliche Stimmungstiefs", "value": 1 },
+        { "label": "Häufige Stimmungsschwankungen", "value": 2 },
+        { "label": "Erhebliche Stimmungsinstabilität oder Depression", "value": 3 }
       ]
     },
     {
       "id": 6,
-      "text": "Do you experience joint stiffness or pain?",
+      "text": "Haben Sie Gelenksteifigkeit oder -schmerzen?",
       "options": [
-        { "label": "No", "value": 0 },
-        { "label": "Mild occasional stiffness", "value": 1 },
-        { "label": "Frequent stiffness or pain", "value": 2 },
-        { "label": "Chronic joint inflammation", "value": 3 }
+        { "label": "Nein", "value": 0 },
+        { "label": "Leichte gelegentliche Steifigkeit", "value": 1 },
+        { "label": "Häufige Steifigkeit oder Schmerzen", "value": 2 },
+        { "label": "Chronische Gelenkentzündung", "value": 3 }
       ]
     },
     {
       "id": 7,
-      "text": "How would you rate your ability to concentrate and focus?",
+      "text": "Wie würden Sie Ihre Konzentrations- und Fokussierfähigkeit bewerten?",
       "options": [
-        { "label": "Excellent", "value": 0 },
-        { "label": "Good, with occasional lapses", "value": 1 },
-        { "label": "Frequently distracted or foggy", "value": 2 },
-        { "label": "Significantly impaired concentration", "value": 3 }
+        { "label": "Ausgezeichnet", "value": 0 },
+        { "label": "Gut, mit gelegentlichen Aussetzern", "value": 1 },
+        { "label": "Häufig abgelenkt oder benebelt", "value": 2 },
+        { "label": "Erheblich beeinträchtigte Konzentration", "value": 3 }
       ]
     },
     {
       "id": 8,
-      "text": "Do you consume walnuts, flaxseeds, chia seeds, or hemp seeds regularly?",
+      "text": "Konsumieren Sie regelmäßig Walnüsse, Leinsamen, Chiasamen oder Hanfsamen?",
       "options": [
-        { "label": "Daily", "value": 0 },
-        { "label": "Several times per week", "value": 1 },
-        { "label": "Rarely", "value": 2 },
-        { "label": "Never", "value": 3 }
+        { "label": "Täglich", "value": 0 },
+        { "label": "Mehrmals pro Woche", "value": 1 },
+        { "label": "Selten", "value": 2 },
+        { "label": "Nie", "value": 3 }
       ]
     },
     {
       "id": 9,
-      "text": "Do you experience brittle nails?",
+      "text": "Haben Sie brüchige Nägel?",
       "options": [
-        { "label": "No — nails are strong", "value": 0 },
-        { "label": "Slightly brittle", "value": 1 },
-        { "label": "Noticeably brittle or peeling", "value": 2 },
-        { "label": "Very brittle — break frequently", "value": 3 }
+        { "label": "Nein — Nägel sind kräftig", "value": 0 },
+        { "label": "Leicht brüchig", "value": 1 },
+        { "label": "Merklich brüchig oder blätternd", "value": 2 },
+        { "label": "Sehr brüchig — brechen häufig", "value": 3 }
       ]
     },
     {
       "id": 10,
-      "text": "Do you eat a lot of processed foods high in omega-6 (fried foods, vegetable oils, packaged snacks)?",
+      "text": "Essen Sie viele verarbeitete Lebensmittel mit hohem Omega-6-Gehalt (frittierte Speisen, Pflanzenöle, verpackte Snacks)?",
       "options": [
-        { "label": "Rarely", "value": 0 },
-        { "label": "Sometimes", "value": 1 },
-        { "label": "Often", "value": 2 },
-        { "label": "Daily", "value": 3 }
+        { "label": "Selten", "value": 0 },
+        { "label": "Manchmal", "value": 1 },
+        { "label": "Oft", "value": 2 },
+        { "label": "Täglich", "value": 3 }
       ]
     }
   ],
@@ -112,71 +112,71 @@
     {
       "minScore": 0,
       "maxScore": 6,
-      "tier": "Low Risk",
-      "title": "Low Risk — Omega-3 Intake Likely Adequate",
-      "description": "Your omega-3 intake and symptoms suggest adequate levels. Continue your current diet rich in fatty fish and omega-3 sources.",
+      "tier": "Niedriges Risiko",
+      "title": "Niedriges Risiko — Omega-3-Zufuhr wahrscheinlich ausreichend",
+      "description": "Ihre Omega-3-Zufuhr und Symptome deuten auf ausreichende Werte hin. Setzen Sie Ihre aktuelle Ernährung mit viel fettem Fisch und Omega-3-Quellen fort.",
       "recommendations": [
-        "Continue eating fatty fish 2+ times per week",
-        "Maintain current omega-3 supplementation if applicable",
-        "No immediate action needed"
+        "Essen Sie weiterhin 2+ Mal pro Woche fetten Fisch",
+        "Behalten Sie Ihre aktuelle Omega-3-Supplementierung bei, falls zutreffend",
+        "Kein sofortiger Handlungsbedarf"
       ],
       "color": "green"
     },
     {
       "minScore": 7,
       "maxScore": 13,
-      "tier": "Mild Risk",
-      "title": "Mild Risk — Suboptimal Omega-3 Status Possible",
-      "description": "Some indicators of suboptimal omega-3 status. Consider increasing fatty fish or supplementation.",
+      "tier": "Leichtes Risiko",
+      "title": "Leichtes Risiko — Suboptimaler Omega-3-Status möglich",
+      "description": "Einige Anzeichen für einen suboptimalen Omega-3-Status. Erwägen Sie, mehr fetten Fisch zu essen oder zu supplementieren.",
       "recommendations": [
-        "Increase fatty fish intake to 2+ servings per week",
-        "Add walnuts, flaxseeds, and chia seeds to your diet",
-        "Consider a fish oil or algae oil supplement (1000–2000 mg EPA+DHA daily)",
-        "Reduce processed food and omega-6-heavy oils"
+        "Erhöhen Sie den Verzehr von fettem Fisch auf 2+ Portionen pro Woche",
+        "Fügen Sie Walnüsse, Leinsamen und Chiasamen zu Ihrer Ernährung hinzu",
+        "Erwägen Sie ein Fischöl- oder Algenöl-Präparat (1000–2000 mg EPA+DHA täglich)",
+        "Reduzieren Sie verarbeitete Lebensmittel und omega-6-reiche Öle"
       ],
       "color": "yellow"
     },
     {
       "minScore": 14,
       "maxScore": 20,
-      "tier": "Moderate Risk",
-      "title": "Moderate Risk — Possible Omega-3 Insufficiency",
-      "description": "Multiple signs of possible omega-3 insufficiency. An Omega-3 Index blood test can confirm.",
+      "tier": "Mittleres Risiko",
+      "title": "Mittleres Risiko — Mögliche Omega-3-Unterversorgung",
+      "description": "Mehrere Anzeichen einer möglichen Omega-3-Unterversorgung. Ein Omega-3-Index-Bluttest kann Klarheit schaffen.",
       "recommendations": [
-        "Consider an Omega-3 Index blood test",
-        "Start a high-quality fish oil or algae oil supplement",
-        "Significantly increase omega-3-rich foods",
-        "Reduce omega-6 intake from processed and fried foods"
+        "Erwägen Sie einen Omega-3-Index-Bluttest",
+        "Beginnen Sie mit einem hochwertigen Fischöl- oder Algenöl-Präparat",
+        "Erhöhen Sie deutlich den Anteil omega-3-reicher Lebensmittel",
+        "Reduzieren Sie die Omega-6-Aufnahme aus verarbeiteten und frittierten Lebensmitteln"
       ],
       "color": "orange"
     },
     {
       "minScore": 21,
       "maxScore": 30,
-      "tier": "High Risk",
-      "title": "High Risk — Likely Omega-3 Deficiency",
-      "description": "Strong deficiency profile. Supplement with high-quality fish oil or algae oil and consult a provider.",
+      "tier": "Hohes Risiko",
+      "title": "Hohes Risiko — Wahrscheinlicher Omega-3-Mangel",
+      "description": "Starkes Mangelprofil. Supplementieren Sie mit hochwertigem Fischöl oder Algenöl und konsultieren Sie einen Arzt.",
       "recommendations": [
-        "Start an omega-3 supplement immediately (2000+ mg EPA+DHA daily)",
-        "Request an Omega-3 Index blood test",
-        "Overhaul your diet to include more omega-3-rich foods",
-        "Consult a healthcare provider or dietitian for a personalized plan"
+        "Beginnen Sie sofort mit einem Omega-3-Präparat (2000+ mg EPA+DHA täglich)",
+        "Fordern Sie einen Omega-3-Index-Bluttest an",
+        "Stellen Sie Ihre Ernährung um und nehmen Sie mehr omega-3-reiche Lebensmittel auf",
+        "Konsultieren Sie einen Arzt oder Ernährungsberater für einen individuellen Plan"
       ],
       "color": "red"
     }
   ],
   "faq": [
     {
-      "question": "What is the Omega-3 Index?",
-      "answer": "The Omega-3 Index measures the percentage of EPA and DHA in your red blood cell membranes. An index of 8–12% is optimal and associated with lowest cardiovascular risk. Below 4% is considered deficient. It's a simple blood test available through most labs."
+      "question": "Was ist der Omega-3-Index?",
+      "answer": "Der Omega-3-Index misst den prozentualen Anteil von EPA und DHA in Ihren Erythrozytenmembranen. Ein Index von 8–12 % ist optimal und mit dem niedrigsten kardiovaskulären Risiko verbunden. Unter 4 % gilt als Mangel. Es handelt sich um einen einfachen Bluttest, der in den meisten Laboren verfügbar ist."
     },
     {
-      "question": "Can I get enough omega-3 from plant sources alone?",
-      "answer": "Plant sources like flaxseeds, chia seeds, and walnuts provide ALA (alpha-linolenic acid), which your body must convert to EPA and DHA. However, this conversion rate is very low (typically under 5%). For optimal EPA/DHA levels, fatty fish or algae-based supplements are recommended."
+      "question": "Kann ich genug Omega-3 allein aus pflanzlichen Quellen beziehen?",
+      "answer": "Pflanzliche Quellen wie Leinsamen, Chiasamen und Walnüsse liefern ALA (Alpha-Linolensäure), die Ihr Körper in EPA und DHA umwandeln muss. Diese Umwandlungsrate ist jedoch sehr gering (typischerweise unter 5 %). Für optimale EPA-/DHA-Spiegel werden fetter Fisch oder Nahrungsergänzungsmittel auf Algenbasis empfohlen."
     },
     {
-      "question": "How much omega-3 do I need daily?",
-      "answer": "Most health organizations recommend at least 250–500 mg of combined EPA and DHA daily for general health. For people with heart disease risk or inflammatory conditions, 1000–2000 mg or more may be recommended. Always choose a supplement tested for purity."
+      "question": "Wie viel Omega-3 brauche ich täglich?",
+      "answer": "Die meisten Gesundheitsorganisationen empfehlen mindestens 250–500 mg kombiniertes EPA und DHA täglich für die allgemeine Gesundheit. Für Menschen mit Herzkrankheitsrisiko oder entzündlichen Erkrankungen können 1000–2000 mg oder mehr empfohlen werden. Wählen Sie immer ein auf Reinheit getestetes Präparat."
     }
   ],
   "relatedSlugs": ["vitamin-d-deficiency", "magnesium-deficiency", "zinc-deficiency"],

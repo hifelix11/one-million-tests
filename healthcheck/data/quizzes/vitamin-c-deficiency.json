@@ -1,110 +1,110 @@
 {
   "slug": "vitamin-c-deficiency",
-  "title": "Vitamin C Deficiency Risk Assessment",
+  "title": "Vitamin-C-Mangel-Risikobewertung",
   "shortTitle": "Vitamin C",
-  "description": "Take our free Vitamin C deficiency quiz to assess your risk. Check for symptoms like bleeding gums, slow wound healing, and fatigue in this science-based screening.",
+  "description": "Machen Sie unser kostenloses Vitamin-C-Mangel-Quiz, um Ihr Risiko einzuschätzen. Überprüfen Sie Symptome wie Zahnfleischbluten, langsame Wundheilung und Müdigkeit in diesem wissenschaftlich fundierten Screening.",
   "category": "vitamins-minerals",
-  "scientificBasis": "Based on clinical symptoms of hypovitaminosis C as documented in the American Journal of Clinical Nutrition and scurvy staging criteria. Early deficiency symptoms (fatigue, poor wound healing, bleeding gums) appear at serum levels below 23 µmol/L.",
-  "seoIntro": "Vitamin C (ascorbic acid) is one of the most essential nutrients your body needs for immune function, collagen synthesis, wound healing, and antioxidant protection. Despite being widely available in fruits and vegetables, vitamin C deficiency remains more common than many people realize — particularly among smokers, older adults, and those with limited dietary variety.\n\nEarly signs of vitamin C deficiency can be subtle and easy to dismiss: persistent fatigue, slow-healing cuts, frequent bruising, and bleeding gums. Left unchecked, more serious symptoms can develop, including joint pain, dry skin, weakened immunity, and in severe cases, scurvy.\n\nThis self-assessment is designed to help you evaluate whether your symptoms and lifestyle factors align with known indicators of vitamin C insufficiency. The questions are based on clinical screening criteria used in nutritional medicine and published research on hypovitaminosis C.\n\nPlease note: this quiz is an educational screening tool, not a medical diagnosis. If your results suggest elevated risk, we recommend consulting a healthcare provider and requesting a serum ascorbic acid blood test for confirmation.",
+  "scientificBasis": "Basierend auf klinischen Symptomen der Hypovitaminose C, wie im American Journal of Clinical Nutrition dokumentiert, sowie auf Skorbut-Stadieneinteilungskriterien. Frühe Mangelsymptome (Müdigkeit, schlechte Wundheilung, Zahnfleischbluten) treten bei Serumspiegeln unter 23 µmol/L auf.",
+  "seoIntro": "Vitamin C (Ascorbinsäure) ist einer der wichtigsten Nährstoffe, die Ihr Körper für die Immunfunktion, die Kollagensynthese, die Wundheilung und den antioxidativen Schutz benötigt. Obwohl es in Obst und Gemüse weit verbreitet ist, kommt ein Vitamin-C-Mangel häufiger vor, als viele Menschen denken — insbesondere bei Rauchern, älteren Erwachsenen und Personen mit eingeschränkter Ernährungsvielfalt.\n\nFrühe Anzeichen eines Vitamin-C-Mangels können subtil und leicht zu übersehen sein: anhaltende Müdigkeit, langsam heilende Schnitte, häufige Blutergüsse und Zahnfleischbluten. Unbehandelt können sich schwerwiegendere Symptome entwickeln, darunter Gelenkschmerzen, trockene Haut, geschwächte Immunabwehr und in schweren Fällen Skorbut.\n\nDiese Selbsteinschätzung soll Ihnen helfen zu beurteilen, ob Ihre Symptome und Lebensstilfaktoren mit bekannten Indikatoren einer Vitamin-C-Insuffizienz übereinstimmen. Die Fragen basieren auf klinischen Screening-Kriterien, die in der Ernährungsmedizin verwendet werden, sowie auf veröffentlichten Forschungsergebnissen zur Hypovitaminose C.\n\nBitte beachten Sie: Dieses Quiz ist ein pädagogisches Screening-Tool und keine medizinische Diagnose. Wenn Ihre Ergebnisse auf ein erhöhtes Risiko hindeuten, empfehlen wir Ihnen, einen Arzt aufzusuchen und einen Bluttest auf Serum-Ascorbinsäure durchführen zu lassen.",
   "questions": [
     {
       "id": 1,
-      "text": "How often do you experience bleeding or swollen gums when brushing your teeth?",
+      "text": "Wie oft erleben Sie Zahnfleischbluten oder geschwollenes Zahnfleisch beim Zähneputzen?",
       "options": [
-        { "label": "Never", "value": 0 },
-        { "label": "Rarely", "value": 1 },
-        { "label": "Sometimes", "value": 2 },
-        { "label": "Frequently", "value": 3 }
+        { "label": "Nie", "value": 0 },
+        { "label": "Selten", "value": 1 },
+        { "label": "Manchmal", "value": 2 },
+        { "label": "Häufig", "value": 3 }
       ]
     },
     {
       "id": 2,
-      "text": "How would you describe your wound healing speed?",
+      "text": "Wie würden Sie Ihre Wundheilungsgeschwindigkeit beschreiben?",
       "options": [
-        { "label": "Wounds heal quickly with no issues", "value": 0 },
-        { "label": "Slightly slower than I'd expect", "value": 1 },
-        { "label": "Noticeably slow — cuts take a long time to close", "value": 2 },
-        { "label": "Very slow — wounds often reopen or get infected", "value": 3 }
+        { "label": "Wunden heilen schnell und ohne Probleme", "value": 0 },
+        { "label": "Etwas langsamer als erwartet", "value": 1 },
+        { "label": "Merklich langsam — Schnitte brauchen lange zum Schließen", "value": 2 },
+        { "label": "Sehr langsam — Wunden öffnen sich oft wieder oder entzünden sich", "value": 3 }
       ]
     },
     {
       "id": 3,
-      "text": "How often do you bruise easily or notice unexplained bruises?",
+      "text": "Wie oft bekommen Sie leicht blaue Flecken oder bemerken unerklärliche Blutergüsse?",
       "options": [
-        { "label": "Rarely or never", "value": 0 },
-        { "label": "Occasionally", "value": 1 },
-        { "label": "Frequently — more than seems normal", "value": 2 },
-        { "label": "Very frequently — I bruise from minor contact", "value": 3 }
+        { "label": "Selten oder nie", "value": 0 },
+        { "label": "Gelegentlich", "value": 1 },
+        { "label": "Häufig — mehr als normal erscheint", "value": 2 },
+        { "label": "Sehr häufig — ich bekomme Blutergüsse bei leichter Berührung", "value": 3 }
       ]
     },
     {
       "id": 4,
-      "text": "How would you rate your daily fruit and vegetable intake?",
+      "text": "Wie würden Sie Ihren täglichen Obst- und Gemüseverzehr einschätzen?",
       "options": [
-        { "label": "5+ servings per day including citrus, peppers, or berries", "value": 0 },
-        { "label": "3–4 servings per day", "value": 1 },
-        { "label": "1–2 servings per day", "value": 2 },
-        { "label": "Less than 1 serving per day", "value": 3 }
+        { "label": "5+ Portionen pro Tag, einschließlich Zitrusfrüchte, Paprika oder Beeren", "value": 0 },
+        { "label": "3–4 Portionen pro Tag", "value": 1 },
+        { "label": "1–2 Portionen pro Tag", "value": 2 },
+        { "label": "Weniger als 1 Portion pro Tag", "value": 3 }
       ]
     },
     {
       "id": 5,
-      "text": "Do you smoke or are you regularly exposed to secondhand smoke?",
+      "text": "Rauchen Sie oder sind Sie regelmäßig Passivrauchen ausgesetzt?",
       "options": [
-        { "label": "No exposure", "value": 0 },
-        { "label": "Occasional secondhand exposure", "value": 1 },
-        { "label": "Regular secondhand exposure", "value": 2 },
-        { "label": "I smoke actively", "value": 3 }
+        { "label": "Keine Belastung", "value": 0 },
+        { "label": "Gelegentliche Passivrauchbelastung", "value": 1 },
+        { "label": "Regelmäßige Passivrauchbelastung", "value": 2 },
+        { "label": "Ich rauche aktiv", "value": 3 }
       ]
     },
     {
       "id": 6,
-      "text": "How often do you experience unexplained fatigue or low energy?",
+      "text": "Wie oft erleben Sie unerklärliche Müdigkeit oder Energielosigkeit?",
       "options": [
-        { "label": "Rarely", "value": 0 },
-        { "label": "Sometimes", "value": 1 },
-        { "label": "Often", "value": 2 },
-        { "label": "Almost daily", "value": 3 }
+        { "label": "Selten", "value": 0 },
+        { "label": "Manchmal", "value": 1 },
+        { "label": "Oft", "value": 2 },
+        { "label": "Fast täglich", "value": 3 }
       ]
     },
     {
       "id": 7,
-      "text": "Do you notice dry, rough, or bumpy skin (especially on upper arms or thighs)?",
+      "text": "Bemerken Sie trockene, raue oder pickelige Haut (besonders an den Oberarmen oder Oberschenkeln)?",
       "options": [
-        { "label": "No, my skin is smooth", "value": 0 },
-        { "label": "Mild roughness occasionally", "value": 1 },
-        { "label": "Noticeable rough or bumpy patches", "value": 2 },
-        { "label": "Persistent rough, dry, or splitting skin", "value": 3 }
+        { "label": "Nein, meine Haut ist glatt", "value": 0 },
+        { "label": "Gelegentlich leichte Rauheit", "value": 1 },
+        { "label": "Spürbar raue oder pickelige Stellen", "value": 2 },
+        { "label": "Anhaltend raue, trockene oder rissige Haut", "value": 3 }
       ]
     },
     {
       "id": 8,
-      "text": "How often do you experience joint pain or swelling without a known injury?",
+      "text": "Wie oft haben Sie Gelenkschmerzen oder Schwellungen ohne bekannte Verletzung?",
       "options": [
-        { "label": "Never", "value": 0 },
-        { "label": "Occasionally", "value": 1 },
-        { "label": "Frequently", "value": 2 },
-        { "label": "Chronically", "value": 3 }
+        { "label": "Nie", "value": 0 },
+        { "label": "Gelegentlich", "value": 1 },
+        { "label": "Häufig", "value": 2 },
+        { "label": "Chronisch", "value": 3 }
       ]
     },
     {
       "id": 9,
-      "text": "Do you frequently get colds or infections?",
+      "text": "Bekommen Sie häufig Erkältungen oder Infektionen?",
       "options": [
-        { "label": "Rarely — once a year or less", "value": 0 },
-        { "label": "Occasionally — 2–3 times a year", "value": 1 },
-        { "label": "Often — every few months", "value": 2 },
-        { "label": "Very often — I feel like I'm always fighting something", "value": 3 }
+        { "label": "Selten — einmal im Jahr oder weniger", "value": 0 },
+        { "label": "Gelegentlich — 2–3 Mal im Jahr", "value": 1 },
+        { "label": "Oft — alle paar Monate", "value": 2 },
+        { "label": "Sehr oft — ich habe das Gefühl, ständig gegen etwas anzukämpfen", "value": 3 }
       ]
     },
     {
       "id": 10,
-      "text": "Do you experience nosebleeds without obvious cause?",
+      "text": "Haben Sie Nasenbluten ohne offensichtliche Ursache?",
       "options": [
-        { "label": "Never", "value": 0 },
-        { "label": "Rarely", "value": 1 },
-        { "label": "Sometimes", "value": 2 },
-        { "label": "Frequently", "value": 3 }
+        { "label": "Nie", "value": 0 },
+        { "label": "Selten", "value": 1 },
+        { "label": "Manchmal", "value": 2 },
+        { "label": "Häufig", "value": 3 }
       ]
     }
   ],
@@ -112,73 +112,73 @@
     {
       "minScore": 0,
       "maxScore": 6,
-      "tier": "Low Risk",
-      "title": "Low Risk — Vitamin C Status Likely Adequate",
-      "description": "Your symptoms do not suggest vitamin C deficiency. Maintain your current diet rich in fruits and vegetables to continue supporting healthy vitamin C levels.",
+      "tier": "Niedriges Risiko",
+      "title": "Niedriges Risiko — Vitamin-C-Status wahrscheinlich ausreichend",
+      "description": "Ihre Symptome deuten nicht auf einen Vitamin-C-Mangel hin. Behalten Sie Ihre aktuelle Ernährung bei, die reich an Obst und Gemüse ist, um weiterhin gesunde Vitamin-C-Spiegel zu unterstützen.",
       "recommendations": [
-        "Continue eating vitamin C-rich foods like citrus fruits, bell peppers, and berries",
-        "No immediate action needed — maintain your current healthy habits"
+        "Essen Sie weiterhin Vitamin-C-reiche Lebensmittel wie Zitrusfrüchte, Paprika und Beeren",
+        "Kein sofortiges Handeln erforderlich — behalten Sie Ihre aktuellen gesunden Gewohnheiten bei"
       ],
       "color": "green"
     },
     {
       "minScore": 7,
       "maxScore": 13,
-      "tier": "Mild Risk",
-      "title": "Mild Risk — Suboptimal Vitamin C Possible",
-      "description": "Some symptoms are consistent with suboptimal vitamin C levels. Consider increasing citrus fruits, bell peppers, and leafy greens in your daily diet.",
+      "tier": "Leichtes Risiko",
+      "title": "Leichtes Risiko — Suboptimales Vitamin C möglich",
+      "description": "Einige Symptome sind mit suboptimalen Vitamin-C-Spiegeln vereinbar. Erwägen Sie, mehr Zitrusfrüchte, Paprika und grünes Blattgemüse in Ihre tägliche Ernährung aufzunehmen.",
       "recommendations": [
-        "Add more citrus fruits, berries, and bell peppers to your diet",
-        "Consider keeping a food diary for a week to track vitamin C intake",
-        "Ensure you're eating at least 5 servings of fruits and vegetables daily"
+        "Nehmen Sie mehr Zitrusfrüchte, Beeren und Paprika in Ihre Ernährung auf",
+        "Erwägen Sie, eine Woche lang ein Ernährungstagebuch zu führen, um Ihre Vitamin-C-Aufnahme zu verfolgen",
+        "Stellen Sie sicher, dass Sie täglich mindestens 5 Portionen Obst und Gemüse essen"
       ],
       "color": "yellow"
     },
     {
       "minScore": 14,
       "maxScore": 20,
-      "tier": "Moderate Risk",
-      "title": "Moderate Risk — Vitamin C Insufficiency Indicators Present",
-      "description": "Multiple symptoms align with clinical signs of vitamin C insufficiency. A dietary review and possible serum ascorbic acid test are recommended.",
+      "tier": "Mittleres Risiko",
+      "title": "Mittleres Risiko — Anzeichen einer Vitamin-C-Insuffizienz vorhanden",
+      "description": "Mehrere Symptome stimmen mit klinischen Anzeichen einer Vitamin-C-Insuffizienz überein. Eine Ernährungsüberprüfung und ein möglicher Serum-Ascorbinsäure-Test werden empfohlen.",
       "recommendations": [
-        "Consult a dietitian to review your vitamin C intake",
-        "Request a serum ascorbic acid blood test from your healthcare provider",
-        "Significantly increase vitamin C-rich foods in your diet",
-        "Consider a vitamin C supplement after consulting with a healthcare professional"
+        "Konsultieren Sie einen Ernährungsberater, um Ihre Vitamin-C-Aufnahme zu überprüfen",
+        "Bitten Sie Ihren Arzt um einen Serum-Ascorbinsäure-Bluttest",
+        "Erhöhen Sie deutlich den Anteil an Vitamin-C-reichen Lebensmitteln in Ihrer Ernährung",
+        "Erwägen Sie nach Rücksprache mit einem Arzt die Einnahme eines Vitamin-C-Präparats"
       ],
       "color": "orange"
     },
     {
       "minScore": 21,
       "maxScore": 30,
-      "tier": "High Risk",
-      "title": "High Risk — Possible Vitamin C Deficiency",
-      "description": "Your symptom profile strongly suggests possible vitamin C deficiency. Consult a healthcare provider for blood testing and guided supplementation.",
+      "tier": "Hohes Risiko",
+      "title": "Hohes Risiko — Möglicher Vitamin-C-Mangel",
+      "description": "Ihr Symptomprofil deutet stark auf einen möglichen Vitamin-C-Mangel hin. Konsultieren Sie einen Arzt für eine Blutuntersuchung und eine gezielte Supplementierung.",
       "recommendations": [
-        "See a healthcare provider as soon as possible",
-        "Request a serum ascorbic acid blood test",
-        "Discuss vitamin C supplementation with your doctor",
-        "Review your overall diet with a registered dietitian"
+        "Suchen Sie so bald wie möglich einen Arzt auf",
+        "Bitten Sie um einen Serum-Ascorbinsäure-Bluttest",
+        "Besprechen Sie eine Vitamin-C-Supplementierung mit Ihrem Arzt",
+        "Lassen Sie Ihre gesamte Ernährung von einem qualifizierten Ernährungsberater überprüfen"
       ],
       "color": "red"
     }
   ],
   "faq": [
     {
-      "question": "What are the most common symptoms of vitamin C deficiency?",
-      "answer": "The most common early symptoms include bleeding or swollen gums, easy bruising, slow wound healing, persistent fatigue, and dry or rough skin. Severe deficiency (scurvy) can cause joint pain, anemia, and tooth loss."
+      "question": "Was sind die häufigsten Symptome eines Vitamin-C-Mangels?",
+      "answer": "Die häufigsten frühen Symptome sind Zahnfleischbluten oder geschwollenes Zahnfleisch, leichte Blutergüsse, langsame Wundheilung, anhaltende Müdigkeit und trockene oder raue Haut. Ein schwerer Mangel (Skorbut) kann Gelenkschmerzen, Anämie und Zahnverlust verursachen."
     },
     {
-      "question": "How much vitamin C do I need daily?",
-      "answer": "The recommended daily allowance is 75 mg for women and 90 mg for men. Smokers need an additional 35 mg per day. Most people can meet this through diet alone by eating citrus fruits, bell peppers, strawberries, and broccoli."
+      "question": "Wie viel Vitamin C brauche ich täglich?",
+      "answer": "Die empfohlene Tagesdosis beträgt 75 mg für Frauen und 90 mg für Männer. Raucher benötigen zusätzlich 35 mg pro Tag. Die meisten Menschen können diesen Bedarf allein durch die Ernährung decken, indem sie Zitrusfrüchte, Paprika, Erdbeeren und Brokkoli essen."
     },
     {
-      "question": "Can I take too much vitamin C?",
-      "answer": "The upper limit is 2,000 mg per day for adults. Excess vitamin C is excreted in urine, but very high doses can cause gastrointestinal issues like diarrhea, nausea, and stomach cramps. Megadoses may also increase kidney stone risk."
+      "question": "Kann ich zu viel Vitamin C einnehmen?",
+      "answer": "Die Obergrenze liegt bei 2.000 mg pro Tag für Erwachsene. Überschüssiges Vitamin C wird über den Urin ausgeschieden, aber sehr hohe Dosen können Magen-Darm-Beschwerden wie Durchfall, Übelkeit und Magenkrämpfe verursachen. Megadosen können auch das Risiko für Nierensteine erhöhen."
     },
     {
-      "question": "Who is most at risk for vitamin C deficiency?",
-      "answer": "High-risk groups include smokers, people with limited fruit and vegetable intake, individuals with malabsorption conditions, and those with chronic illnesses. Older adults and people with alcohol use disorder are also at elevated risk."
+      "question": "Wer hat das höchste Risiko für einen Vitamin-C-Mangel?",
+      "answer": "Zu den Hochrisikogruppen gehören Raucher, Menschen mit geringem Obst- und Gemüseverzehr, Personen mit Malabsorptionserkrankungen und Menschen mit chronischen Krankheiten. Ältere Erwachsene und Menschen mit Alkoholkonsumstörungen haben ebenfalls ein erhöhtes Risiko."
     }
   ],
   "relatedSlugs": ["iron-deficiency", "zinc-deficiency", "vitamin-a-deficiency"],

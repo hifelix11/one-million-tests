@@ -1,110 +1,110 @@
 {
   "slug": "vitamin-d-deficiency",
-  "title": "Vitamin D Deficiency Risk Assessment",
+  "title": "Vitamin-D-Mangel-Risikobewertung",
   "shortTitle": "Vitamin D",
-  "description": "Assess your vitamin D deficiency risk with our free quiz. Evaluate sun exposure, diet, symptoms like bone pain and fatigue in this evidence-based screening tool.",
+  "description": "Bewerten Sie Ihr Vitamin-D-Mangel-Risiko mit unserem kostenlosen Quiz. Beurteilen Sie Sonneneinstrahlung, Ernährung, Symptome wie Knochenschmerzen und Müdigkeit in diesem evidenzbasierten Screening-Tool.",
   "category": "vitamins-minerals",
-  "scientificBasis": "Based on the Vitamin D Deficiency Screening Questionnaire (VDDQ) and risk factor analysis published in the Journal of Clinical Endocrinology & Metabolism. Clinical deficiency defined as serum 25(OH)D below 20 ng/mL (50 nmol/L).",
-  "seoIntro": "Vitamin D, often called the 'sunshine vitamin,' plays a critical role in bone health, immune function, mood regulation, and muscle strength. Unlike most vitamins, your body can produce vitamin D when your skin is exposed to sunlight — but modern lifestyles, northern latitudes, and sun protection practices mean that deficiency is remarkably common worldwide.\n\nAn estimated 1 billion people globally have inadequate vitamin D levels. Risk factors include limited sun exposure, darker skin tones, living at high latitudes, aging, obesity, and certain medical conditions. Symptoms can be subtle — chronic fatigue, bone pain, muscle weakness, low mood (especially in winter), and frequent infections.\n\nThis self-assessment evaluates your key risk factors and symptoms against clinical screening criteria used by endocrinologists and primary care providers. The questions cover sun exposure, latitude, dietary intake, supplementation, and common deficiency symptoms.\n\nThis quiz is an educational tool, not a diagnosis. If your results suggest elevated risk, we recommend a simple 25(OH)D blood test, which is the gold standard for assessing vitamin D status. Consult your healthcare provider for testing and personalized supplementation guidance.",
+  "scientificBasis": "Basierend auf dem Vitamin-D-Mangel-Screening-Fragebogen (VDDQ) und der Risikofaktoranalyse, veröffentlicht im Journal of Clinical Endocrinology & Metabolism. Klinischer Mangel wird definiert als Serum-25(OH)D unter 20 ng/ml (50 nmol/l).",
+  "seoIntro": "Vitamin D, oft als \u201ESonnenvitamin\u201C bezeichnet, spielt eine entscheidende Rolle für die Knochengesundheit, die Immunfunktion, die Stimmungsregulation und die Muskelkraft. Im Gegensatz zu den meisten Vitaminen kann Ihr Körper Vitamin D produzieren, wenn Ihre Haut dem Sonnenlicht ausgesetzt ist – aber moderne Lebensweisen, nördliche Breitengrade und Sonnenschutzpraktiken führen dazu, dass ein Mangel weltweit bemerkenswert häufig ist.\n\nSchätzungsweise 1 Milliarde Menschen weltweit haben unzureichende Vitamin-D-Spiegel. Risikofaktoren umfassen begrenzte Sonneneinstrahlung, dunklere Hauttöne, Leben in hohen Breitengraden, Alterung, Adipositas und bestimmte Erkrankungen. Symptome können subtil sein – chronische Müdigkeit, Knochenschmerzen, Muskelschwäche, gedrückte Stimmung (besonders im Winter) und häufige Infektionen.\n\nDiese Selbstbewertung überprüft Ihre wichtigsten Risikofaktoren und Symptome anhand klinischer Screening-Kriterien, die von Endokrinologen und Hausärzten verwendet werden. Die Fragen umfassen Sonneneinstrahlung, Breitengrad, Nahrungsaufnahme, Nahrungsergänzung und häufige Mangelsymptome.\n\nDieses Quiz ist ein Informationswerkzeug und keine Diagnose. Wenn Ihre Ergebnisse auf ein erhöhtes Risiko hindeuten, empfehlen wir einen einfachen 25(OH)D-Bluttest, der der Goldstandard zur Beurteilung des Vitamin-D-Status ist. Wenden Sie sich an Ihren Arzt für Tests und eine individuelle Empfehlung zur Nahrungsergänzung.",
   "questions": [
     {
       "id": 1,
-      "text": "How much direct sunlight exposure do you get on bare skin (arms/face) per day?",
+      "text": "Wie viel direkte Sonneneinstrahlung erhalten Sie täglich auf unbedeckter Haut (Arme/Gesicht)?",
       "options": [
-        { "label": "30+ minutes outdoors daily", "value": 0 },
-        { "label": "15–30 minutes most days", "value": 1 },
-        { "label": "Less than 15 minutes most days", "value": 2 },
-        { "label": "I rarely go outside or always wear sunscreen/cover up", "value": 3 }
+        { "label": "Täglich 30+ Minuten im Freien", "value": 0 },
+        { "label": "An den meisten Tagen 15–30 Minuten", "value": 1 },
+        { "label": "An den meisten Tagen weniger als 15 Minuten", "value": 2 },
+        { "label": "Ich gehe selten nach draußen oder trage immer Sonnenschutz/bedeckende Kleidung", "value": 3 }
       ]
     },
     {
       "id": 2,
-      "text": "What latitude do you live at?",
+      "text": "Auf welchem Breitengrad leben Sie?",
       "options": [
-        { "label": "Tropical or subtropical — below 35°N/S", "value": 0 },
-        { "label": "Moderate — 35–45°N/S", "value": 1 },
-        { "label": "Northern/Southern — 45–55°N/S", "value": 2 },
-        { "label": "Far north/south — above 55°N/S", "value": 3 }
+        { "label": "Tropisch oder subtropisch — unter 35°N/S", "value": 0 },
+        { "label": "Gemäßigt — 35–45°N/S", "value": 1 },
+        { "label": "Nördlich/Südlich — 45–55°N/S", "value": 2 },
+        { "label": "Hoher Norden/Süden — über 55°N/S", "value": 3 }
       ]
     },
     {
       "id": 3,
-      "text": "What is your natural skin tone?",
+      "text": "Was ist Ihr natürlicher Hautton?",
       "options": [
-        { "label": "Light to medium", "value": 0 },
-        { "label": "Very fair/light — burns easily", "value": 1 },
-        { "label": "Medium to olive", "value": 2 },
-        { "label": "Dark brown to black", "value": 3 }
+        { "label": "Hell bis mittel", "value": 0 },
+        { "label": "Sehr hell — bekommt leicht Sonnenbrand", "value": 1 },
+        { "label": "Mittel bis oliv", "value": 2 },
+        { "label": "Dunkelbraun bis schwarz", "value": 3 }
       ]
     },
     {
       "id": 4,
-      "text": "Do you experience bone pain, especially in the lower back, hips, or legs?",
+      "text": "Haben Sie Knochenschmerzen, besonders im unteren Rücken, in den Hüften oder Beinen?",
       "options": [
-        { "label": "Never", "value": 0 },
-        { "label": "Occasionally", "value": 1 },
-        { "label": "Frequently", "value": 2 },
-        { "label": "Chronically", "value": 3 }
+        { "label": "Nie", "value": 0 },
+        { "label": "Gelegentlich", "value": 1 },
+        { "label": "Häufig", "value": 2 },
+        { "label": "Chronisch", "value": 3 }
       ]
     },
     {
       "id": 5,
-      "text": "Do you experience muscle weakness, cramps, or aches without clear cause?",
+      "text": "Haben Sie Muskelschwäche, Krämpfe oder Schmerzen ohne erkennbare Ursache?",
       "options": [
-        { "label": "Rarely", "value": 0 },
-        { "label": "Sometimes", "value": 1 },
-        { "label": "Often", "value": 2 },
-        { "label": "Very frequently", "value": 3 }
+        { "label": "Selten", "value": 0 },
+        { "label": "Manchmal", "value": 1 },
+        { "label": "Häufig", "value": 2 },
+        { "label": "Sehr häufig", "value": 3 }
       ]
     },
     {
       "id": 6,
-      "text": "How would you describe your mood during winter months?",
+      "text": "Wie würden Sie Ihre Stimmung in den Wintermonaten beschreiben?",
       "options": [
-        { "label": "No change — I feel fine year-round", "value": 0 },
-        { "label": "Slightly lower mood in winter", "value": 1 },
-        { "label": "Noticeably lower mood, less motivation", "value": 2 },
-        { "label": "Significant mood drop — possible seasonal depression", "value": 3 }
+        { "label": "Keine Veränderung — ich fühle mich das ganze Jahr über gut", "value": 0 },
+        { "label": "Leicht gedrückte Stimmung im Winter", "value": 1 },
+        { "label": "Merklich schlechtere Stimmung, weniger Motivation", "value": 2 },
+        { "label": "Starker Stimmungsabfall — mögliche saisonale Depression", "value": 3 }
       ]
     },
     {
       "id": 7,
-      "text": "How often do you consume vitamin D-rich foods (fatty fish, egg yolks, fortified milk/cereals)?",
+      "text": "Wie oft konsumieren Sie Vitamin-D-reiche Lebensmittel (fetter Fisch, Eigelb, angereicherte Milch/Cerealien)?",
       "options": [
-        { "label": "Daily", "value": 0 },
-        { "label": "Several times a week", "value": 1 },
-        { "label": "Rarely", "value": 2 },
-        { "label": "Almost never", "value": 3 }
+        { "label": "Täglich", "value": 0 },
+        { "label": "Mehrmals pro Woche", "value": 1 },
+        { "label": "Selten", "value": 2 },
+        { "label": "Fast nie", "value": 3 }
       ]
     },
     {
       "id": 8,
-      "text": "Do you take a vitamin D supplement?",
+      "text": "Nehmen Sie ein Vitamin-D-Präparat ein?",
       "options": [
-        { "label": "Yes, regularly", "value": 0 },
-        { "label": "Occasionally", "value": 1 },
-        { "label": "I used to but stopped", "value": 2 },
-        { "label": "Never", "value": 3 }
+        { "label": "Ja, regelmäßig", "value": 0 },
+        { "label": "Gelegentlich", "value": 1 },
+        { "label": "Ich habe es genommen, aber aufgehört", "value": 2 },
+        { "label": "Nie", "value": 3 }
       ]
     },
     {
       "id": 9,
-      "text": "Have you experienced stress fractures or been told you have low bone density?",
+      "text": "Hatten Sie Ermüdungsbrüche oder wurde Ihnen eine niedrige Knochendichte mitgeteilt?",
       "options": [
-        { "label": "No", "value": 0 },
-        { "label": "I've had one stress fracture", "value": 1 },
-        { "label": "Multiple fractures or a bone density concern", "value": 2 },
-        { "label": "Diagnosed osteopenia or osteoporosis", "value": 3 }
+        { "label": "Nein", "value": 0 },
+        { "label": "Ich hatte einen Ermüdungsbruch", "value": 1 },
+        { "label": "Mehrere Brüche oder ein Knochendichteproblem", "value": 2 },
+        { "label": "Diagnostizierte Osteopenie oder Osteoporose", "value": 3 }
       ]
     },
     {
       "id": 10,
-      "text": "Do you experience frequent fatigue even after adequate sleep?",
+      "text": "Fühlen Sie sich häufig müde, auch nach ausreichend Schlaf?",
       "options": [
-        { "label": "Rarely", "value": 0 },
-        { "label": "Sometimes", "value": 1 },
-        { "label": "Often", "value": 2 },
-        { "label": "Almost always", "value": 3 }
+        { "label": "Selten", "value": 0 },
+        { "label": "Manchmal", "value": 1 },
+        { "label": "Häufig", "value": 2 },
+        { "label": "Fast immer", "value": 3 }
       ]
     }
   ],
@@ -112,74 +112,74 @@
     {
       "minScore": 0,
       "maxScore": 6,
-      "tier": "Low Risk",
-      "title": "Low Risk — Vitamin D Status Likely Adequate",
-      "description": "Your lifestyle and symptoms suggest adequate vitamin D levels. Continue current habits including regular sun exposure and dietary vitamin D sources.",
+      "tier": "Niedriges Risiko",
+      "title": "Niedriges Risiko — Vitamin-D-Status wahrscheinlich ausreichend",
+      "description": "Ihr Lebensstil und Ihre Symptome deuten auf ausreichende Vitamin-D-Spiegel hin. Setzen Sie Ihre bisherigen Gewohnheiten fort, einschließlich regelmäßiger Sonneneinstrahlung und Vitamin-D-reicher Nahrungsquellen.",
       "recommendations": [
-        "Maintain regular sun exposure and vitamin D-rich food intake",
-        "Continue current supplementation if applicable"
+        "Behalten Sie regelmäßige Sonneneinstrahlung und die Aufnahme von Vitamin-D-reichen Lebensmitteln bei",
+        "Setzen Sie die aktuelle Nahrungsergänzung fort, falls zutreffend"
       ],
       "color": "green"
     },
     {
       "minScore": 7,
       "maxScore": 13,
-      "tier": "Mild Risk",
-      "title": "Mild Risk — Some Vitamin D Risk Factors Present",
-      "description": "Some risk factors present. Consider a 25(OH)D blood test, especially if you live at a northern latitude or have limited sun exposure.",
+      "tier": "Leichtes Risiko",
+      "title": "Leichtes Risiko — Einige Vitamin-D-Risikofaktoren vorhanden",
+      "description": "Einige Risikofaktoren sind vorhanden. Erwägen Sie einen 25(OH)D-Bluttest, insbesondere wenn Sie in einem nördlichen Breitengrad leben oder nur begrenzte Sonneneinstrahlung haben.",
       "recommendations": [
-        "Consider getting a 25(OH)D blood test",
-        "Increase vitamin D-rich foods (fatty fish, fortified dairy, eggs)",
-        "Consider a vitamin D3 supplement of 1000 IU/day",
-        "Try to get 15–30 minutes of midday sun exposure when possible"
+        "Erwägen Sie einen 25(OH)D-Bluttest",
+        "Erhöhen Sie den Verzehr von Vitamin-D-reichen Lebensmitteln (fetter Fisch, angereicherte Milchprodukte, Eier)",
+        "Erwägen Sie ein Vitamin-D3-Präparat mit 1000 IE/Tag",
+        "Versuchen Sie, wenn möglich 15–30 Minuten Mittagssonne zu bekommen"
       ],
       "color": "yellow"
     },
     {
       "minScore": 14,
       "maxScore": 20,
-      "tier": "Moderate Risk",
-      "title": "Moderate Risk — Vitamin D Insufficiency Likely",
-      "description": "Multiple risk factors and symptoms align with vitamin D insufficiency. Blood testing and supplementation discussion with a provider recommended.",
+      "tier": "Mittleres Risiko",
+      "title": "Mittleres Risiko — Vitamin-D-Insuffizienz wahrscheinlich",
+      "description": "Mehrere Risikofaktoren und Symptome deuten auf eine Vitamin-D-Insuffizienz hin. Ein Bluttest und eine Besprechung der Nahrungsergänzung mit Ihrem Arzt werden empfohlen.",
       "recommendations": [
-        "Request a 25(OH)D blood test from your healthcare provider",
-        "Discuss vitamin D3 supplementation (1000–2000 IU/day)",
-        "Increase dietary vitamin D sources",
-        "Consider a bone density assessment if you have fracture history"
+        "Bitten Sie Ihren Arzt um einen 25(OH)D-Bluttest",
+        "Besprechen Sie eine Vitamin-D3-Supplementierung (1000–2000 IE/Tag)",
+        "Erhöhen Sie die Vitamin-D-Aufnahme über die Nahrung",
+        "Erwägen Sie eine Knochendichtemessung, falls Sie Knochenbrüche in der Vorgeschichte haben"
       ],
       "color": "orange"
     },
     {
       "minScore": 21,
       "maxScore": 30,
-      "tier": "High Risk",
-      "title": "High Risk — Possible Vitamin D Deficiency",
-      "description": "Strong risk profile for vitamin D deficiency. Seek a 25(OH)D blood test. Supplementation of 1000–4000 IU/day is commonly recommended pending lab results.",
+      "tier": "Hohes Risiko",
+      "title": "Hohes Risiko — Möglicher Vitamin-D-Mangel",
+      "description": "Starkes Risikoprofil für einen Vitamin-D-Mangel. Lassen Sie einen 25(OH)D-Bluttest durchführen. Eine Supplementierung von 1000–4000 IE/Tag wird bis zum Vorliegen der Laborergebnisse häufig empfohlen.",
       "recommendations": [
-        "See your healthcare provider for a 25(OH)D blood test",
-        "Discuss high-dose vitamin D3 supplementation",
-        "Request a comprehensive bone health assessment",
-        "Review all risk factors with your provider for a personalized plan"
+        "Suchen Sie Ihren Arzt für einen 25(OH)D-Bluttest auf",
+        "Besprechen Sie eine hochdosierte Vitamin-D3-Supplementierung",
+        "Fordern Sie eine umfassende Beurteilung der Knochengesundheit an",
+        "Besprechen Sie alle Risikofaktoren mit Ihrem Arzt für einen individuellen Plan"
       ],
       "color": "red"
     }
   ],
   "faq": [
     {
-      "question": "What is the best way to test for vitamin D deficiency?",
-      "answer": "The 25-hydroxyvitamin D [25(OH)D] blood test is the gold standard. Levels below 20 ng/mL indicate deficiency, 20–29 ng/mL indicate insufficiency, and 30+ ng/mL is considered adequate by most experts."
+      "question": "Was ist der beste Weg, um einen Vitamin-D-Mangel zu testen?",
+      "answer": "Der 25-Hydroxyvitamin-D-[25(OH)D]-Bluttest ist der Goldstandard. Werte unter 20 ng/ml weisen auf einen Mangel hin, 20–29 ng/ml auf eine Insuffizienz, und 30+ ng/ml gelten bei den meisten Experten als ausreichend."
     },
     {
-      "question": "How much vitamin D do I need daily?",
-      "answer": "The RDA is 600 IU for adults under 70 and 800 IU for those over 70. However, many experts recommend 1000–2000 IU daily, especially for those with limited sun exposure or at northern latitudes."
+      "question": "Wie viel Vitamin D brauche ich täglich?",
+      "answer": "Die empfohlene Tagesdosis beträgt 600 IE für Erwachsene unter 70 Jahren und 800 IE für Personen über 70 Jahre. Viele Experten empfehlen jedoch 1000–2000 IE täglich, insbesondere für Personen mit begrenzter Sonneneinstrahlung oder in nördlichen Breitengraden."
     },
     {
-      "question": "Can I get enough vitamin D from sunlight alone?",
-      "answer": "It depends on your latitude, skin tone, time of year, and sun exposure habits. People living above 35°N latitude cannot produce sufficient vitamin D from sunlight during winter months. Dark-skinned individuals need significantly more sun exposure."
+      "question": "Kann ich genug Vitamin D allein durch Sonnenlicht bekommen?",
+      "answer": "Das hängt von Ihrem Breitengrad, Hautton, der Jahreszeit und Ihren Gewohnheiten bezüglich Sonneneinstrahlung ab. Menschen, die oberhalb des 35. nördlichen Breitengrades leben, können in den Wintermonaten nicht genügend Vitamin D durch Sonnenlicht produzieren. Dunkelhäutige Personen benötigen deutlich mehr Sonneneinstrahlung."
     },
     {
-      "question": "What foods are highest in vitamin D?",
-      "answer": "Fatty fish (salmon, mackerel, sardines) are the richest natural sources. Egg yolks, fortified milk, fortified orange juice, and fortified cereals also contribute. Cod liver oil is extremely high in vitamin D but should be used carefully."
+      "question": "Welche Lebensmittel enthalten am meisten Vitamin D?",
+      "answer": "Fetter Fisch (Lachs, Makrele, Sardinen) ist die reichhaltigste natürliche Quelle. Eigelb, angereicherte Milch, angereicherter Orangensaft und angereicherte Cerealien tragen ebenfalls bei. Lebertran ist extrem reich an Vitamin D, sollte aber mit Vorsicht verwendet werden."
     }
   ],
   "relatedSlugs": ["calcium-deficiency", "magnesium-deficiency", "vitamin-b12-deficiency"],

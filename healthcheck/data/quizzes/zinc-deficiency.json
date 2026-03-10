@@ -1,110 +1,110 @@
 {
   "slug": "zinc-deficiency",
-  "title": "Zinc Deficiency Risk Assessment",
-  "shortTitle": "Zinc",
-  "description": "Assess your zinc deficiency risk with our free quiz. Check for signs like weakened immunity, hair loss, slow healing, and taste changes in this clinical screening.",
+  "title": "Zinkmangel-Risikobewertung",
+  "shortTitle": "Zink",
+  "description": "Bewerten Sie Ihr Zinkmangelrisiko mit unserem kostenlosen Quiz. Prüfen Sie Anzeichen wie geschwächte Immunität, Haarausfall, langsame Wundheilung und Geschmacksveränderungen in diesem klinischen Screening.",
   "category": "vitamins-minerals",
-  "scientificBasis": "Based on the International Zinc Nutrition Consultative Group (IZiNCG) risk assessment criteria and clinical symptoms documented in the Journal of Nutrition. Deficiency is common in plant-based diets due to phytate inhibition of absorption.",
-  "seoIntro": "Zinc is a trace mineral that punches well above its weight in terms of biological importance. It's essential for immune function, wound healing, DNA synthesis, cell division, taste and smell perception, and protein synthesis. Your body doesn't store zinc, so you need a consistent daily intake from food or supplements.\n\nZinc deficiency is more common than many realize, particularly among vegetarians and vegans (plant-based foods contain phytates that inhibit zinc absorption), older adults, pregnant women, and people with gastrointestinal conditions. Even mild deficiency can impair immune function and slow wound healing.\n\nClassic signs of zinc deficiency include frequent infections and slow recovery from illness, reduced sense of taste or smell, slow wound healing, skin problems (acne, dermatitis, dry patches), white spots on fingernails, hair loss, and poor appetite. These symptoms overlap with other conditions, making zinc deficiency easy to overlook.\n\nThis self-assessment evaluates your dietary intake, risk factors, and symptoms against established clinical criteria for zinc insufficiency. If your results suggest concern, a plasma zinc test can help confirm your status, though interpretation requires clinical context since zinc levels fluctuate throughout the day.",
+  "scientificBasis": "Basierend auf den Risikobewertungskriterien der International Zinc Nutrition Consultative Group (IZiNCG) und klinischen Symptomen, die im Journal of Nutrition dokumentiert sind. Ein Mangel ist bei pflanzlicher Ernährung aufgrund der Phytathemmung der Absorption häufig.",
+  "seoIntro": "Zink ist ein Spurenelement, dessen biologische Bedeutung weit über seine geringe Menge hinausgeht. Es ist essenziell für die Immunfunktion, Wundheilung, DNA-Synthese, Zellteilung, Geschmacks- und Geruchswahrnehmung sowie die Proteinsynthese. Ihr Körper speichert kein Zink, daher benötigen Sie eine konstante tägliche Zufuhr über Nahrung oder Nahrungsergänzungsmittel.\n\nZinkmangel ist häufiger als viele denken, insbesondere bei Vegetariern und Veganern (pflanzliche Lebensmittel enthalten Phytate, die die Zinkabsorption hemmen), älteren Erwachsenen, schwangeren Frauen und Menschen mit Magen-Darm-Erkrankungen. Selbst ein leichter Mangel kann die Immunfunktion beeinträchtigen und die Wundheilung verlangsamen.\n\nKlassische Anzeichen eines Zinkmangels sind häufige Infektionen und langsame Erholung von Krankheiten, verminderter Geschmacks- oder Geruchssinn, langsame Wundheilung, Hautprobleme (Akne, Dermatitis, trockene Stellen), weiße Flecken auf den Fingernägeln, Haarausfall und Appetitlosigkeit. Diese Symptome überschneiden sich mit anderen Erkrankungen, wodurch ein Zinkmangel leicht übersehen werden kann.\n\nDiese Selbstbewertung untersucht Ihre Nahrungsaufnahme, Risikofaktoren und Symptome anhand etablierter klinischer Kriterien für Zinkmangel. Wenn Ihre Ergebnisse Anlass zur Sorge geben, kann ein Plasmazinktest Ihren Status bestätigen, wobei die Interpretation einen klinischen Kontext erfordert, da die Zinkwerte im Tagesverlauf schwanken.",
   "questions": [
     {
       "id": 1,
-      "text": "Do you experience a reduced sense of taste or smell?",
+      "text": "Haben Sie einen verminderten Geschmacks- oder Geruchssinn?",
       "options": [
-        { "label": "No — both are normal", "value": 0 },
-        { "label": "Slightly diminished", "value": 1 },
-        { "label": "Noticeably reduced", "value": 2 },
-        { "label": "Significantly impaired", "value": 3 }
+        { "label": "Nein — beides ist normal", "value": 0 },
+        { "label": "Leicht vermindert", "value": 1 },
+        { "label": "Merklich reduziert", "value": 2 },
+        { "label": "Erheblich beeinträchtigt", "value": 3 }
       ]
     },
     {
       "id": 2,
-      "text": "How often do you get colds, infections, or feel your immune system is weak?",
+      "text": "Wie oft bekommen Sie Erkältungen, Infektionen oder haben das Gefühl, dass Ihr Immunsystem geschwächt ist?",
       "options": [
-        { "label": "Rarely — once a year or less", "value": 0 },
-        { "label": "Occasionally", "value": 1 },
-        { "label": "Frequently — every few months", "value": 2 },
-        { "label": "Very often", "value": 3 }
+        { "label": "Selten — einmal im Jahr oder weniger", "value": 0 },
+        { "label": "Gelegentlich", "value": 1 },
+        { "label": "Häufig — alle paar Monate", "value": 2 },
+        { "label": "Sehr oft", "value": 3 }
       ]
     },
     {
       "id": 3,
-      "text": "Do you experience slow wound healing?",
+      "text": "Haben Sie eine langsame Wundheilung?",
       "options": [
-        { "label": "Wounds heal quickly", "value": 0 },
-        { "label": "Slightly slow", "value": 1 },
-        { "label": "Noticeably slow", "value": 2 },
-        { "label": "Very slow", "value": 3 }
+        { "label": "Wunden heilen schnell", "value": 0 },
+        { "label": "Etwas langsam", "value": 1 },
+        { "label": "Merklich langsam", "value": 2 },
+        { "label": "Sehr langsam", "value": 3 }
       ]
     },
     {
       "id": 4,
-      "text": "Do you experience skin issues (acne, dermatitis, rashes, dry patches)?",
+      "text": "Haben Sie Hautprobleme (Akne, Dermatitis, Ausschläge, trockene Stellen)?",
       "options": [
-        { "label": "Clear, healthy skin", "value": 0 },
-        { "label": "Occasional minor issues", "value": 1 },
-        { "label": "Persistent skin problems", "value": 2 },
-        { "label": "Chronic or severe skin conditions", "value": 3 }
+        { "label": "Klare, gesunde Haut", "value": 0 },
+        { "label": "Gelegentliche kleinere Probleme", "value": 1 },
+        { "label": "Anhaltende Hautprobleme", "value": 2 },
+        { "label": "Chronische oder schwere Hauterkrankungen", "value": 3 }
       ]
     },
     {
       "id": 5,
-      "text": "Do you have white spots on your fingernails?",
+      "text": "Haben Sie weiße Flecken auf Ihren Fingernägeln?",
       "options": [
-        { "label": "None", "value": 0 },
-        { "label": "A few", "value": 1 },
-        { "label": "Several", "value": 2 },
-        { "label": "Many across multiple nails", "value": 3 }
+        { "label": "Keine", "value": 0 },
+        { "label": "Ein paar", "value": 1 },
+        { "label": "Mehrere", "value": 2 },
+        { "label": "Viele auf mehreren Nägeln", "value": 3 }
       ]
     },
     {
       "id": 6,
-      "text": "How often do you consume zinc-rich foods (oysters, red meat, poultry, beans, nuts)?",
+      "text": "Wie oft essen Sie zinkreiche Lebensmittel (Austern, rotes Fleisch, Geflügel, Bohnen, Nüsse)?",
       "options": [
-        { "label": "Daily", "value": 0 },
-        { "label": "Several times per week", "value": 1 },
-        { "label": "Rarely", "value": 2 },
-        { "label": "Almost never", "value": 3 }
+        { "label": "Täglich", "value": 0 },
+        { "label": "Mehrmals pro Woche", "value": 1 },
+        { "label": "Selten", "value": 2 },
+        { "label": "Fast nie", "value": 3 }
       ]
     },
     {
       "id": 7,
-      "text": "Do you follow a vegetarian or vegan diet?",
+      "text": "Ernähren Sie sich vegetarisch oder vegan?",
       "options": [
-        { "label": "No", "value": 0 },
-        { "label": "Mostly plant-based with some animal foods", "value": 1 },
-        { "label": "Vegetarian", "value": 2 },
+        { "label": "Nein", "value": 0 },
+        { "label": "Überwiegend pflanzlich mit einigen tierischen Lebensmitteln", "value": 1 },
+        { "label": "Vegetarisch", "value": 2 },
         { "label": "Vegan", "value": 3 }
       ]
     },
     {
       "id": 8,
-      "text": "Do you experience hair loss or thinning?",
+      "text": "Leiden Sie unter Haarausfall oder dünner werdendem Haar?",
       "options": [
-        { "label": "No", "value": 0 },
-        { "label": "Mild thinning", "value": 1 },
-        { "label": "Noticeable loss", "value": 2 },
-        { "label": "Significant loss", "value": 3 }
+        { "label": "Nein", "value": 0 },
+        { "label": "Leichtes Ausdünnen", "value": 1 },
+        { "label": "Merklicher Haarausfall", "value": 2 },
+        { "label": "Erheblicher Haarausfall", "value": 3 }
       ]
     },
     {
       "id": 9,
-      "text": "Do you experience poor appetite or unexplained weight loss?",
+      "text": "Haben Sie Appetitlosigkeit oder unerklärlichen Gewichtsverlust?",
       "options": [
-        { "label": "Healthy appetite", "value": 0 },
-        { "label": "Slightly reduced appetite", "value": 1 },
-        { "label": "Often not hungry", "value": 2 },
-        { "label": "Significant appetite loss", "value": 3 }
+        { "label": "Gesunder Appetit", "value": 0 },
+        { "label": "Leicht verminderter Appetit", "value": 1 },
+        { "label": "Oft keinen Hunger", "value": 2 },
+        { "label": "Erheblicher Appetitverlust", "value": 3 }
       ]
     },
     {
       "id": 10,
-      "text": "Do you consume significant amounts of alcohol, or do you have a gastrointestinal condition?",
+      "text": "Konsumieren Sie erhebliche Mengen Alkohol oder haben Sie eine Magen-Darm-Erkrankung?",
       "options": [
-        { "label": "Neither", "value": 0 },
-        { "label": "One mild factor", "value": 1 },
-        { "label": "One significant factor", "value": 2 },
-        { "label": "Both or severe", "value": 3 }
+        { "label": "Keines von beidem", "value": 0 },
+        { "label": "Ein leichter Faktor", "value": 1 },
+        { "label": "Ein bedeutender Faktor", "value": 2 },
+        { "label": "Beides oder schwerwiegend", "value": 3 }
       ]
     }
   ],
@@ -112,70 +112,70 @@
     {
       "minScore": 0,
       "maxScore": 6,
-      "tier": "Low Risk",
-      "title": "Low Risk — Zinc Status Likely Adequate",
-      "description": "No significant indicators of zinc deficiency. Your dietary intake and symptoms suggest adequate zinc levels.",
+      "tier": "Niedriges Risiko",
+      "title": "Niedriges Risiko — Zinkstatus wahrscheinlich ausreichend",
+      "description": "Keine wesentlichen Anzeichen für einen Zinkmangel. Ihre Nahrungsaufnahme und Symptome deuten auf einen ausreichenden Zinkspiegel hin.",
       "recommendations": [
-        "Continue your current zinc-rich diet",
-        "No immediate action needed"
+        "Setzen Sie Ihre aktuelle zinkreiche Ernährung fort",
+        "Kein sofortiger Handlungsbedarf"
       ],
       "color": "green"
     },
     {
       "minScore": 7,
       "maxScore": 13,
-      "tier": "Mild Risk",
-      "title": "Mild Risk — Suboptimal Zinc Possible",
-      "description": "Some risk factors present. Ensure adequate dietary zinc, especially if plant-based.",
+      "tier": "Leichtes Risiko",
+      "title": "Leichtes Risiko — Suboptimale Zinkversorgung möglich",
+      "description": "Einige Risikofaktoren vorhanden. Stellen Sie eine ausreichende Zinkzufuhr über die Ernährung sicher, insbesondere bei pflanzlicher Ernährung.",
       "recommendations": [
-        "Increase zinc-rich foods in your diet",
-        "If plant-based, soak and sprout legumes/grains to reduce phytates",
-        "Consider a zinc supplement (15–30 mg/day) if dietary intake is limited",
-        "Pair zinc-rich plant foods with allium vegetables (garlic, onion) to enhance absorption"
+        "Erhöhen Sie den Anteil zinkreicher Lebensmittel in Ihrer Ernährung",
+        "Bei pflanzlicher Ernährung: Hülsenfrüchte und Getreide einweichen und keimen lassen, um Phytate zu reduzieren",
+        "Erwägen Sie ein Zinkpräparat (15–30 mg/Tag), wenn die Nahrungsaufnahme begrenzt ist",
+        "Kombinieren Sie zinkreiche pflanzliche Lebensmittel mit Lauchgemüse (Knoblauch, Zwiebel), um die Absorption zu verbessern"
       ],
       "color": "yellow"
     },
     {
       "minScore": 14,
       "maxScore": 20,
-      "tier": "Moderate Risk",
-      "title": "Moderate Risk — Possible Zinc Insufficiency",
-      "description": "Multiple indicators suggest possible zinc insufficiency. Consider plasma zinc testing.",
+      "tier": "Mittleres Risiko",
+      "title": "Mittleres Risiko — Mögliche Zinkunterversorgung",
+      "description": "Mehrere Indikatoren deuten auf eine mögliche Zinkunterversorgung hin. Erwägen Sie einen Plasmazinktest.",
       "recommendations": [
-        "Request a plasma zinc test from your healthcare provider",
-        "Discuss symptoms with your doctor",
-        "Review dietary zinc intake with a dietitian",
-        "Consider zinc supplementation under medical guidance"
+        "Bitten Sie Ihren Arzt um einen Plasmazinktest",
+        "Besprechen Sie die Symptome mit Ihrem Arzt",
+        "Lassen Sie Ihre Zinkzufuhr von einem Ernährungsberater überprüfen",
+        "Erwägen Sie eine Zinkergänzung unter ärztlicher Anleitung"
       ],
       "color": "orange"
     },
     {
       "minScore": 21,
       "maxScore": 30,
-      "tier": "High Risk",
-      "title": "High Risk — Possible Zinc Deficiency",
-      "description": "Strong risk profile. Consult a healthcare provider for testing and possible supplementation.",
+      "tier": "Hohes Risiko",
+      "title": "Hohes Risiko — Möglicher Zinkmangel",
+      "description": "Starkes Risikoprofil. Konsultieren Sie einen Arzt für Tests und eine mögliche Supplementierung.",
       "recommendations": [
-        "See your healthcare provider for plasma zinc testing",
-        "Discuss zinc supplementation protocol",
-        "Investigate potential absorption issues",
-        "Review diet comprehensively with a registered dietitian"
+        "Suchen Sie Ihren Arzt für einen Plasmazinktest auf",
+        "Besprechen Sie ein Zinksupplementierungsprotokoll",
+        "Lassen Sie mögliche Absorptionsprobleme untersuchen",
+        "Lassen Sie Ihre Ernährung umfassend von einem qualifizierten Ernährungsberater überprüfen"
       ],
       "color": "red"
     }
   ],
   "faq": [
     {
-      "question": "What are the best food sources of zinc?",
-      "answer": "Oysters are by far the richest source (74 mg per serving). Other excellent sources include red meat, crab, lobster, poultry, pork, beans, nuts, whole grains, and dairy. Plant-based sources contain phytates that reduce absorption, so vegetarians may need up to 50% more zinc."
+      "question": "Was sind die besten Nahrungsquellen für Zink?",
+      "answer": "Austern sind bei Weitem die reichhaltigste Quelle (74 mg pro Portion). Weitere ausgezeichnete Quellen sind rotes Fleisch, Krabben, Hummer, Geflügel, Schweinefleisch, Bohnen, Nüsse, Vollkornprodukte und Milchprodukte. Pflanzliche Quellen enthalten Phytate, die die Absorption verringern, sodass Vegetarier möglicherweise bis zu 50 % mehr Zink benötigen."
     },
     {
-      "question": "Why are vegetarians at higher risk for zinc deficiency?",
-      "answer": "Plant foods contain phytates that bind to zinc and inhibit its absorption. Vegetarians and vegans may absorb up to 50% less zinc from their diet. Soaking, sprouting, and fermenting grains and legumes can reduce phytate content and improve zinc absorption."
+      "question": "Warum haben Vegetarier ein höheres Risiko für Zinkmangel?",
+      "answer": "Pflanzliche Lebensmittel enthalten Phytate, die Zink binden und dessen Absorption hemmen. Vegetarier und Veganer können bis zu 50 % weniger Zink aus ihrer Nahrung aufnehmen. Das Einweichen, Keimen und Fermentieren von Getreide und Hülsenfrüchten kann den Phytatgehalt reduzieren und die Zinkabsorption verbessern."
     },
     {
-      "question": "Can zinc help with colds?",
-      "answer": "Research suggests that zinc lozenges or syrup taken within 24 hours of cold symptom onset may reduce the duration and severity of colds. However, zinc nasal sprays should be avoided as they've been linked to permanent loss of smell."
+      "question": "Kann Zink bei Erkältungen helfen?",
+      "answer": "Forschungsergebnisse deuten darauf hin, dass Zinkpastillen oder -sirup, die innerhalb von 24 Stunden nach Auftreten der Erkältungssymptome eingenommen werden, die Dauer und Schwere von Erkältungen reduzieren können. Zink-Nasensprays sollten jedoch vermieden werden, da sie mit einem dauerhaften Verlust des Geruchssinns in Verbindung gebracht wurden."
     }
   ],
   "relatedSlugs": ["vitamin-c-deficiency", "iron-deficiency", "vitamin-a-deficiency"],

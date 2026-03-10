@@ -18,10 +18,10 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const { category } = await params;
   const label = CATEGORY_LABELS[category] ?? category;
   return {
-    title: `${label} Quizzes — Free Self-Assessments`,
+    title: `${label} Tests — Kostenlose Selbsttests`,
     description:
       CATEGORY_DESCRIPTIONS[category] ??
-      `Browse our ${label} health self-assessment quizzes.`,
+      `Durchsuchen Sie unsere ${label} Gesundheits-Selbsttests.`,
   };
 }
 
@@ -58,7 +58,7 @@ export default async function CategoryPage({ params }: PageProps) {
               {quiz.description}
             </p>
             <span className="mt-4 inline-block text-sm font-medium text-teal-600 group-hover:text-teal-700">
-              Take the quiz &rarr;
+              Zum Test &rarr;
             </span>
           </Link>
         ))}
@@ -66,7 +66,7 @@ export default async function CategoryPage({ params }: PageProps) {
 
       {/* Cross-links to other categories */}
       <section className="mt-16">
-        <h2 className="text-xl font-bold text-gray-900">Other Categories</h2>
+        <h2 className="text-xl font-bold text-gray-900">Andere Kategorien</h2>
         <div className="mt-4 flex flex-wrap gap-3">
           {getAllCategories()
             .filter((c) => c !== category)

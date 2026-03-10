@@ -60,7 +60,7 @@ export default function ResultCard({ result, score, maxScore }: ResultCardProps)
       </div>
 
       <div className="mt-6">
-        <h3 className="text-lg font-semibold text-gray-900">Recommendations</h3>
+        <h3 className="text-lg font-semibold text-gray-900">Empfehlungen</h3>
         <ul className="mt-3 space-y-2">
           {result.recommendations.map((rec, i) => (
             <li key={i} className="flex items-start gap-2 text-sm text-gray-700">
@@ -72,8 +72,7 @@ export default function ResultCard({ result, score, maxScore }: ResultCardProps)
       </div>
 
       <div className="mt-6 rounded-lg border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-800">
-        This result is based on your self-reported symptoms and is not a
-        substitute for professional medical advice, diagnosis, or treatment.
+        Dieses Ergebnis basiert auf Ihren selbst angegebenen Symptomen und ist kein Ersatz für professionelle medizinische Beratung, Diagnose oder Behandlung.
       </div>
     </div>
   );

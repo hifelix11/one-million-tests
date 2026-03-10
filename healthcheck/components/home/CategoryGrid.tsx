@@ -10,7 +10,7 @@ export default function CategoryGrid({ categories }: CategoryGridProps) {
   return (
     <section className="py-12">
       <h2 className="text-2xl font-bold text-gray-900 text-center mb-8">
-        Quiz Categories
+        Test-Kategorien
       </h2>
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {categories.map(({ category, count }) => (
@@ -23,7 +23,7 @@ export default function CategoryGrid({ categories }: CategoryGridProps) {
               {CATEGORY_LABELS[category] ?? category}
             </h3>
             <p className="mt-1 text-sm text-gray-500">
-              {count} {count === 1 ? "quiz" : "quizzes"} available
+              {count} {count === 1 ? "Test" : "Tests"} verfügbar
             </p>
           </Link>
         ))}

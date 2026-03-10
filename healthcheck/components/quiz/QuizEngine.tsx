@@ -81,10 +81,10 @@ export default function QuizEngine({ quiz }: QuizEngineProps) {
               disabled={currentQuestion === 0}
               className="text-sm text-gray-500 hover:text-gray-700 disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
             >
-              &larr; Previous
+              &larr; Zurück
             </button>
             <span className="text-xs text-gray-400">
-              Select an option to continue
+              Wählen Sie eine Option, um fortzufahren
             </span>
           </div>
         </div>
@@ -98,13 +98,13 @@ export default function QuizEngine({ quiz }: QuizEngineProps) {
               onClick={handleStart}
               className="rounded-lg border-2 border-teal-600 px-6 py-2.5 text-sm font-semibold text-teal-700 transition-colors hover:bg-teal-50"
             >
-              Retake Quiz
+              Test wiederholen
             </button>
           </div>
           {quiz.relatedSlugs.length > 0 && (
             <div className="mt-8">
               <h3 className="text-base font-semibold text-gray-900 mb-3">
-                Related Assessments
+                Verwandte Tests
               </h3>
               <div className="flex flex-wrap gap-2">
                 {quiz.relatedSlugs.map((slug) => (

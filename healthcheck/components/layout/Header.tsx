@@ -9,16 +9,16 @@ export default function Header() {
         </Link>
         <nav className="flex items-center gap-6 text-sm font-medium text-gray-600">
           <Link href="/" className="hover:text-teal-700 transition-colors">
-            Home
+            Startseite
           </Link>
           <Link
             href="/categories/vitamins-minerals"
             className="hover:text-teal-700 transition-colors"
           >
-            Quizzes
+            Tests
           </Link>
           <Link href="/about" className="hover:text-teal-700 transition-colors">
-            About
+            Über uns
           </Link>
         </nav>
       </div>

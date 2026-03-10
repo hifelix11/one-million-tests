@@ -18,10 +18,10 @@ export default function QuizIntro({
         onClick={onStart}
         className="inline-flex items-center rounded-lg bg-teal-600 px-8 py-3 text-base font-semibold text-white shadow-sm transition-colors hover:bg-teal-700 focus:outline-none focus:ring-2 focus:ring-teal-500 focus:ring-offset-2"
       >
-        Start Assessment
+        Test starten
       </button>
       <p className="mt-3 text-xs text-gray-400">
-        10 questions &middot; Takes about 2 minutes
+        10 Fragen &middot; Dauert etwa 2 Minuten
       </p>
     </div>
   );

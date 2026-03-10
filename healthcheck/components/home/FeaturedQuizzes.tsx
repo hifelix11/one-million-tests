@@ -9,7 +9,7 @@ export default function FeaturedQuizzes({ quizzes }: FeaturedQuizzesProps) {
   return (
     <section className="py-12">
       <h2 className="text-2xl font-bold text-gray-900 text-center mb-8">
-        Popular Assessments
+        Beliebte Tests
       </h2>
       <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {quizzes.map((quiz) => (
@@ -25,7 +25,7 @@ export default function FeaturedQuizzes({ quizzes }: FeaturedQuizzesProps) {
               {quiz.description}
             </p>
             <span className="mt-4 inline-block text-sm font-medium text-teal-600 group-hover:text-teal-700">
-              Take the quiz &rarr;
+              Zum Test &rarr;
             </span>
           </Link>
         ))}
