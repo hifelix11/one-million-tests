@@ -10,6 +10,9 @@ export const metadata: Metadata = {
 export default function AboutPage() {
   return (
     <div className="py-10 mx-auto max-w-3xl">
+      <p className="text-xs font-semibold uppercase tracking-widest text-gray-500 mb-2">
+        Über uns
+      </p>
       <h1 className="text-3xl font-bold text-gray-900">
         Über HealthCheck
       </h1>
@@ -18,9 +21,9 @@ export default function AboutPage() {
         <MedicalDisclaimer />
       </div>
 
-      <section className="mt-10">
+      <section className="mt-12 rounded-2xl bg-cream p-6">
         <h2 className="text-xl font-bold text-gray-900">Unsere Mission</h2>
-        <p className="mt-3 text-gray-600">
+        <p className="mt-3 text-gray-600 leading-relaxed">
           HealthCheck bietet kostenlose, wissenschaftsbasierte Gesundheits-Selbsttests,
           um Einzelpersonen zu helfen, potenzielle Nährstoffmängel und
           Gesundheitsprobleme zu erkennen. Unser Ziel ist es, Menschen mit Wissen zu
@@ -28,15 +31,15 @@ export default function AboutPage() {
         </p>
       </section>
 
-      <section className="mt-10">
+      <section className="mt-8 rounded-2xl bg-cream p-6">
         <h2 className="text-xl font-bold text-gray-900">Methodik</h2>
-        <p className="mt-3 text-gray-600">
+        <p className="mt-3 text-gray-600 leading-relaxed">
           Jeder Test wird auf Grundlage veröffentlichter klinischer Screening-Kriterien,
           begutachteter Forschung und etablierter Diagnoserichtlinien von
           Organisationen wie der WHO, den NIH und großen medizinischen Fachzeitschriften entwickelt. Wir
           verweisen auf die spezifische wissenschaftliche Grundlage jedes Tests auf seiner Seite.
         </p>
-        <p className="mt-3 text-gray-600">
+        <p className="mt-3 text-gray-600 leading-relaxed">
           Unsere Tests verwenden ein Bewertungsmodell für Symptome und Risikofaktoren. Jede Frage
           bewertet einen bestimmten klinischen Indikator, und die Antworten werden auf einer
           Skala von 0–3 bewertet, die Schweregrad oder Häufigkeit widerspiegelt. Die Gesamtpunktzahl wird
@@ -45,7 +48,7 @@ export default function AboutPage() {
         </p>
       </section>
 
-      <section className="mt-10">
+      <section className="mt-8 rounded-2xl bg-cream p-6">
         <h2 className="text-xl font-bold text-gray-900">Einschränkungen</h2>
         <ul className="mt-3 list-disc list-inside space-y-2 text-gray-600">
           <li>
@@ -68,11 +71,11 @@ export default function AboutPage() {
         </ul>
       </section>
 
-      <section className="mt-10">
+      <section className="mt-8 rounded-2xl bg-cream p-6">
         <h2 className="text-xl font-bold text-gray-900">
           Medizinischer Haftungsausschluss
         </h2>
-        <div className="mt-3 text-gray-600 space-y-3">
+        <div className="mt-3 text-gray-600 space-y-3 leading-relaxed">
           <p>
             Die Inhalte auf HealthCheck werden ausschließlich zu Informations- und
             Bildungszwecken bereitgestellt. Sie sind nicht als Ersatz für
@@ -93,9 +96,9 @@ export default function AboutPage() {
         </div>
       </section>
 
-      <section className="mt-10">
+      <section className="mt-8 rounded-2xl bg-cream p-6">
         <h2 className="text-xl font-bold text-gray-900">Datenschutz</h2>
-        <p className="mt-3 text-gray-600">
+        <p className="mt-3 text-gray-600 leading-relaxed">
           HealthCheck erhebt, speichert oder übermittelt keine Ihrer Testantworten.
           Die gesamte Testverarbeitung erfolgt vollständig in Ihrem Browser. Wir
           verwenden keine Cookies zur Nachverfolgung und geben keine persönlichen Daten

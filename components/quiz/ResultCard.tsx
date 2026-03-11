@@ -41,7 +41,7 @@ export default function ResultCard({ result, score, maxScore }: ResultCardProps)
 
   return (
     <div className="animate-fadeIn">
-      <div className={`rounded-xl border-2 ${colors.border} ${colors.bg} p-6`}>
+      <div className={`rounded-2xl border-2 ${colors.border} ${colors.bg} p-6`}>
         <h2 className={`text-xl font-bold ${colors.text}`}>{result.title}</h2>
         <div className="mt-4 flex items-center gap-4">
           <div className="flex-1">
@@ -71,7 +71,7 @@ export default function ResultCard({ result, score, maxScore }: ResultCardProps)
         </ul>
       </div>
 
-      <div className="mt-6 rounded-lg border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-800">
+      <div className="mt-6 rounded-xl bg-cream px-4 py-3 text-sm text-gray-600">
         Dieses Ergebnis basiert auf Ihren selbst angegebenen Symptomen und ist kein Ersatz für professionelle medizinische Beratung, Diagnose oder Behandlung.
       </div>
     </div>

@@ -50,22 +50,25 @@ export default async function QuizPage({ params }: PageProps) {
             <QuizEngine quiz={quiz} />
           </div>
 
-          {/* FAQ Section - static HTML for SEO */}
+          {/* FAQ Section */}
           <section className="mt-16">
-            <h2 className="text-xl font-bold text-gray-900">
+            <p className="text-xs font-semibold uppercase tracking-widest text-gray-500 mb-2">
+              FAQ
+            </p>
+            <h2 className="text-xl font-bold text-gray-900 mb-6">
               Häufig gestellte Fragen
             </h2>
-            <dl className="mt-4 space-y-6">
+            <dl className="space-y-4">
               {quiz.faq.map((item, i) => (
-                <div key={i}>
+                <div key={i} className="rounded-xl bg-cream p-5">
                   <dt className="font-semibold text-gray-900">{item.question}</dt>
-                  <dd className="mt-1 text-sm text-gray-600">{item.answer}</dd>
+                  <dd className="mt-2 text-sm text-gray-600">{item.answer}</dd>
                 </div>
               ))}
             </dl>
           </section>
 
-          {/* Related Quizzes - internal links for SEO */}
+          {/* Related Quizzes */}
           {quiz.relatedSlugs.length > 0 && (
             <section className="mt-12">
               <h2 className="text-xl font-bold text-gray-900">
@@ -76,7 +79,7 @@ export default async function QuizPage({ params }: PageProps) {
                   <Link
                     key={s}
                     href={`/tests/${s}`}
-                    className="rounded-full border border-gray-200 px-4 py-2 text-sm text-gray-600 transition-colors hover:border-teal-300 hover:text-teal-700"
+                    className="rounded-full border border-gray-200 px-4 py-2 text-sm text-gray-600 transition-colors hover:border-green-300 hover:text-green-700"
                   >
                     {s
                       .split("-")

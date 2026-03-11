@@ -16,7 +16,7 @@ export default function QuizIntro({
       <p className="text-sm text-gray-500 mb-6">{scientificBasis}</p>
       <button
         onClick={onStart}
-        className="inline-flex items-center rounded-lg bg-teal-600 px-8 py-3 text-base font-semibold text-white shadow-sm transition-colors hover:bg-teal-700 focus:outline-none focus:ring-2 focus:ring-teal-500 focus:ring-offset-2"
+        className="inline-flex items-center rounded-full bg-green-600 px-8 py-3 text-base font-semibold text-white shadow-sm transition-colors hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2"
       >
         Test starten
       </button>

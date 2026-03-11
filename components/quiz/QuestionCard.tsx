@@ -26,17 +26,17 @@ export default function QuestionCard({
             <button
               key={optionId}
               onClick={() => onSelect(option.value)}
-              className={`w-full text-left rounded-lg border-2 px-4 py-3 text-sm transition-all duration-200 ${
+              className={`w-full text-left rounded-xl border-2 px-4 py-3 text-sm transition-all duration-200 ${
                 isSelected
-                  ? "border-teal-600 bg-teal-50 text-teal-900"
-                  : "border-gray-200 bg-white text-gray-700 hover:border-teal-300 hover:bg-teal-50/50"
+                  ? "border-green-600 bg-green-50 text-green-900"
+                  : "border-transparent bg-cream text-gray-700 hover:border-green-300 hover:bg-green-50/50"
               }`}
             >
               <span className="flex items-center gap-3">
                 <span
                   className={`flex h-5 w-5 shrink-0 items-center justify-center rounded-full border-2 text-xs font-bold transition-colors ${
                     isSelected
-                      ? "border-teal-600 bg-teal-600 text-white"
+                      ? "border-green-600 bg-green-600 text-white"
                       : "border-gray-300 text-gray-400"
                   }`}
                 >

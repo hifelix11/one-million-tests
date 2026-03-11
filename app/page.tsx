@@ -24,11 +24,14 @@ export default function HomePage() {
       <FeaturedQuizzes quizzes={featured} />
       <CategoryGrid categories={categories} />
 
-      <section className="py-12 text-center">
-        <h2 className="text-2xl font-bold text-gray-900 mb-8">So funktioniert es</h2>
+      <section className="py-14">
+        <p className="text-xs font-semibold uppercase tracking-widest text-gray-500 mb-2 text-center">
+          Anleitung
+        </p>
+        <h2 className="text-2xl font-bold text-gray-900 mb-10 text-center">So funktioniert es</h2>
         <div className="grid grid-cols-1 gap-8 sm:grid-cols-3">
-          <div>
-            <div className="mx-auto flex h-12 w-12 items-center justify-center rounded-full bg-teal-100 text-teal-700 font-bold text-lg">
+          <div className="text-center">
+            <div className="mx-auto flex h-12 w-12 items-center justify-center rounded-full bg-green-600 text-white font-bold text-lg">
               1
             </div>
             <h3 className="mt-4 font-semibold text-gray-900">Wählen Sie einen Test</h3>
@@ -36,8 +39,8 @@ export default function HomePage() {
               Wählen Sie ein Gesundheitsthema aus unseren wissenschaftsbasierten Tests.
             </p>
           </div>
-          <div>
-            <div className="mx-auto flex h-12 w-12 items-center justify-center rounded-full bg-teal-100 text-teal-700 font-bold text-lg">
+          <div className="text-center">
+            <div className="mx-auto flex h-12 w-12 items-center justify-center rounded-full bg-green-600 text-white font-bold text-lg">
               2
             </div>
             <h3 className="mt-4 font-semibold text-gray-900">
@@ -47,8 +50,8 @@ export default function HomePage() {
               Bewerten Sie ehrlich Ihre Symptome und Lebensstilfaktoren. Dauert etwa 2 Minuten.
             </p>
           </div>
-          <div>
-            <div className="mx-auto flex h-12 w-12 items-center justify-center rounded-full bg-teal-100 text-teal-700 font-bold text-lg">
+          <div className="text-center">
+            <div className="mx-auto flex h-12 w-12 items-center justify-center rounded-full bg-green-600 text-white font-bold text-lg">
               3
             </div>
             <h3 className="mt-4 font-semibold text-gray-900">

@@ -96,7 +96,7 @@ export default function QuizEngine({ quiz }: QuizEngineProps) {
           <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:justify-center">
             <button
               onClick={handleStart}
-              className="rounded-lg border-2 border-teal-600 px-6 py-2.5 text-sm font-semibold text-teal-700 transition-colors hover:bg-teal-50"
+              className="rounded-full border-2 border-green-600 px-6 py-2.5 text-sm font-semibold text-green-700 transition-colors hover:bg-green-50"
             >
               Test wiederholen
             </button>
@@ -111,7 +111,7 @@ export default function QuizEngine({ quiz }: QuizEngineProps) {
                   <Link
                     key={slug}
                     href={`/tests/${slug}`}
-                    className="rounded-full border border-gray-200 px-4 py-1.5 text-sm text-gray-600 transition-colors hover:border-teal-300 hover:text-teal-700"
+                    className="rounded-full border border-gray-200 px-4 py-1.5 text-sm text-gray-600 transition-colors hover:border-green-300 hover:text-green-700"
                   >
                     {slug
                       .split("-")

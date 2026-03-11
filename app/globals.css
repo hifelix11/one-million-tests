@@ -2,6 +2,8 @@
 
 @theme inline {
   --font-sans: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --color-cream: #f7f5f0;
+  --color-cream-dark: #edeae3;
 }
 
 body {

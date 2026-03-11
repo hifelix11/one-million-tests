@@ -2,8 +2,8 @@ import Link from "next/link";
 
 export default function Footer() {
   return (
-    <footer className="border-t border-gray-200 bg-gray-50 mt-16">
-      <div className="mx-auto max-w-5xl px-4 py-10">
+    <footer className="bg-cream mt-16">
+      <div className="mx-auto max-w-6xl px-6 py-12">
         <div className="grid grid-cols-1 gap-8 sm:grid-cols-3">
           <div>
             <h3 className="font-semibold text-gray-900">HealthCheck</h3>
@@ -15,20 +15,20 @@ export default function Footer() {
             <h3 className="font-semibold text-gray-900">Schnellzugriff</h3>
             <ul className="mt-2 space-y-1 text-sm text-gray-500">
               <li>
-                <Link href="/" className="hover:text-teal-700">
+                <Link href="/" className="hover:text-green-700 transition-colors">
                   Startseite
                 </Link>
               </li>
               <li>
                 <Link
                   href="/categories/vitamins-minerals"
-                  className="hover:text-teal-700"
+                  className="hover:text-green-700 transition-colors"
                 >
                   Alle Tests
                 </Link>
               </li>
               <li>
-                <Link href="/about" className="hover:text-teal-700">
+                <Link href="/about" className="hover:text-green-700 transition-colors">
                   Über uns &amp; Methodik
                 </Link>
               </li>
@@ -41,7 +41,7 @@ export default function Footer() {
             </p>
           </div>
         </div>
-        <div className="mt-8 border-t border-gray-200 pt-6 text-center text-xs text-gray-400">
+        <div className="mt-10 border-t border-cream-dark pt-6 text-center text-xs text-gray-400">
           &copy; {new Date().getFullYear()} HealthCheck. Alle Rechte vorbehalten. Nur zu Bildungszwecken.
         </div>
       </div>
