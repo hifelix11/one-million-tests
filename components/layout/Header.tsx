@@ -12,7 +12,7 @@ export default function Header() {
             Startseite
           </Link>
           <Link
-            href="/categories/vitamins-minerals"
+            href="/tests"
             className="hover:text-green-700 transition-colors"
           >
             Tests

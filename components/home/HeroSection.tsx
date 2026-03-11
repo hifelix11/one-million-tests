@@ -14,7 +14,7 @@ export default function HeroSection() {
       </p>
       <div className="mt-10 flex gap-4">
         <Link
-          href="/categories/vitamins-minerals"
+          href="/tests"
           className="inline-flex items-center rounded-full bg-green-600 px-7 py-3 text-sm font-semibold text-white shadow-sm transition-colors hover:bg-green-700"
         >
           Alle Tests ansehen
